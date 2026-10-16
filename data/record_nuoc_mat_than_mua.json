@@ -1,0 +1,34 @@
+{
+  "recordId": "record_nuoc_mat_than_mua",
+  "title": "Nước Mắt Thần Mưa",
+  "subtitle": "Vũ Khí",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791985165269_kx0brq",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Nước Mắt Thần Mưa",
+          "url": "nuoc_mat_than_mua"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Weapon (longsword), Truyền thuyết (requires attunement), melee weapon, 1d8 slashing - versatile (1d10)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Nước Mắt Thần Mưa là một thanh kiếm có tri giác, độ sắc bén tầm trung với lưỡi kiếm màu hổ phách và những viên đá quý quý được gắn ở chuôi kiếm. Nó chỉ là một thanh kiếm bình thường cho đến khi gặp người có duyên.\n\nNhững sinh vật evil không thể attunement với Nước Mắt Thần Mưa, bất kỳ sinh vật evil nào cố gắng làm như vậy sẽ phải chịu 20 psychic damage. Lưỡi kiếm màu hổ phách của vũ khí không thể bị cùn hoặc hư hỏng và thanh kiếm không thể dịch chuyển đến bất cứ đâu nếu không có người sử dụng nó trong khi cả hai liên kết với nhau.\n\n**Phép thuật.** Thanh kiếm có 6 charges và lấy lại 1d4 + 2 charges đã sử dụng hàng ngày vào lúc bình minh. Một sinh vật liên kết với thanh kiếm có thể sử dụng một hành động 1 hoặc nhiều charges để thực hiện một trong những phép thuật sau từ nó mà không cần thành phần vật chất: Fly (2 charges), Water Breathing (3 charges) hoặc Transport Via Plants (4 charges).\n\n**Cảm giác.** Thanh kiếm có Intelligent là 17, Wisdom là 12 và Charisma là 20. Nó có khả năng nghe và nhìn thật trong phạm vi 120 feet. Nó giao tiếp bằng thần giao cách cảm với chủ nhân. Thanh kiếm có thể nói, đọc và hiểu Common, Draconic, Elvish và Sylvan. Ngoài ra, thanh kiếm có thể xác định giá trị thực sự của bất kỳ viên đá quý nào trong phạm vi 5 feet xung quanh nó.\n\n**Nhân cách.** Nước Mắt Thần Mưa ngưỡng mộ cái đẹp, âm nhạc, mỹ thuật và thơ ca. Thanh kiếm luôn cố gắng cải thiện vẻ ngoài của nó. Nó khao khát những viên đá quý và luôn tìm kiếm những viên đá đẹp hơn để tô điểm cho mình. Trên hết, nó khao khát được quay trở lại những khu rừng mưa xứ Tikva, nơi nó được tạo ra. Nếu mục tiêu của người sử dụng nó đi ngược lại với mục tiêu của nó, Nước Mắt Thần Mưa sẽ cố gắng kiểm soát người sử dụng nó và tự tìm đường trở về bằng phép thuật ***transport via plants*** để quay trở lại nơi nó đến.\n\nKhi bạn tấn công một sinh vật bằng vũ khí này, nếu to hit bằng 20 (đã cộng mod), mục tiêu đó sẽ nhận thêm 14 sát thương chém. Sau đó bạn được tung thêm d20 nữa, nếu kết quả là 20, bạn sẽ chặt đứt một trong các chi của mục tiêu và hậu quả của việc đó sẽ do DM xác định. Nếu sinh vật không có chi để cắt đứt thì bạn sẽ cắt một phần cơ thể của nó.\n\n**Linh hoạt.** Loại vũ khí này có thể được sử dụng bằng một hoặc hai tay. Giá trị sát thương trong ngoặc xuất hiện cùng với thuộc tính—sát thương khi vũ khí được sử dụng bằng hai tay để thực hiện một cuộc tấn công cận chiến."
+        }
+      ]
+    }
+  ]
+}

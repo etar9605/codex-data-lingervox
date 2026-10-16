@@ -1,0 +1,34 @@
+{
+  "recordId": "record_su_bao_ve_cua_erythia",
+  "title": "Sự bảo vệ của Erythia",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986626032_4uv3s5",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Sự bảo vệ của Erythia",
+          "url": "su_bao_ve_cua_erythia"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Đá quý, Hiếm, Equires attunement*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tổng cộng gồm 8 viên tinh thể. Nếu bạn là một spellcaster, bạn có thể dùng viên tinh thể như một spellcasting focus. Mỗi viên sẽ phòng ngự trước một thuộc tính.\n\n**Damage (Acid, Fire, Cold, Lightning).** Nếu bạn đang giữ viên tinh thể trong khi bị buộc phải nhận damage thuộc nhóm này, bạn có thể sử dụng reaction dể giảm 1d4 damage.\n\n**Condition (Paralyzed, Blinded, Exhaustion, Charmed).** Nếu bạn đang giữ viên tinh thể trong khi bị dính hiệu ứng thuộc nhóm này, bạn có thể sử dụng reaction để cộng thêm 1d4 vào các check hoặc save mà DM yêu cầu."
+        }
+      ]
+    }
+  ]
+}

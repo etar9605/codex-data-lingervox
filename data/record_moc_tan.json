@@ -1,0 +1,36 @@
+{
+  "recordId": "record_moc_tan",
+  "title": "Mộc Tán",
+  "subtitle": "Vũ Khí",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [
+    "Wood Umbrella"
+  ],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791984674865_l6mlba",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Mộc Tán",
+          "url": "moc_tan"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Weapon: Simple, Melee, 50gp, 2 lb. --- 1d8 piercing -- versatile (1d10 bludgeoning), thrown (20/60) - finesse*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Một thanh kiếm ẩn sau cán ô, rút kiếm từ cán được tính là free action.\n\nThành thạo với Ô cho phép bạn thêm proficiency bonus của bạn vào bất cứ attack nào bạn thực hiện bằng Ô.\n\n**Prerequisites:** Bạn phải có Proficiency với Ô và Dexterity tối thiểu là 13 để có thể sử dụng vũ khí này.\n\n**Finesse:** Khi attack bằng finesse weapon, bạn có thể chọn sử dụng Strength hoặc Dexterity modifier cho attack và damage rolls. Bạn phải dùng cùng modifier cho cả 2 rolls.\n\n**Thrown:** Bạn có thể ném vũ khí để thực hiện một ranged attack nếu Strength của bạn từ 13 trở lên. Nếu vũ khí là một vũ khí cận chiến, bạn phải sử dụng ability modifier cho attack roll và damage roll giống như khi bạn melee attack bằng vũ khí này.\n\n**Versatile:** Vũ khí này có thể được sử dụng bằng một hoặc hai tay. Giá trị sát thương trong ngoặc đơn xuất hiện cùng thuộc tính--sát thương khi vũ khí được sử dụng bằng hai tay để tấn công cận chiến."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "recordId": "record_thi_nhieu",
+  "title": "Thi Nhiễu",
+  "subtitle": "Etar's Manuscript",
+  "category": "spells",
+  "categoryName": "Ma Thuật",
+  "typeLabel": "OFFICIAL RECORD · SPELL",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791990886573_i9argx",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "*Cantrip necromancy. (Vô nhân, Vũ công)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Casting time:** 1 action\n\n**Range:** 120ft\n\n**Components:** V, S\n\n**Duration:** Instantaneous\n\n**Description:** Bạn tạo ra một tia ma pháp tấn công một sinh vật tầm xa, nếu trúng, sinh vật phải nhận 1d8 sát thương hoại tử.\n\n**At Higher Levels:** Từ level 5 trở lên, sát thương hoại tử gây ra là 2d8."
+        }
+      ]
+    }
+  ]
+}

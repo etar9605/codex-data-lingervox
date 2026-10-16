@@ -1,0 +1,155 @@
+{
+  "recordId": "record_kieu_nguyet_lam",
+  "title": "Kiều Nguyệt Lâm",
+  "subtitle": "Nguyệt Mẫu · Lâm Nguyệt Thần",
+  "category": "factions",
+  "typeLabel": "OFFICIAL RECORD · GODDESS",
+  "aliases": [
+    "Nguyệt Mẫu",
+    "Lâm Nguyệt Công Chúa",
+    "Nguyệt Thần",
+    "Thần Mặt Trăng"
+  ],
+  "lead": "Nữ thần của mặt trăng và những khu rừng. Cai quản các ánh sáng trong đêm, sự lãng mạn và là vị thần bảo hộ cho những cô gái dưới 27 tuổi.",
+  "summary": "",
+  "revision": 1,
+  "relationships": [
+    {
+      "targetRecordId": "",
+      "name": "Illiadvier",
+      "relation": "Hảo hữu",
+      "detail": ""
+    },
+    {
+      "targetRecordId": "",
+      "name": "Tian Xiao",
+      "relation": "Hảo hữu",
+      "detail": ""
+    },
+    {
+      "targetRecordId": "",
+      "name": "Rate",
+      "relation": "???",
+      "detail": ""
+    },
+    {
+      "targetRecordId": "",
+      "name": "Tet-enchan",
+      "relation": "Đồng niên",
+      "detail": ""
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec_1791620094790_g40lws",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Nguyệt Thần",
+          "url": "kieu-nguyet-lam"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810510471_3kamj6",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Kiều Nguyệt Lâm còn được biết đến như Nguyệt Mẫu hay Lâm Nguyệt Thần, từ năm VH thứ 113 trước Thời Kì Sụp Đổ, cô là một nữ thần vĩ đại được thờ phụng rất phổ biến trên khắp Vainheim. Đền thờ và tín đồ trải dài khắp rìa eo biển phía Nam. Cho đến trước Thời Kì Sụp Đổ, người ta tin rằng Lâm Nguyệt Thần còn bảo hộ cho cả những cô gái dưới hai mươi bảy tuổi và cả sự lãng mạn trên toàn cõi Vainheim.\n\nTrong các tư liệu văn chương, tranh vẽ và điêu khắc, Nguyệt Thần được miêu tả là một cô gái xinh đẹp với mái tóc dài màu lục của cây cối và những khu rừng. Thay vì tôn kính gọi một tiếng Nguyệt Mẫu bởi những điều răn hiền từ, rất nhiều tín đồ lại yêu thương gọi cô bằng danh xưng Lâm Nguyệt Công Chúa. Những cô gái tin rằng trước khi làm lễ trưởng thành, người nào nhận được chúc phúc từ Lâm Nguyệt Công Chúa sẽ có một khuôn mặt xinh đẹp và dáng người cân đối.\n\nBiểu tượng thánh của Nguyệt Thần trong đêm tối thường phát ra ánh sáng mờ như ánh sáng của những con đom đóm bất kể nó có được thanh tẩy qua hay chưa."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810589826_3be0wp",
+      "title": "Cõi thiêng liêng",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Các tài liệu thường viết rằng hiện thân của Lâm Nguyệt Thần là những con đom đóm, những khu rừng nơi có nhiều đom đóm tập trung lại chính là nơi cô đang hiện diện. Thực chất, Kiều Nguyệt Lâm cư ngụ tại Vườn Đom Đóm trong một nơi được gọi là Học viện Vainheim. Trung tâm của Vườn Đom Đóm, tại một ngôi nhà gỗ với những cây nấm dạ quang và bộ bàn ghế là những viên đá lớn nhãn nhụi."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810609368_z9c5ng",
+      "title": "Các mối quan hệ",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Đồng minh nổi bật của Kiều Nguyệt Lâm là Illiadvier và Tian Xiao. Hai vị thần này thường giúp đỡ cô trong những trận xung đột với Rate kể từ khi còn là học viên ở Học viện Vainheim. Trong những cuộc xung đột, khi có ai đó hỏi về việc vì sao Tian Xiao và Illiadvier luôn đứng về phía Kiều Nguyệt Lâm, bọn họ thường sẽ nói rằng Nguyệt Thần quá xinh đẹp khiến họ khó có thể nảy sinh sự chán ghét.\n\nKhông phải là kẻ thù, hoặc có lẽ phải, Rate với tính tình kiêu ngạo và hiếu chiến vẫn luôn tạo những rắc rối dù lớn hay nhỏ và vui sướng khi Kiều Nguyệt Lâm buộc phải đi giải quyết những hậu quả của việc đó. Người ta đồn rằng, nếu Kiều Nguyệt Lâm yếu ớt thì có lẽ đã sớm bị Rate giết chết và cô ta sẽ nói rằng đó là một xung đột không đáng kể.\n\nMột kẻ khác không hợp với Kiều Nguyệt Lâm là Tet-enchan bởi những trò nghịch ngợm không biết nặng nhẹ của cậu ta. Chính Tet cũng là kẻ gợi ý cho Kiều Nguyệt Lâm ra khỏi cổng và đi tìm sự giúp đỡ của Tinh Linh Hộ Thần."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810627054_uy2b1z",
+      "title": "Dị giáo",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Một phần nhỏ tín đồ cực đoan của Lâm Nguyệt Thần tin rằng trong đêm tối, toàn bộ ánh sáng họ nhìn thấy đều là phước lành của nữ thần và thường tổ chức các buổi lễ để ca ngợi Nguyệt Mẫu và báng bổ những vị thần ánh sáng khác."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810642423_0ap2ip",
+      "title": "Niềm tin",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Một vài truyền thuyết cho rằng nếu các cặp đôi trao nhau lời thề khi Nguyệt Mẫu hiện diện bởi đàn đom đóm trong đêm trăng sẽ không có xung đột trong hôn nhân.\n\nNhững viên đá mặt trăng trắng được những tín đồ tin là giọt nước mắt linh thiêng của Lâm Nguyệt Thần.\n\nVới những thợ mỏ, nếu tìm thấy ngọc lục bảo ở một mỏ khoáng không phải chuyên khai thác ngọc lục bảo thì viên đá đó chính là sự chúc phúc của Nguyệt Thần và những viên đá này thường có giá rất cao."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810652617_5hqnps",
+      "title": "Thời Đại Thần Thánh",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Kiều Nguyệt Lâm sinh ra là một tạo tác của Đấng sáng tạo, là một học viên xuất sắc ở học viện Vainheim dưới sự dìu dắt của Người.\n\nMặc dù nổi tiếng với sự dịu dàng đằm thắm, Kiều Nguyệt Lâm vẫn là cái gai trong mắt Rate, người mà sau này trở thành Nữ Thần Chiến Tranh. Bọn họ chỉ đơn giản là không hợp nhau, như cái cách mà trường kiếm và quyền trượng đối đầu."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810671260_q0lzki",
+      "title": "Thời Đại Nhân Loại",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Những học viên đầu tiên cũng là những tạo tác của Đấng Sáng Tạo tốt nghiệp Học viện Vainheim, bọn họ trở thành những vị thần được Đấng Sáng Tạo ủy thác việc trông coi và xây dựng thế giới sau khi những cư dân của thế giới hình thành.\n\nKiều Nguyệt Lâm, người coi sóc và dẫn dắt nhân loại một cách ôn hòa. Hướng dẫn họ trồng hoa màu, soi sáng con đường trong đêm tối cho họ. Và tất nhiên, vẫn tiếp tục bị Nữ Thần Chiến Tranh tìm tới gây chuyện bằng việc nhân loại đấu đá lẫn nhau. Những cuộc chiến giữa các vương quốc nổ ra, lương thực không đủ cho người dân, cây cối bị tàn phá và những người phụ nữ tội nghiệp luôn cầu xin Nguyệt Thần bảo hộ cho họ.\n\nHai nữ thần vẫn không thể hòa thuận cho đến tận lúc Đấng Sáng Tạo đột nhiên biến mất."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810682920_fnytl5",
+      "title": "Cuộc Chiến Giữa Những Vị Thần",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Dưới sự biến mất của Đấng Sáng Tạo, thế giới dần mất đi phương hướng của nó. Kiều Nguyệt Lâm cùng hơn 200 thần linh khác tìm được Kẻ Ngoại Đạo và khiêu chiến yêu cầu hắn trả tự do cho Người, nhưng bọn họ đã thất bại.\n\nDưới sự vị tha mỉa mai của Kẻ Ngoại Đạo, mười ba người sống sót trong đó có Kiều Nguyệt Lâm."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810695493_80jy8l",
+      "title": "Thời Kì Sụp Đổ",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Kiều Nguyệt Lâm không thể tiếp tục nhìn những tín đồ đáng thương chết dần chết mòn bởi sự vĩnh hằng bất biến, cô đã tìm kiếm sự giúp đỡ của Tinh Linh Hộ Thần, vị thần quản lí Hành Lang Tinh Linh bên ngoài vị diện.\n\nMặc dù đã được cảnh báo việc bất cứ ngoại thần nào cũng không được phép tác động có chủ đích đến một thế giới, có nghĩa là sự giúp đỡ của Tinh Linh Hộ Thần có thể sẽ đem đến diệt vong cho những tín đồ nhưng Kiều Nguyệt Lâm vẫn quyết định thực hiện. Sau đó, không ngoài dự đoán những tín đồ cuối cùng của cô đã bị thiêu cháy bởi chính phép thuật mà cô nói rằng nó sẽ cứu rỗi cho họ."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791810705025_8ub3ph",
+      "title": "Thời Kì Vĩnh Hằng",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "[Chương này bỏ trống, chỉ toàn là giấy trắng]"
+        }
+      ]
+    }
+  ]
+}

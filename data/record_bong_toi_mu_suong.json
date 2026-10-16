@@ -1,0 +1,34 @@
+{
+  "recordId": "record_bong_toi_mu_suong",
+  "title": "Bóng tối mù sương",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791904692398_qjrgh7",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Bóng tối mù sương",
+          "url": "bong_toi_mu_suong"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Magic item, Hiếm (yêu cầu attunement)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Chiếc nhẫn đơn sắc, đơn giản dường như không bao giờ lấp lánh. Khi đeo chiếc nhẫn này, bạn có thể làm mờ ánh sáng trong khối lập phương 15 foot xung quanh mình. Bạn có thể làm cho ánh sáng mặt trời trở thành ánh sáng bình thường, ánh sáng bình thường thành ánh sáng mờ, ánh sáng mờ trở thành bóng tối. Bạn không thể làm cho mức ánh sáng sáng hơn, chỉ có thể làm ánh sáng tối hơn và ánh sáng nonmagical không thể chiếu sáng khu vực này."
+        }
+      ]
+    }
+  ]
+}

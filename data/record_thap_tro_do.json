@@ -1,0 +1,25 @@
+{
+  "recordId": "record_thap_tro_do",
+  "title": "Tháp Tro Đỏ",
+  "subtitle": "Bí Ẩn Vùng Hoang Mạc Cực Bắc",
+  "category": "places",
+  "typeLabel": "OFFICIAL RECORD · LOCATION",
+  "aliases": [
+    "Tháp Phù Thủy",
+    "Crimson Ash Spire"
+  ],
+  "lead": "Ngọn tháp sừng sững giữa biển tro xám, nơi những luồng ma lực cổ xưa bảo vệ những linh hồn bị trục xuất khỏi ánh trăng.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Bí ẩn",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ngọn tháp không có cửa vào trên bộ, chỉ có thể tiếp cận bằng những cánh cổng ma pháp được kiểm soát bởi Tel-charvia."
+        }
+      ]
+    }
+  ]
+}

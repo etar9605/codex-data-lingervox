@@ -1,0 +1,48 @@
+{
+  "recordId": "record_lord_of_lies",
+  "title": "Chúa Tể Dối Trá",
+  "subtitle": "Vị Thần Của Sự Thật & Gian Dối",
+  "category": "factions",
+  "typeLabel": "OFFICIAL RECORD · DEITY",
+  "aliases": [
+    "Vị Thần Hai Mặt",
+    "Chúa Tể Đêm Đen"
+  ],
+  "lead": "Cổ thần quyền năng đứng giữa ranh giới của chân lý và dối lừa, kẻ chi phối những giao ước bí mật nơi đáy vực thẳm.",
+  "revision": 2,
+  "relationships": [
+    {
+      "targetId": "record_ayinviel",
+      "name": "Ayinviel",
+      "relation": "Kẻ Phản Bội Khế Ước",
+      "detail": "Thuật sĩ từng phụng sự hàng trăm năm trước khi đoạt lấy bí mật thời quang và trốn thoát.",
+      "subtitle": "Hiền Triết Ảo Ảnh · Á Thần"
+    },
+    {
+      "targetId": "record_khe_uoc_doi_tra",
+      "name": "Khế Ước Dối Trá",
+      "relation": "Thánh Vật Trói Buộc",
+      "detail": "Bản giao ước khắc bằng máu á thần dùng để ràng buộc linh hồn những kẻ cầu xin phép màu.",
+      "subtitle": "Bản Giao Ước Bất Khả Hủy"
+    },
+    {
+      "targetId": "record_tel_charvia",
+      "name": "Tel-charvia",
+      "relation": "Kẻ Cản Đường",
+      "detail": "Phù Thủy Tro Đỏ đã dùng cổ ngữ che giấu kẻ phản bội khỏi tai mắt của giáo phái.",
+      "subtitle": "Phù Thủy Tro Đỏ"
+    }
+  ],
+  "sections": [
+    {
+      "id": "cult",
+      "title": "Giáo phái",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Không phải bất kỳ ai cũng có thể diện kiến ngài. Không có đền thờ công khai dành cho ngài; ngài chỉ hiện diện trong những lời thề ngầm và những khát vọng không thể thốt nên lời."
+        }
+      ]
+    }
+  ]
+}

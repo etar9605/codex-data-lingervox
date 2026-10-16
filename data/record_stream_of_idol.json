@@ -1,0 +1,75 @@
+{
+  "recordId": "record_stream_of_idol",
+  "title": "Stream of Idol (Dòng Thần Tượng)",
+  "subtitle": "",
+  "category": "subclasses",
+  "categoryName": "Vũ Kỹ",
+  "typeLabel": "OFFICIAL RECORD · SUBCLASS",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791638041905_b73txw",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Từ level 1, bạn được proficiency với skill Performance và Athletics. Nếu bạn đã có proficiency với hai skill này bạn có thể gấp đôi proficiency."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791638044972_jvwls9",
+      "title": "Velvet Seduction (Cám Dỗ Tinh Tế)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Chuyển động của cơ thể bạn khiến kẻ thù của bạn bị phân tâm, bắt đầu từ level 3, AC của bạn bằng 10 + Dexterity modifier + Charisma modifier + Con modifier khi không mặc armor và không cầm shield."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791638055764_q11dka",
+      "title": "In the Spotlight (Trong Ánh Hào Quang)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Từ level 3, khi bạn tham gia chiến trường, bạn có thể thu hút mọi sự chú ý. Trong turn của mình, như một action, bạn có thể đánh vào một vật thể để thu hút sự chú ý của mọi creature trong vòng 60ft xung quanh và có thể nhìn thấy bạn. Mọi sinh vật thù địch trong phạm vi phải thực hiện một Charisma saving throw với Spell Save DC của bạn. Bất kỳ mục tiêu nào fail save sẽ không thể sử dụng action để hide, stealth, turn invisible và tất cả những hành động với mục đích thoát khỏi tầm nhìn của bạn, miễn là hiệu ứng vẫn còn. Hiệu ứng này kéo dài 1 phút và bạn có thể thực hiện việc này với số lần bằng với điểm proficiency của mình.\n\nTrong mỗi turn sau đó của bạn, bạn có thể chọn một creature bị ảnh hưởng bởi hiệu ứng ban đầu của In the Spotlight để làm nó awed như một bonus action. Nếu creature fails save, Awed Effect (Hiệu ứng Chấn Nhiếp) ngay lập tức có tác dụng lên mục tiêu. Bắt đầu từ level 5, attacks của bạn có advantage với các targets đang chịu tác dụng của In the Spotlight hoặc bất kỳ Awed Effect nào. Bạn có thể sử dụng Awed Effect với tổng số lần tương đương Charisma modifier của bạn trước long rest. Các Awed Effect bao gồm:\n\n*Gaze of Affection (Ánh Mắt Đưa Tình):* Creature phải thực hiện một Charisma saving throw với spell save DC của bạn để chống lại hiệu ứng, nếu fails save creature bị charm bởi bạn. Một sinh vật bị charm bởi hiệu ứng này có thể thực hiện một Wisdom saving throw với Spell Save DC của bạn để chống lại hiệu ứng vào cuối mỗi turn của chúng. Hiệu ứng này kết thúc nếu bạn target vào một creature khác đang có Awed Effect hoặc creature successful Wisdom saving throw.\n\n*Enchanting Invitation (Lời Mời Mị Hoặc):* Creature phải thực hiện một Wisdom saving throw với Spell Save DC của bạn để chống lại hiệu ứng hoặc phải sử dụng tất cả speed của nó để cố gắng di chuyển đến 5ft cạnh bạn. Nếu creature dừng lại trong khoảng cách 5ft với bạn, bạn có thể grapple nó. Creatures bị charm bởi bạn trước đó sẽ automatically fail save graple này, nếu trước đó không bị charm bởi bạn nó có thể thực hiện một Strength check với Strength check của bạn để không bị graple. Nếu bị charm bởi bạn trước đó, creature phải nhận số damage psychic bằng với Charisma modifier của bạn mỗi turn đầu của nó và vẫn bị graple. Bạn có thể kết thúc hiệu ứng này bất cứ lúc nào như một free action. Bạn không thể target một creature bị Awed Effect khác cho đến khi bạn ngừng graple. Nếu cuối turn, creature successful Wisdom saving throw và không còn bị charm bởi bạn, nó có thể Streng check với bạn để thoát khỏi graple ở turn tiếp theo của mình.\n\n*Intimidating Provocation (Dọa Dẫm Khiêu Khích):* Creature phải thực hiện Charisma saving throw với Spell Save DC của bạn ngay cả khi chúng đã save thành công để chống lại hiệu ứng ban đầu của In the Spotlight, nếu failure nó sẽ bị frightened bởi bạn. Hiệu ứng này kéo dài cho đến turn tiếp theo của creature đó. Tuy nhiên, mỗi attack thành công bằng weapon của bạn sẽ kéo dài hiệu ứng frightened thêm một round. Creature bị frightened có thể thực hiện một Charisma saving throw vào cuối turn để thoát khỏi hiệu ứng này.\n\n*Glorious End (Kết Thúc Huy Hoàng):* Sau khi dùng bonus action để kích hoạt Glorious End, một attack cận chiến tiếp theo của bạn chống lại creature được thực hiện bởi weapon hiện tại sẽ có advantage và gây thêm 1d6 thunder damage, đồng thời tất cả các creatures bị ảnh hưởng bởi In the Spotlight trong vòng 10-foot radius tính từ target sẽ phải nhận damage bằng một nửa số thunder damage đó. Tất cả các creatures bị nhận damaged bởi hiệu ứng này phải thực hiện một Charisma saving throw với Spell Save DC của bạn hoặc bị stunned đến khi end turn tiếp theo của chúng. Bạn không thể target bất kì creature nào 2 lần bằng hiệu ứng này trong cùng một encounter."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791638102433_1lw6uj",
+      "title": "Majestic Aura (Bá Khí Uy Phong)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ở level 5, bạn đã học được cách làm nhiều hơn trong khả năng của mình. Bất cứ khi nào bạn thực hiện thành công một attack chống lại một creature bằng vũ khí của mình, nó phải Strength saving throw với Spell Save DC của bạn hoặc bị move 5ft theo ý bạn. Ngoài ra, bạn có thể dùng weapon của mình găm lên cơ thể target (auto hit) và gây thêm 1d4 + Dexterity modifier slashing damage vào cuối mỗi turn của bạn chừng nào bạn còn dùng tay giữ cho weapon còn bị găm ở đó. Bạn không thể attack trong khi còn giữ weapon của mình găm trên cơ thể target (kể cả bạn có khả năng sử dụng phép thuật, attack bằng đòn đánh không cần vũ khí từ chân và sử dụng các attack khác chỉ cần một tay)."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791638116160_x6niql",
+      "title": "Final Curtain (Khúc Hạ Màn)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ở level 9, bạn học cách kết thúc màn biểu diễn một cách ngoạn mục để đạt hiệu quả tối đa. Khi bất cứ một creature, allied hoặc hostile nào bị giảm xuống 0 hit points, mọi attack bằng weapon cận chiến ở turn tiếp theo của bạn sẽ có advantage. Nếu bạn tấn công creature đã bị giảm xuống 0 hit points ở round này hoặc round trước, hãy cúi đầu và tận hưởng khoảnh khắc đoạt mạng mục tiêu, bạn nhận được thêm số temporary hit points bằng với số damage bạn gây ra. Nếu attack của bạn khiến target giảm xuống 0 hit points, bạn và mọi đồng minh tham chiến có thể nhận được 1d10 temporary hit points mỗi người. Số này tăng lên 2d10 ở level 13, 3d10 at level 16 và 4d10 ở level 19. Khi trận chiến kết thúc mà bạn vẫn còn tỉnh táo, bạn và tất cả các allies của bạn được heal bằng một nửa số temporary hit points mà họ đang có."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791638127436_0gduxc",
+      "title": "Climax Moment (Khoảnh Khắc Đỉnh Cao)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ở level 14, bạn làm chủ sân khấu và xử lý được mọi tình huống. Bạn có thể thực hiện Uyển Chuyển Như Nước mà không cần sử dụng reaction hoặc bonus action của mình tối đa ba lần cho mỗi long rest. Ngoài ra, khi bạn đang sử dụng weapon, bạn có advantage khi Acrobatics và Athletics checks."
+        }
+      ]
+    }
+  ]
+}

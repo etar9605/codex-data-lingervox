@@ -1,0 +1,34 @@
+{
+  "recordId": "record_dau_vet_bao_ho",
+  "title": "Dấu vết bảo hộ",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791984416600_rxdpw8",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Dấu Vết Bảo Hộ",
+          "url": "dau_vet_bao_ho"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Dấu vết ma thuật*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Hình xăm này xuất hiện như một sự bảo hộ của Phù Thủy Tro Đỏ, viết lên bằng tro xám và giọt trăng, sẽ mờ sau 7 ngày.\n\n- Cho phép bạn + 1 AC.\n\n- Từ hoàng hôn đến bình minh mỗi ngày, bạn resistants với Local Creature: Thay vì trực tiếp bị tìm thấy, bạn có thể yêu cầu DM check với disvantage, DC bằng DC của bạn."
+        }
+      ]
+    }
+  ]
+}

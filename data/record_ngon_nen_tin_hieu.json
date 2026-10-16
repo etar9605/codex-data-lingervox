@@ -1,0 +1,34 @@
+{
+  "recordId": "record_ngon_nen_tin_hieu",
+  "title": "Ngọn nến tín hiệu",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791984792859_4xxrzm",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Ngọn nến tín hiệu",
+          "url": "ngon_nen_tin_hieu"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Magic item, Phổ biến, 10 GP*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Mỗi ngọn nến cháy được tối đa 10 phút. Trong khi cháy sẽ tạo ra cột sáng chiếu thẳng lên trời. Ánh nến là ánh sáng đơn thuần và vẫn bị chặn bởi chướng ngại vật."
+        }
+      ]
+    }
+  ]
+}

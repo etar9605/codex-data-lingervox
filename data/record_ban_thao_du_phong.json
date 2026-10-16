@@ -1,0 +1,29 @@
+{
+  "recordId": "record_ban_thao_du_phong",
+  "title": "Bản Thảo Dự Phòng",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [],
+  "lead": "",
+  "summary":"",
+  "revision": 2,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1790865528669",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "url": "ban-thao-du-phong"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tờ giấy cũ kỹ như được xé ra từ một quyển sổ làm bằng vật liệu đặc biệt, tỏa ra hương trà thơm lạ. Trên đó vẽ đầy những nét loằng ngoằng như vẽ bùa cùng những hàng ghi chú như vẽ đồng cỏ.\n\nCuốn sách có 3 điểm năng lượng, hồi toàn bộ vào hoàng hôn mỗi ngày. Với mỗi điểm năng lượng, bạn có thể sử dụng phép thuật Silent Image một lần hoặc hai điểm cho Mirror Image.\n\nNếu bạn không phải là wizard, roll một Intelligence Check, DC 15. Nếu thành công, bạn có thể làm chủ cuốn sách và sử dụng nó như biểu tượng thi triển phép thuật. Nếu thất bại, cuốn sách sẽ tự khóa và yêu cầu được attune bởi một Wizard."
+        }
+      ]
+    }
+  ]
+}

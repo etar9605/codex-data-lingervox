@@ -1,0 +1,55 @@
+{
+  "recordId": "record_winter_rabbit",
+  "title": "Winter Rabbit",
+  "subtitle": "Medium Beast, Unaligned",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791990524877_boqkhx",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Winter Rabbit",
+          "url": "https://etarbox.onrender.com/static/1h-rabit.png"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "7 (-2)",
+            "DEX": "10 (+0)\t",
+            "CON": "9 (-1)",
+            "INT": "15 (+2)",
+            "WIS": "18 (+4)",
+            "CHA": "13 (+1)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 15 (natural armor)\n**Hit Points.** 42 (12d8 – 12)\n**Speed.** 50 ft.\n**Saving Throws.** Wis +7, Int +5\n**Skills.** Insight +7, Stealth +3\n**Damage Resistances.** piercing, bludgeoning, slashing, from nonmagical attacks\n**Damage Immunities.** cold\n**Condition Immunities.** exhaustion\n**Senses.** darkvision 60ft, passive Perception 14\n**Languages.** Common\n**Challenge.** 5 (1800 XP)\n**Proficiency Bonus.** +3"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Pack Tactics.** The winter rabbit has advantage on an attack roll against a creature if at least one of the winter rabbit's allies is within 5 feet of the creature and the ally isn't incapacitated.\n\n**Snow Camouflage.** The winter rabbit has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.\n\n**Keen Hearing and Smell.** The winter rabbit has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791990587413_o6ct2s",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Multiattack.** The winter rabbit makes two Bite claw.\n\n**Claw.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 3 (2d6 + 3) bludgeoning damage. If had adv then dmg is 4d6 + 3"
+        }
+      ]
+    }
+  ]
+}

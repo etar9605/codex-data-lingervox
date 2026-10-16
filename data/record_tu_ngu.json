@@ -1,0 +1,30 @@
+{
+  "recordId": "record_tu_ngu",
+  "title": "Tư Ngữ",
+  "subtitle": "Vũ Khí Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986353578_0z25q5",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Tư Ngữ",
+          "url": "tu_ngu"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Có đầy đủ thuộc tính của một vũ khí loại ô, vì vậy yêu cầu proficiency với ô, đồng thời những dòng cổ ngữ do Dakini yểm trên kiếm giúp nó đạt được những nội tại sau:\n\n**Master Dakini:** Khi cầm Tư Ngữ trên một tay, bạn có thể chiến đấu hai vũ khí bằng bất kỳ vũ khí cận chiến nào khác trên tay còn lại, kể cả vũ khí hai tay. Bạn có proficiency với vũ khí đó khi chiến đấu theo cách này.\n\n**Magic Weapon:** Sát thương bạn gây ra bằng vũ khí này là magic piercing damage."
+        }
+      ]
+    }
+  ]
+}

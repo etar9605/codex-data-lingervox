@@ -1,0 +1,25 @@
+{
+  "recordId": "record_khe_uoc_doi_tra",
+  "title": "Khế Ước Dối Trá",
+  "subtitle": "Bản Giao Ước Bất Khả Hủy Thần Ma",
+  "category": "items",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [
+    "Pact of Lies",
+    "Giao Ước Máu"
+  ],
+  "lead": "Văn tự cổ được khắc bằng máu của á thần trên da dê đen cổ đại, trói buộc linh hồn Ayin với vị thần của Sự Thật và Gian Dối.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "clause",
+      "title": "Điều khoản khế ước",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Khế ước hứa hẹn hồi sinh người đã khuất với cái giá là một ngàn linh hồn và sự vâng phục vĩnh viễn trong bóng tối."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "recordId": "record_tel_charvia",
+  "title": "Tel-charvia",
+  "subtitle": "Phù Thủy Tro Đỏ · Hộ Vệ Ảo Ảnh",
+  "category": "characters",
+  "typeLabel": "OFFICIAL RECORD · CHARACTER",
+  "aliases": [
+    "Tro Đỏ",
+    "Ma Nữ Tro Rừng"
+  ],
+  "lead": "Một trong những ma pháp sư cổ xưa nhất còn lưu lại nhân thế, người duy nhất có khả năng xoa dịu cơn cuồng nộ của Ayinviel.",
+  "revision": 2,
+  "relationships": [
+    {
+      "targetId": "record_ayinviel",
+      "name": "Ayinviel",
+      "relation": "Người Được Che Chở",
+      "detail": "Một trong số cực kỳ ít những người mà Ayinviel chịu lắng nghe sau cuộc đào thoát khỏi Cung Điện Dối Trá.",
+      "subtitle": "Hiền Triết Ảo Ảnh · Á Thần"
+    },
+    {
+      "targetId": "record_thap_tro_do",
+      "name": "Tháp Tro Đỏ",
+      "relation": "Lãnh Địa Cai Quản",
+      "detail": "Ngọn tháp giữa biển tro xám cực bắc, nơi Tel-charvia duy trì kết giới ngăn cách thần linh.",
+      "subtitle": "Bí Ẩn Vùng Hoang Mạc Cực Bắc"
+    },
+    {
+      "targetId": "record_lord_of_lies",
+      "name": "Chúa Tể Dối Trá",
+      "relation": "Thế Lực Đối Đầu",
+      "detail": "Cổ thần mà kết giới Tro Đỏ của Tel-charvia trực tiếp ngăn chặn sự truy vết.",
+      "subtitle": "Vị Thần Của Sự Thật & Gian Dối"
+    }
+  ],
+  "sections": [
+    {
+      "id": "shelter",
+      "title": "Nơi Trú Ẩn",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Sau cuộc đào thoát khỏi Chúa Tể Dối Trá, Ayinviel được Tel-charvia che chở tại vùng đất Tro Đỏ, nơi kết giới cấm kỵ ngăn cách mọi sự truy lùng của các thần linh."
+        }
+      ]
+    }
+  ]
+}

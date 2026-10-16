@@ -1,0 +1,25 @@
+{
+  "recordId": "record_nhan_ao_anh",
+  "title": "Nhẫn Ảo Ảnh Isode",
+  "subtitle": "Cổ Vật Ký Ức & Tinh Hồn",
+  "category": "items",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [
+    "Nhẫn Isode",
+    "Chiếc Nhẫn Ánh Trăng"
+  ],
+  "lead": "Chiếc nhẫn bạc nạm đá opal mặt trăng mà Ayinviel luôn mang theo bên mình, vật phẩm chứa đựng phần ký ức ấm áp duy nhất của hắn.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "powers",
+      "title": "Năng lực & Ý nghĩa",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Nhẫn có thể giúp người sở hữu che giấu hoàn toàn diện mạo và linh hồn trước những ánh nhìn dò xét của các thần linh thượng cổ."
+        }
+      ]
+    }
+  ]
+}

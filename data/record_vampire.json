@@ -1,0 +1,191 @@
+{
+  "recordId": "record_vampire",
+  "title": "Vampire",
+  "subtitle": "",
+  "category": "races",
+  "categoryName": "Chủng Tộc",
+  "typeLabel": "OFFICIAL RECORD · RACE",
+  "aliases": [],
+  "lead": "Ma cà rồng có liên quan đến thuật chiêu hồn. Sự tồn tại của họ dựa trên việc rút cạn sinh lực của sinh vật khác để cung cấp năng lượng cho sự tồn tại của bản thân và đặt cuộc sống của chính họ lên trên tất cả các mối quan tâm khác. Về mặt triết học, họ không gò bó mình bằng những quy tắc đạo đức giả tạo mà tin rằng kẻ mạnh có thể và nên lấy những gì họ cần từ kẻ yếu.",
+  "summary": "Ma cà rồng có liên quan đến thuật chiêu hồn. Sự tồn tại của họ dựa trên việc rút cạn sinh lực của sinh vật khác để cung cấp năng lượng cho sự tồn tại của bản thân và đặt cuộc sống của chính họ lên trên tất cả các mối quan tâm khác. Về mặt triết học, họ không gò bó mình bằng những quy tắc đạo đức giả tạo mà tin rằng kẻ mạnh có thể và nên lấy những gì họ cần từ kẻ yếu.",
+  "revision": 2,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791629765063_496xuv",
+      "title": "Physical Form",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ma cà rồng thường có dáng người cao, làn da nhợt nhạt và gầy gò, luôn đem theo sự hiện diện tĩnh lặng của thế giới khác khiến ma cà rồng nổi bật giữa những sinh vật có cơ thể ấm áp. Với những đặc điểm trên khuôn mặt nhợt nhạt và sắc nét, đôi mắt dường như phát sáng khi không có ánh sáng và cơ thể lạnh lùng không có ảnh phản chiếu khiến ma cà rồng luôn cô độc từ khi họ xuất hiện đến khi họ rời đi.\n\nMa cà rồng có nước da nhợt nhạt do bản chất gần như bất tử và thường xuyên tránh ánh nắng mặt trời. Trong khi sự tĩnh lặng của họ xuất phát từ việc họ không còn cần phải hít thở nữa, họ coi mọi hành động và không hành động đều là một quyết định có ý thức.\n\nKhi bị dồn vào chân tường, những chiếc răng nanh và móng vuốt sắc nhọn có thể thu vào của họ trở thành lời cảnh báo cho tất cả những sinh vật có thể chảy máu rằng lúc này mọi lý lẽ trong lốt hình người của họ biến mất, thay vào đó là sự khát máu nguyên thủy khi họ tàn sát người sống một cách cuồng bạo."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791629825670_8c5430",
+      "title": "A Deal Or A Curse",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Undead không được sinh sản tự nhiên và ma cà rồng cũng không ngoại lệ. Khi một sinh vật chết và sống lại dưới dạng ma cà rồng hoặc được tạo ra là một ma cà rồng, chủng tộc của họ sẽ trở thành chủng tộc này, mất đi những đặc điểm trước đó, điểm khả năng tăng lên, v.v. Chỉ giữ lại một phần ngoại hình còn tính cách thì bị biến thành phiên bản nhạo báng con người trước đây của chính họ.\n\nMa cà rồng là những sinh vật hút máu của màn đêm, thường được tạo ra bởi những Bậc thầy ma cà rồng dưới một thỏa thuận, nghi lễ hoặc đôi khi do một sự tình cờ kỳ lạ. Những sinh vật tà ác mạnh mẽ như các vị thần độc ác cũng có khả năng khiến người phàm trở thành ma cà rồng. Bị cắn bởi ma cà rồng sẽ không biến bạn thành ma cà rồng trừ trường hợp có những hiệu ứng phép thuật tà ác nào khác được tác động đồng thời. Trong thực tế, nó chỉ giết chết bạn, biến cơ thể và tâm trí của bạn thành một sinh vật xấu xa, một nô lệ cho ma cà rồng đã rút sạch máu của bạn. Chỉ bằng cách uống máu của ma cà rồng, bạn mới có thể sinh ra ma cà rồng và trở thành ma cà rồng. Tuy nhiên, rất ít True Vampire sẵn sàng từ bỏ quyền kiểm soát của mình bằng cách này.\n\nMột ma cà rồng không được cho ăn thường xuyên sẽ bắt đầu mệt mỏi và kiệt sức. Gần như thể họ đang dần bị hóa đá khi ma thuật tà ác bên trong họ rút cạn sức mạnh của họ. Ma cà rồng không có bóng hoặc hình ảnh phản chiếu, và bất kỳ ma cà rồng nào muốn di chuyển mà không bị chú ý giữa những người sống sẽ tránh xa nguồn sáng và các bề mặt phản chiếu.\n\nNếu trở thành Ma cà rồng bằng một lời nguyền hoặc một ma thuật tà đạo, các cơ quan sống của người đó sẽ từ từ đóng lại chức năng cho đến khi họ chết. Lời nguyền có thể được giải trừ như bao lời nguyền khác nhưng phải được thực hiện trước khi nó gây ra cái chết. Sau khi bị lời nguyền giết chết, bạn thức dậy vào đêm hôm sau trong tình trạng đói và khát máu.\n\nMa cà rồng có một số khả năng ấn tượng và chỉ những True Vampire thực sự cổ xưa và mạnh mẽ mới có thể sử dụng chúng (do GM quyết định)."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791629842156_iqectp",
+      "title": "Dark Desire",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Cho dù ma cà rồng có giữ lại bất kỳ ký ức nào từ kiếp trước hay không, những gắn bó tình cảm của họ sẽ dần khô héo khi những cảm xúc thuần khiết một thời bị xác sống bóp méo. Tình yêu biến thành nỗi ám ảnh đói khát, còn tình bạn trở thành sự ghen tuông cay đắng. Thay vì cảm xúc, ma cà rồng theo đuổi những biểu tượng vật chất của những gì họ khao khát, ví dụ như ma cà rồng đang tìm kiếm tình yêu có thể say mê một cô gái trẻ xinh đẹp. Một đứa trẻ có thể trở thành đối tượng được say mê của một ma cà rồng bị ám ảnh bởi tuổi trẻ và tiềm năng. Một vài người khác lại chìm đắm trong các tác phẩm nghệ thuật, sách hoặc những vật dụng tà ác như dụng cụ tra tấn hoặc chiến lợi phẩm từ những sinh vật mà họ đã giết.\n\nKhi trở thành ma cà rồng, bạn phải lựa chọn một trong những ham muốn bên dưới để xây dựng background hoặc tung d8 để xác định:"
+        },
+        {
+          "kind": "callout",
+          "title": "1 - Tham lam",
+          "body": "Tham lam là mong muốn quá mức để có được hoặc sở hữu nhiều hơn một nhu cầu, đặc biệt là về của cải vật chất. Việc tích trữ vật liệu hoặc đồ vật, trộm cắp và cướp bóc, đặc biệt là bằng bạo lực, thủ đoạn hoặc thao túng quyền lực đều là những hành động có thể được khơi dậy bởi Lòng tham."
+        },
+        {
+          "kind": "callout",
+          "title": "2 - Dục vọng",
+          "body": "Sắc dục được đặc trưng như một sự khao khát mãnh liệt. Nó thường được coi là ham muốn tình dục mãnh liệt hoặc không thể kiềm chế, dẫn đến gian dâm, ngoại tình, hãm hiếp, thú tính và các hành vi tình dục gian lận khác. Tuy nhiên, ham muốn cũng có thể có nghĩa đơn giản là ham muốn nói chung; do đó, ham muốn tiền bạc, quyền lực và những thứ khác cũng được coi là dục vọng."
+        },
+        {
+          "kind": "callout",
+          "title": "3 - Ham ăn",
+          "body": "Ham ăn là sự ham mê và tiêu thụ quá mức bất cứ thứ gì đến mức lãng phí."
+        },
+        {
+          "kind": "callout",
+          "title": "4 - Lười biếng",
+          "body": "Lười biếng là vô cảm, thiếu bất kỳ cảm giác nào về bản thân hoặc người khác, một trạng thái tâm trí dẫn đến buồn chán, hận thù, thờ ơ và trạng thái suy nghĩ thụ động hoặc uể oải."
+        },
+        {
+          "kind": "callout",
+          "title": "5 - Thịnh nộ",
+          "body": "Điều quan trọng là phải hiểu rằng sự tức giận không phải là xấu hay tốt, nó là một hành động trung lập ở mức độ thiện và ác, tuy nhiên, sự tức giận sẽ trở thành cơn thịnh nộ khi nó nhắm vào người vô tội, khi nó quá mức, không khoan nhượng hoặc kéo dài, hoặc khi nó mong muốn được trừng phạt kẻ khác một cách quá mức. Sự tức giận trở thành phẫn nộ khi đạt đến mức cố ý muốn giết người hoặc làm ai đó bị thương nặng. Đó là mong muốn người khác có thể gặp bất hạnh hoặc gặp điều ác."
+        },
+        {
+          "kind": "callout",
+          "title": "6 - Ghen tỵ",
+          "body": "Ghen tị là nhu cầu được tốt hơn hoặc tốt hơn người khác. Đó là nhu cầu có của cải, sở hữu hay thậm chí là các mối quan hệ của người khác. Muốn những gì người khác có là của mình."
+        },
+        {
+          "kind": "callout",
+          "title": "7 - Kiêu ngạo",
+          "body": "Sự kiêu ngạo được một số người coi là gốc rễ của mọi tội ác và đương nhiên là đặc điểm chung nhất mà một ma cà rồng thực sự phải có. Chúa tể ma cà rồng kiêu kỳ và tự cao gần như khuôn mẫu tỏa ra một khí chất vượt trội khi họ coi thường những nhà thám hiểm ngu ngốc dám thách thức họ."
+        },
+        {
+          "kind": "callout",
+          "title": "8 - Roll lại",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_1791630708856_whkrjz",
+      "title": "Vampire trait",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Nhân vật vampire của bạn bẩm sinh đã có những khả năng sau:"
+        },
+        {
+          "kind": "callout",
+          "title": "Ability Score Increase",
+          "body": "Charisma của bạn tăng thêm 2 và Intelligence của bạn tăng thêm 1 hoặc Strength, Dexterity và Constitution mỗi thứ tăng thêm 1."
+        },
+        {
+          "kind": "callout",
+          "title": "Age",
+          "body": "Ma cà rồng không sinh ra và già đi giống như các chủng tộc khác nên hầu hết ma cà rồng đều rất nhiều tuổi nhưng rất ít người có ký ức về những năm đầu đời của họ."
+        },
+        {
+          "kind": "callout",
+          "title": "Alignment",
+          "body": "Ma cà rồng có thể không có khuynh hướng xấu xa (evil) bẩm sinh nhưng nhiều người trong số họ cuối cùng lại có khuynh hướng đó. Dù xấu hay không, hệ thống phân cấp nghiêm ngặt của họ hướng họ đến sự nguyên tắc tuyệt đối (lawful), nhưng phần lớn ma cà rồng vẫn có thể là neutral hoặc chaotic."
+        },
+        {
+          "kind": "callout",
+          "title": "Size",
+          "body": "Ma cà rồng có kích thước và hình dáng tương đương với con người. Kích thước của bạn là Medium."
+        },
+        {
+          "kind": "callout",
+          "title": "Speed",
+          "body": "Tốc độ đi bộ cơ bản của bạn là 30 feet."
+        },
+        {
+          "kind": "callout",
+          "title": "Type",
+          "body": "Nhóm creature của bạn được định nghĩa có thể là cả humanoid và undead."
+        },
+        {
+          "kind": "callout",
+          "title": "Darkvision",
+          "body": "Nhờ truyền thừa của mình, bạn có tầm nhìn vượt trội trong điều kiện tối và thiếu sáng. Bạn có thể nhìn thấy trong ánh sáng mờ cách bạn 60 feet như thể đó là ánh sáng rõ ràng và trong bóng tối như thể đó là ánh sáng mờ. Bạn không thể phân biệt màu sắc trong bóng tối, chỉ có màu xám."
+        },
+        {
+          "kind": "callout",
+          "title": "Vampiric Resistance",
+          "body": "Bạn có khả năng resistance với necrotic damage."
+        },
+        {
+          "kind": "callout",
+          "title": "Unholy Body",
+          "body": "Thuốc chữa bệnh không có tác dụng chữa bệnh cho bạn. Để hồi máu, bạn phải uống máu (bằng Bloodthirst), tung HP dice hoặc nghỉ ngơi dài ngày. Các feat và feature từ race và class vẫn vẫn hồi máu cho bạn bình thường nhưng các heal do yếu tố bên ngoài (đồng minh hoặc các loại thuốc hồi phục) tác động đến bạn sẽ gây sát thương độc bằng với lượng cần thiết để chữa lành."
+        },
+        {
+          "kind": "callout",
+          "title": "Blood Drinker",
+          "body": "Mặc dù bạn sẽ không chết vì đói nhưng bạn vẫn cần nguồn dinh dưỡng dưới dạng máu để duy trì sự tồn tại của mình. Bạn miễn dịch với bệnh tật. Bạn không cần phải ăn nhưng bạn có thể ăn thức ăn và đồ uống nếu muốn, mặc dù đối với bạn, thức ăn này luôn nhạt nhẽo và chẳng có vị gì ngon. Nếu bạn kéo dài hơn bảy ngày mà không uống ít nhất một khẩu phần máu, vào nửa đêm của ngày thứ bảy và cứ nửa đêm của những ngày sau đó, bạn sẽ phải chịu một mức độ exhaustion, chỉ có thể loại bỏ tình trạng này bằng cách uống một khẩu phần máu. Sau khi tiêu thụ một khẩu phần máu, bạn sẽ phục hồi mọi mức độ exhaustion do đặc điểm này gây ra. Nếu bạn đạt đến sáu cấp độ exhaustion do đặc điểm này, bạn sẽ bị paralyzed nếu bạn là một True Vampire, hoặc bị phá hủy hoàn toàn nếu bạn là nô lệ hoặc thân quyến của ma cà rồng."
+        },
+        {
+          "kind": "callout",
+          "title": "Bloodthirst",
+          "body": "Bạn có thể hút máu và năng lượng sống từ một sinh vật bị grappled, incapacitated, restrained hoặc từ đồng minh cho phép bạn làm điều đó. Như một action, thực hiện một melee attack bằng móng tay hoặc răng nanh của mình vào mục tiêu. Nếu hit, bạn gây 1 piercing damage và 1d6 necrotic damage. HP tối đa của mục tiêu bị giảm đi một lượng bằng với necrotic damage nhận vào và bạn lấy lại số HP bằng số damage đó. Quá trình giảm kéo dài cho đến khi mục tiêu kết thúc long rest. Mục tiêu sẽ chết nếu hiệu ứng này làm giảm HP tối đa của nó xuống 0.\nTrong trường hợp bạn là người grapple, mục tiêu phải thực hiện một Athletics (Strength) hoặc một Acrobatics (Dexterity) check để chống lại Athletics check của bạn, nếu bạn thành công grapple, bạn có thể thực hiện Bloodthirst như một phần của action.\nTrường hợp một nhân vật khác tự cắt máu nhỏ để cứu vampire, là một action. Lượng máu hồi được (nhận) bằng lượng máu mất (cho) có dice roll bằng 1 hit dice của người cho. Không tiêu thụ số lượng hit dice trong customcounter."
+        },
+        {
+          "kind": "callout",
+          "title": "Feast of Blood",
+          "body": "Khi bạn hút máu bằng khả năng Bloodthirst, bạn sẽ cảm nhận được một nguồn sinh lực dâng trào. Tốc độ của bạn tăng thêm 10 feet và bạn có được advantage khi Str check và Dex check cũng như save trong 1 phút."
+        },
+        {
+          "kind": "callout",
+          "title": "Undead Nature",
+          "body": "Bạn không cần thở (nên không bị sặc nước khi rơi xuống nước)."
+        },
+        {
+          "kind": "callout",
+          "title": "Sunlight Hypersensitivity",
+          "body": "Bạn nhận 1d4 (1d6 ở cấp độ thứ 3 và 1d20 ở cấp độ thứ 5) radiant damage khi bạn bắt đầu lượt của mình dưới ánh sáng mặt trời. Khi ở dưới ánh sáng mặt trời, bạn bị disadvantage trong attack rolls và ability checks. Nếu phần lớn cơ thể của bạn được che phủ thì dmg sẽ giảm đi một nửa (đối với thân quyến và nô lệ thì damage không giảm). Full metal armor nhân đôi damage phải chịu giống như khi không mặc quần áo."
+        },
+        {
+          "kind": "callout",
+          "title": "Vampire Spawner",
+          "body": "Ở cấp 9, bạn có thể biến một sinh vật hình người hữu cơ sống thành một thân quyến ma cà rồng bằng cách uống máu của nó đến 0HP! Thân quyến sẽ trở thành nô lệ ma cà rồng nếu nó bị True Vampire từ chối liên kết. Khả năng này có thể được sử dụng một lần mỗi ngày. Tổng số lượng thân quyến ma cà rồng (True Vampire) có thể tạo ra bằng với cha mod của bạn. Những thân quyến này có được ý chí tự do nếu chủ nhân của chúng chết hoặc nếu chúng uống máu của chủ nhân. Những nô lệ ma cà rồng sẽ chết nếu chủ nhân của nó chết hoặc có bất cứ hiệu ứng nào khác thỏa mãn các điều kiện phía trên. Các thân quyến và nô lệ ma cà rồng được hưởng hầu hết các khả năng của ma cà rồng thực thụ và phải tuân theo lời chủ nhân một cách tuyệt đối, mặt khác lượng sát thương mà các nhược điểm của ma cà rồng gây ra nặng nề hơn thậm chí nó có thể tiêu diệt họ dễ dàng."
+        },
+        {
+          "kind": "callout",
+          "title": "Languages",
+          "body": "Bạn có thể nói, đọc, viết Common và Vampire."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791630835323_uwe7jr",
+      "title": "Vampire's item",
+      "blocks": [
+        {
+          "kind": "callout",
+          "title": "Áo choàng bóng râm",
+          "body": "*Magic item, Không phổ biến (yêu cầu attunement)*\n\nChiếc áo choàng có thiết kế kỳ lạ này được làm bằng lụa đen đan xen với những sợi bạc mờ. Khi mặc chiếc áo choàng này, bạn có thể kéo mũ trùm qua đầu để giúp bản thân miễn nhiễm với tác động của ánh nắng mặt trời."
+        },
+        {
+          "kind": "image",
+          "text": "Áo choàng bóng râm",
+          "url": "ao-choang-bong-ram"
+        }
+      ]
+    }
+  ]
+}

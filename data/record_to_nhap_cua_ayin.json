@@ -1,0 +1,34 @@
+{
+  "recordId": "record_to_nhap_cua_ayin",
+  "title": "Tờ nháp của Ayin",
+  "subtitle": "",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986192742_u44nio",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Tờ nháp của Ayin",
+          "url": "https://etarbox.onrender.com/static/kraf.png"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Giấy, Không phổ biến*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tờ giấy cũ kỹ như được xé ra từ một quyển sổ làm bằng vật liệu đặc biệt, tỏa ra hương trà thơm lạ. Trên đó vẽ đầy những nét loằng ngoằng như vẽ bùa cùng những hàng ghi chú như vẽ đồng cỏ."
+        }
+      ]
+    }
+  ]
+}

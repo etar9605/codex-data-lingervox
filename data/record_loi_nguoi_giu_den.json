@@ -1,0 +1,31 @@
+{
+  "recordId": "record_loi_nguoi_giu_den",
+  "title": "Lời Người Giữ Đền",
+  "subtitle": "Etar's Manuscript",
+  "category": "spells",
+  "categoryName": "Ma Thuật",
+  "typeLabel": "OFFICIAL RECORD · SPELL",
+  "aliases": [
+    "Keeper’s Word"
+  ],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791908835915_2pfxzj",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "*4th Level Abjuration*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Casting time:** 1 reaction\n**Range:** 30 ft\n**Components:** V, S\n**Duration:** Instantaneous\n**Description:** Bạn tụng lên lời nguyện cổ xưa – một âm thanh trầm mặc mà thiêng liêng, vang lên như tiếng bước chân của các vị thần đi qua sàn đá đền thờ. Khi thi triển phép này, bạn chọn một sinh vật trong tầm ảnh hưởng. Sinh vật đó được bảo vệ bởi một lời ấn chú phòng hộ cổ xưa, giúp nó chống lại sự xâm phạm và hỗn loạn.\n\nMỗi khi bạn hoặc một đồng minh bị nhắm làm mục tiêu của một spell, bạn có thể dùng reaction để buộc kẻ tấn công phải thực hiện một Wisdom saving throw (DCs của bạn). Nếu thất bại, phép không thể ảnh hưởng đến bạn hoặc đồng minh mà bạn đã chọn (vẫn tốn spell slot như thường). Nếu thành công, spell diễn ra như bình thường.\nNgoài ra, sinh vật đó nhận kháng (resistance) với force damage và miễn nhiễm (immune) radiant và necrotic damage.\n\n**At Higher Levels:** Khi bạn thi triển phép này bằng slot 5th level hoặc cao hơn, bạn có thể chọn thêm một sinh vật cho mỗi cấp slot trên 4th."
+        }
+      ]
+    }
+  ]
+}

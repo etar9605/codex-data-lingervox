@@ -1,0 +1,34 @@
+{
+  "recordId": "record_trong_thach_anh",
+  "title": "Trọng Thạch Anh",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791910072723_26di5e",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Trọng Thạch Anh",
+          "url": "trong_thach_anh"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Magic item, Hiếm (yêu cầu attunement)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Khối thạch anh tím có kích thước bằng nắm tay này được truyền khả năng bẻ cong trọng lực của loài rồng thạch anh tím. Trong khi bạn đang attune với viên đá này, bạn có adv trong những str save. Viên đá có 6 charges cho các thuộc tính sau, bạn có thể sử dụng chúng khi đang attune. Đá lấy lại 1d6 charges hàng ngày vào lúc bình minh.\n\n**Flight.** Là một hành động bổ sung, bạn có thể sử dụng 3 charges để có được khả năng bay trong 10 phút. Trong thời gian này, bạn đạt được tốc độ bay bằng với tốc độ đi bộ và bạn có thể bay lơ lửng.\n\n**Gravitational Thrust.** Như một hành động, bạn có thể sử dụng 1 charges để tập trung trọng lực xung quanh một sinh vật mà bạn có thể nhìn thấy cách bạn trong vòng 60 feet. Mục tiêu phải thực hiện thành công str save DC bằng DC của bạn hoặc bị đẩy lên cao 20 feet theo hướng bạn chọn.\n\n**Reverse Gravity.** Như một hành động, bạn có thể sử dụng 3 charges để cast **reverse gravity** từ viên đá (save DC của bạn)."
+        }
+      ]
+    }
+  ]
+}

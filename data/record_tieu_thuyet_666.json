@@ -1,0 +1,34 @@
+{
+  "recordId": "record_tieu_thuyet_666",
+  "title": "Tiểu thuyết 6,66",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986107335_1d3poc",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Tiểu thuyết 6,66",
+          "url": "tieu_thuyet_666"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Sách, Không phổ biến*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tiểu thuyết tình yêu thiếu nữ, bên trong ghi chép những câu chuyện của những nhân vật kỳ lạ. Với những người không thích đọc sách, chúng đều là những câu chuyện lãng mạn dài dòng và quái gở.\n\nKhi đọc nó, chỉ mình bạn có thể nhìn thấy những chuyện xảy ra trong đó dưới dạng hình ảnh.\n\nRoll một Intelligence Check, DC 13. Nếu thành công, bạn làm chủ được cuốn sách, bạn có thể thay đổi cốt truyện trong cuốn sách, viết những câu chuyện mới theo ý muốn, mọi thứ bạn ghi vào trong những trang giấy trắng phía sau đều sẽ biến thành ảo ảnh có thể nhìn thấy được. Nếu thất bại cuốn sách sẽ tan biến.\n\nIntelligence lớn hơn 16, bạn có thể cho phép người khác cũng nhìn thấy những gì bạn thấy trong sách."
+        }
+      ]
+    }
+  ]
+}

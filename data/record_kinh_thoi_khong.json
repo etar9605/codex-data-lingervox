@@ -1,0 +1,25 @@
+{
+  "recordId": "record_kinh_thoi_khong",
+  "title": "Kính Thời Không",
+  "subtitle": "Pháp Bảo Ngưng Đọng Dòng Thời Gian",
+  "category": "items",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [
+    "Chronos Mirror",
+    "Gương Vỡ Thời Gian"
+  ],
+  "lead": "Mảnh vỡ từ chiếc gương nguyên thủy có khả năng ngưng đọng khoảnh khắc hiện tại hoặc làm chậm nhịp đập của vạn vật xung quanh.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "usage",
+      "title": "Tác dụng",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Chính cổ vật này đã giúp Ayinviel tạo ra hàng trăm phân thân hoàn hảo mà không tiêu hao nhiều sinh lực nguyên thần."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "recordId": "record_dakini_stat",
+  "title": "Dakini's Stat",
+  "subtitle": "Medium Moon Elf, Neutral",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791912551172_ym2xyn",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Dakini",
+          "url": "dakini"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791912248649_hbbeer",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "13 (+1)",
+            "DEX": "14 (+2)",
+            "CON": "16 (+3)",
+            "INT": "14 (+2)",
+            "WIS": "12 (+1)",
+            "CHA": "13 (+1)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 16\n**Hit Points.** 105 (14d8 + 42)\n**Speed.** 30 ft.\n**Saving Throws.** Dex +6, Con +7\n**Skills.** Acrobatics +6, History +6, Perception +5\n**Damage Immunities.** radiant, necrotic\n**Condition Immunities.** charmed, exhaustion\n**Senses.** Darkvision 60ft., passive Perception 15\n**Languages.** Common, Elvish\n**Challenge.** 9 (5000 XP)\n**Proficiency Bonus.** +4"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Sense Magic.** Dakini senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical\n\n**Fey Ancestry.** Magic can't put Dakini to sleep.\n\n**Magic Weapons.** Dakini's weapon attacks are magical.\n\n**Blessing Moonlight.** In the moonlight, Dakini has advantage when she attacks made by longsword.\n\n**Battle experience.** Dakini's weapon attacks score a critical hit on a roll of 19 or 20.\n\n**Stone Camouflage.** Dakini has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n**Spellcasting.** Dakini's innate spellcasting ability is Charisma (spell save DC 16, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n*At will (at will):* cloud of daggers, prestidigitation, identify\n\n*3/day (3 slots):* magic stone, charm person\n\n*2/day (2 slots):* encode thoughts\n\n*1/day (1 slots):* flesh to stone"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791912341320_8ey3er",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Multiattack.** Dakini makes two attacks by longsword.\n\n**Longsword.** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 6) slashing damage, or 13 (2d10 + 6) necrotic damage if used with two hands to make a melee attack.\n\n**Dance Blade.** If Dakini only makes one attack by longswort and hit, the target must succeed on a DC 15 Wisdom saving throw or be Charmed until Dakini or Dakini's companions do anything harmful to it."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791912352496_9n6173",
+      "title": "Reactions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Shield.** An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile."
+        }
+      ]
+    }
+  ]
+}

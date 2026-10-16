@@ -1,0 +1,85 @@
+{
+  "recordId": "record_inky_arbiter",
+  "title": "Inky Arbiter",
+  "subtitle": "Gargantuan Elemental, Chaotic Neutral",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791987913712_xqk275",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Inky Arbiter",
+          "url": "inky_arbiter"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "17 (+3)",
+            "DEX": "18 (+4)",
+            "CON": "19 (+3)",
+            "INT": "14 (+2)",
+            "WIS": "10 (+0)",
+            "CHA": "11 (+0)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 20 (natural shield)\n**Hit Points.** 210 (20d12 + 80)\n**Speed.** fly 60 ft.\n**Saving Throws.** Str +6, Con +7\n**Skills.** Stealth +7\n**Damage Resistances.** psychic\n**Damage Immunities.** fire, slashing\n**Condition Immunities.** poisoned, petrified, stunned, unconscious, exhaustion, charmed, incapacitated, paralyzed, sleep (any kind)\n**Senses.** truesight 10 ft., passive Perception 10\n**Languages.** —\n**Challenge.** 9 (5000 XP)\n**Proficiency Bonus.** +3"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Nobody Drinks the Ink.** Any creature hit by the Ink’s splash gains the following effects (maximum once per turn). These effects stack and last until the end of the Ink’s next turn: Advantage on all d20 rolls, +10 ft. to its movement speed. In addition, the creature gains 1 level of exhaustion. This exhaustion does not end when the effects expire and can only be removed by finishing a long rest.\n\n**Ink Jar.** The Ink is encased within a natural ink jar. While the jar is intact, the Ink has AC 20.\n- Attack roll 20 or higher: the attack hits the Ink.\n- Attack roll 15–19: the attack hits the ink jar instead.\n- Attack roll 14 or lower: the attack misses.\nThe ink jar has 50 hit points and AC 15. When the jar is reduced to 0 hit points, it shatters and leaves behind a lingering ink barrier for 2 rounds. During this time, only attack rolls of 20 or higher can hit the Ink; all other attacks miss. After the barrier ends, if the Ink is still alive, its Armor Class becomes 16.\n\n**Inkstorm Formation.** Shield-breaking sigils appear on the battlefield, with a number equal to the number of player characters. These sigils last for 2 round before Ink Rain occurs. A creature can stand inside a sigil to avoid Ink Rain and deal damage to the ink jar. When the sigils trigger, the ink jar takes 1d8 damage for each creature correctly standing inside a sigil.\n\n**Ink Rain.** Every 3 rounds, a rain of corrosive ink pours down in a 30-foot-radius centered on the Ink. Each creature in the area must make a DC 18 Dexterity saving throw. On a failure save, the creature takes (number of creatures in the area)d8 poison damage and is poisoned for 2 rounds. Success: The creature takes half damage and isn’t poisoned.\n\n**Impatient Ink Jar.** If the party exceeds a time limit set by the DM, shield-breaking sigils fail to appear, and the Ink unleashes a catastrophic Ink Rain. Every creature in initiative order automatically takes 5d6 + 8 force damage, with no saving throw. If at least one creature survives this effect, the Ink transforms into its Coffee Form, using the stat block of a Caffeine Scourge."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791987988694_42g6q7",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Multiattack.** The Ink makes two Ink Splash attacks.\n\n**Ink Splash.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 10 ft. or range 50/120 ft., one target. *Hit:* 18 (4d6 + 4) bludgeoning damage in melee, or 20 (3d10 + 4) piercing damage at range, plus 11 (2d10) poison damage.\n\n**Blackout Splash.** Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 50/120 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage in melee, or 8 (1d8 + 4) piercing damage at range."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791988003174_ywil1v",
+      "title": "Reactions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**England Press.** The Ink conjures the England Press, gaining +1d6 to its AC until the end of its next turn, potentially causing an attack that just hit it to miss. The Ink also regains 3d4 hit points."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791988012470_mjuh05",
+      "title": "Legendary Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The Ink can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Ink regains spent legendary actions at the start of its turn.\n\n**Umbral Inkburst.** The Ink takes 2d4 damage. Each other creature within 30 ft. must succeed on a DC 16 Dexterity saving throw or be blinded and prone until the end of its two next turn. This action can’t be used again until the Ink’s next turn.\n\n**Evaporate.** The Ink takes 3d4 damage and gains a flying speed of 60 ft. (hover). During this movement, it doesn’t provoke opportunity attacks, and it descends safely at the end of the effect.\n\n**Inkflask Break.** The Ink makes 1d4 Blackout Splash attacks and reduces its own AC by the same amount."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791988023730_bi86f2",
+      "title": "Lair Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "When fighting inside the Inky Arbiter’s lair, on initiative count 20 (losing initiative ties), the Ink can take one lair action from the options below. The Ink can’t use the same lair action two rounds in a row.\n\n**Crawling Ink Sigils.** Green ink sigils crawl up from the ground. A number of sigils equal to the number of player characters appear at locations the Ink can see within 60 ft. Each sigil is 5 feet in diameter. A creature standing in a sigil must succeed on a DC 16 Dexterity saving throw or become Muted until the end of its two next turn. On a success, the creature’s speed is halved until the end of its turn.\n\n**Falling Ink Drizzle.** Ink begins dripping from above. Each creature not standing inside a shield-breaking sigil must make a DC 16 Dexterity saving throw.\n*- Failure:* The creature takes 2 poison damage and becomes Frozen until the end of its next turn.\n*- Success:* The creature takes 1 damage and isn’t Frozen.\n\n**Jar Resonance Pulse.** The ink jar vibrates, releasing a protective pulse. The ink jar regains 2d6 hit points, and the Ink has advantage on all saving throws until the next initiative count 20.\n\n**Ink Current Shift.** Two flowing ink currents appear on the ground. Each current is 10 feet wide and 30 feet long. Each creature in the area must succeed on a DC 16 Strength saving throw or be pushed 15 feet and knocked prone. On a success, the creature isn’t pushed and isn’t knocked prone. If a creature is pushed out of a shield-breaking sigil, it doesn’t count as standing in a sigil when Ink Rain triggers."
+        }
+      ]
+    }
+  ]
+}

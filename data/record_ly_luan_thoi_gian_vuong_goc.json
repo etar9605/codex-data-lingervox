@@ -1,0 +1,34 @@
+{
+  "recordId": "record_ly_luan_thoi_gian_vuong_goc",
+  "title": "Lý luận thời gian vuông góc",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791906405689_dnrpj7",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Lý luận thời gian vuông góc",
+          "url": "ly_luan_thoi_gian_vuong_goc"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Sách, Không phổ biến*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Cuốn sách cổ rất dày trông có vẻ cũ kỹ nhưng được bảo quản khá tốt. Các gáy sách và trang bìa vuông vắn bọc bằng da thuộc từ bàn tay khéo léo của người thợ thủ công còn vô cùng chắc chắn.\n\nTác giả cuốn sách đưa ra giả thiết về việc thời gian là những trục y luôn tịnh tiến nối tiếp nhau. Cắt các trục x của Không gian một góc 90 độ. Do đó, thời gian luôn như nhau ở mọi thế giới và luôn trôi đi một khoảng bằng nhau dù ở những thế giới khác nhau.\n\n[...]\n\nPhần sau của cuốn sách diễn giải thêm về điều này và đưa ra những nghi vấn khác khiến cho đây vẫn chỉ là một giả thiết chưa được chứng minh rõ ràng."
+        }
+      ]
+    }
+  ]
+}

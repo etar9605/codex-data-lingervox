@@ -1,0 +1,25 @@
+{
+  "recordId": "record_vu_nguyet_thanh",
+  "title": "Vụ Nguyệt Thành",
+  "subtitle": "Cố Đô Sương Mù & Các Hiệp Sĩ",
+  "category": "places",
+  "typeLabel": "OFFICIAL RECORD · LOCATION",
+  "aliases": [
+    "Thành Phố Trăng Sương",
+    "Cố Đô Vụ Nguyệt"
+  ],
+  "lead": "Thành phố cổ quanh năm chìm trong màn sương bàng bạc, từng là trung tâm chính trị và quân sự vinh quang của Zerbrechens.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "geography",
+      "title": "Địa lý & Lịch sử",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Được dựng xây bên bờ hồ Nguyệt Ảnh, Vụ Nguyệt Thành nổi danh với những ngọn tháp đá trắng và lâu đài của Thập Nhị Hiệp Sĩ."
+        }
+      ]
+    }
+  ]
+}

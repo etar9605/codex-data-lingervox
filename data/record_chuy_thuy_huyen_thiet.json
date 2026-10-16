@@ -1,0 +1,34 @@
+{
+  "recordId": "record_chuy_thuy_huyen_thiet",
+  "title": "Chủy Thủ Huyền Thiết",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791904913745_iie6xo",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Chủy Thủy Huyền Thiết",
+          "url": "chuy_thuy_huyen_thiet"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Weapon: Simple, Melee, 2gp, 1 lb. --- 1d4 magic piercing - finesse, light, thrown (20/60) -- Special*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Thanh dao găm rèn được rèn từ vật liệu huyền thuyết nổi tiếng đã thất truyền trăm năm. Sau khi được gia công bằng lõi của Kẻ theo dõi bóng tối đã trở thành màu tím xanh quỷ dị.\n\nThành thạo với Chủy Thủ cho phép bạn thêm proficiency bonus của bạn vào bất cứ attack nào bạn thực hiện bằng vũ khí này.\n\n*Finesse:* Khi attack bằng finesse weapon, bạn có thể chọn sử dụng Strength hoặc Dexterity modifier cho attack và damage rolls. Bạn phải dùng cùng modifier cho cả 2 rolls.\n\n*Light:* Vũ khí nhẹ, nhỏ và dễ điều khiển, lý tưởng để sử dụng khi chiến đấu với hai loại vũ khí.\n\n*Thrown:* Bạn có thể ném vũ khí để thực hiện một ranged attack. Nếu vũ khí là một vũ khí cận chiến, bạn phải sử dụng ability modifier cho attack roll và damage roll giống như khi bạn melee attack bằng vũ khí này.\n\n*Special:* Khi một sinh vật mang lời nguyền bị vũ khí này đâm vào linh hồn, lời nguyền sẽ được đảo ngược hoặc hóa giải như một phép **Remove Curse.**"
+        }
+      ]
+    }
+  ]
+}

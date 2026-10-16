@@ -1,0 +1,34 @@
+{
+  "recordId": "record_ban_tom_tat_gia_kim_thuat",
+  "title": "Bản tóm tắt giả kim thuật",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791904592176_y1ay10",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Bản tóm tắt giả kim thuật",
+          "url": "ban_tom_tat_gia_kim_thuat"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Sách, Hiếm (yêu cầu attunement bởi một wizard), 3 lb*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Mùi ẩm mốc bám vào cuốn sách nặng và ố vàng. Các hoa văn kim loại trên bìa làm bằng đồng, sắt, chì, bạc và vàng, một số bị rỉ sét trong quá trình chuyển đổi từ kim loại này sang kim loại khác. Khi được tìm thấy, cuốn sách chứa các phép thuật sau: shillelagh, druidcraft, enlarge/reduce, feather fall, flesh to stone, gaseous form, magic weapon và fabricate. Nó hoạt động như một spellbook và spellcasting focus cho những phép thuật wizard của bạn.\n\nCuốn sách có 3 charges và nó lấy lại 1d3 charges đã sử dụng hàng ngày vào lúc bình minh. Bạn có thể sử dụng charges theo những cách sau trong khi giữ nó:\n\n- Nếu bạn dành 1 phút để nghiên cứu cuốn sách, bạn có thể sử dụng 1 charges để thay thế một trong những phép thuật wizard đã chuẩn bị của mình bằng một phép thuật khác trong cuốn sách. Phép thuật mới phải thuộc transmutation school.\n\n- Như một hành động, bạn có thể chạm vào một vật thể không có ma thuật không được đeo hoặc mang theo và sử dụng charges để biến mục tiêu thành một vật thể khác. Trong 1 charges, vật thể biến đổi không được lớn hơn 1 foot. Bạn có thể dùng thêm số charges để tăng kích thước tối đa thêm 2 feet cho mỗi charges. Đối tượng mới phải có giá trị gp bằng hoặc nhỏ hơn đối tượng ban đầu."
+        }
+      ]
+    }
+  ]
+}

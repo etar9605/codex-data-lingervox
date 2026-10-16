@@ -1,0 +1,97 @@
+{
+  "recordId": "record_shadow_stalker",
+  "title": "Shadow Stalker",
+  "subtitle": "Medium Moon Elf, Neutral",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791989610754_005s0a",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Shadow Stalker",
+          "url": "https://etarbox.onrender.com/static/31cfb3.png"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989246271_2ejj1d",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "10 (+0)",
+            "DEX": "18 (+4)",
+            "CON": "17 (+3)",
+            "INT": "16 (+3)\t",
+            "WIS": "14 (+2)",
+            "CHA": "8 (–1)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 16\n**Hit Points.** 190 (20d12 + 60)\n**Speed.** fly 50 ft.\n**Saving Throws.** Dex +7, Con +6\n**Skills.** Stealth +7, Perception +6\n**Damage Resistances.** acid, slashing, bludgeoning, necrotic, thunder, fire, cold from magical and nonmagical attacks\n**Damage Immunities.** piercing, poison\n**Condition Immunities.** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained\n**Senses.** darkvision 120 ft, Devil's Sight 60ft, passive Perception 16\n**Languages.** Abyssal, Elvish, telepathy 120 ft, Common\n**Challenge.** 8 (3900 XP)\n**Proficiency Bonus.** +3"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Incorporeal Movement.** The shadow stalker can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.\n\n**Light Sensitivity.** While in bright light, the shadow stalker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.\n\n**Shadow Stealth.** While in dim light or darkness, the shadow stalker can take the Hide action as a bonus action.\n\n**Lightfooted.** The shadow stalker can take the Dash or Disengage action as a bonus action on each of its turns.\n\n**Death Burn.** When the shadow stalker dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area and able to see the bright light must succeed on a DC 15 Constitution saving throw. On a failure, the creature takes 10 (3d6) radiant damage and, if the creature can see the light, is blinded until the end of its next turn. If the saving throw is successful, the creature takes half the damage and isn't blinded."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989319718_quddfw",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Claws.** *Melee Weapon Attack:*+6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) psychic damage or, if the demon had advantage on the attack roll, 17 (4d6 + 3) psychic damage.\n\n**Shadow Step.** The shadow stalker magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it can make one melee attack.\n\n**Darkness (Recharges 5-6).** The shadow stalker casts darkness without any components. Int is its spellcasting ability.\n\n**Hexblade's Curse (Recharges after a Short or Long Rest).** As a bonus action, the shadow stalker targets a creature it can see within 30 feet of it. The target is cursed for 1 minute. The curse ends early if the target dies, the shadow stalker dies, or it is incapacitated. Until the curse ends, the gains the following benefits:\n• It deals an extra 3 damage on damage rolls against the cursed target.\n• Any attack roll it makes against the cursed target is a critical hit on a roll of 19 or 20 on the d20.\n• If the cursed target dies, the shadow stalker regains 13 hit points."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989328622_cu54qb",
+      "title": "Reactions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Armor of Hexes.** When hit by an attack roll by a creature cursed by the shadow stalker's Hexblade's Curse, roll a d6. On a roll of 4 or higher, the attack instead misses the demon, regardless of its roll."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989337454_yfirs5",
+      "title": "Legendary Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "The shadow stalker can take 1 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The shadow stalker regains spent legendary actions at the start of its turn.\n\n**Eli's blessings.** Shadow stalker can split into 3 clones, of which 2 clones also have the same health bar as the body, deal half the damage, and other effects are the same as the body."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989354902_ncnp6q",
+      "title": "Thông tin thêm",
+      "blocks": [
+        {
+          "kind": "callout",
+          "title": "Tín đồ trung thành nhất của vị thần ấy.",
+          "body": ""
+        },
+        {
+          "kind": "callout",
+          "title": "Credits",
+          "body": "Ai đó từng có biệt danh discord là Catt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "recordId": "record_red_ash_lantern",
+  "title": "Red Ash Lantern",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791985899089_nt2cd9",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Red Ash Lantern",
+          "url": "red_ash_lantern"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Magic item, Hiếm*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Đèn lồng cổ kính tỏa ra ánh sáng xanh lam khi ở trong phạm vi bán kính 120ft gần những Sleepy Stone Horse. Ra khỏi 120ft sẽ tỏa ra ánh sáng tím xanh như bầu trời đêm, rất xinh đẹp.\n\nTrong phạm vi, dùng đèn có thể đánh thức Sleepy Stone Horse khỏi giấc ngủ chờ đợi. Những Sleepy Stone Horse tự có nhận thức nhưng đồng thời cũng thù địch với những creature mà đèn lồng cho là thù địch.\n\nTrong phạm vi 15ft bán kính quanh đèn lồng, nếu xuất hiện bất cứ creature nào không phải là chủ nhân của nó sẽ khiến nó chủ động đánh thức những Sleepy Stone Horse gần đó."
+        }
+      ]
+    }
+  ]
+}

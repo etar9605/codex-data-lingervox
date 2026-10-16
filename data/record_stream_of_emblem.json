@@ -1,0 +1,115 @@
+{
+  "recordId": "record_stream_of_emblem",
+  "title": "Stream of Emblem (Dòng Hội Huy)",
+  "subtitle": "",
+  "category": "subclasses",
+  "categoryName": "Vũ Kỹ",
+  "typeLabel": "OFFICIAL RECORD · SUBCLASS",
+  "aliases": [
+    "Dòng Hội Huy"
+  ],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791637025138_mu6fki",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Khi bạn chọn dòng vũ kỹ này, từ level 1, bạn được proficiency với medicine check và sử dụng shields. Nếu bạn đã có proficiency với skill medicine trước đó, bạn có thể gấp đôi proficiency."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637036612_tie3qr",
+      "title": "Compassionate Aid (Viện Trợ Nhân Từ)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Từ level 1, như một action, bạn có thể hồi phục cho một sinh vật có thể nhìn thấy bạn một số HP bằng 1d4 + Charisma modifier của bạn nếu sinh vật đó đang có ít hơn một phần tư HP tối đa của mình và lớn hơn 0 HP. Ở level 6, bạn có thể heal cho bạn và tối đa 3 đồng minh có thể nhìn thấy bạn trong vòng 30 ft dù đang ở mức HP nào. Bất cứ sinh vật nào đã mất máu và được hồi về max HP bằng cách này sẽ nhận thêm 1d4 Temp HP. Số lần bạn có thể sử dụng khả năng này bằng điểm proficiency của bạn (ít nhất 1 lần), làm mới sau long rest."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637044794_tu9zd4",
+      "title": "Lullaby of Renewal (Khúc Chữa Lành)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Từ level 3, bạn có thể dệt nên những giai điệu chữa lành bằng chuyển động và cảm xúc của mình. Bạn học thêm các spell theo bảng dưới đây và chúng không tính vào số lượng Spells Known trong bảng Bảng Vũ Công. Bạn tiêu tốn mỗi Fluid Movements thay cho một spell slot của mình khi sử dụng chúng bất kể spell đó là level mấy, với điều kiện bạn đã di chuyển ít nhất 10ft speed trong lượt bạn sử dụng spell đó. Nếu các spell này có thể sử dụng ở các slot cao hơn ban đầu, tính năng này sẽ khiến nó tự động upgrade lên để có hiệu ứng tương đương với spell slot cao nhất mà bạn có hiện tại."
+        },
+        {
+          "kind": "table",
+          "text": "",
+          "title": "Chúc phúc từ Khúc Chữa Lành",
+          "caption": "",
+          "headers": [
+            "Level",
+            "Spells"
+          ],
+          "rows": [
+            [
+              "3",
+              "Tích Lân, Mật Hiệu, Cure Wounds"
+            ],
+            [
+              "5",
+              "Đồng Tâm Khiên, Warding Bond"
+            ],
+            [
+              "9",
+              "Nguyên Nhẫn, Calm Emotions"
+            ],
+            [
+              "13",
+              "Beacon of Hope, Aura of Life"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637121093_3apfpg",
+      "title": "Under the Aegis (Dưới Sự Bảo Hộ)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ở level 3, trong khi bạn không mặc giáp, AC của bạn bằng 10 + Dexterity modifier + Charisma modifier. Tính năng này vẫn được áp dụng khi bạn trang bị Shield. Ngoài ra bạn có thể ngay lập tức cản trở đòn tấn công của địch bằng phản ứng nhanh nhẹn của mình, như một reaction, bạn có thể tiêu tốn một Fluid Movements để cộng thêm số Temp AC bằng Charisma modifier của bạn vào bản thân hoặc một đồng đội trong bán kính 10ft, temp AC này tồn tại đến đầu turn tiếp theo của bạn."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637130272_2nb9eg",
+      "title": "Symbolic Presence (Dáng Huy Hiện Hữu)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Ở level 5, chỉ cần có bạn hiện diện thì mọi người đã cảm thấy vô cùng yên tâm. Bất cứ đồng minh nào bắt đầu turn trong 10ft từ bạn đều được chọn + 1 vào một trong những mục sau: to hit, damage, save hoặc check mà họ thực hiện trong turn đó. Phải lựa chọn trước khi tung dice. Số lần tính năng này được áp dụng mỗi turn bằng một nửa proficiency modifier của bạn."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637140992_zyqr7a",
+      "title": "Serene Elegance (Phong Thái Bình Lặng)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Bắt đầu từ level 9, khí tức vững vàng của bạn có thể xoa dịu cảm xúc cho người khác giúp họ lấy lại bình tĩnh và tập trung. Số lần bạn có thể sử dụng khả năng này bằng với điểm proficiency của bạn (ít nhất một lần), làm mới sau long rest. Chọn một lựa chọn:\n\n- Như một action, bạn có thể chọn 3 creature trong vòng 30ft tính từ bạn mà có thể nhìn thấy bạn để hồi 1d8 + 5 HP và những creature này sẽ resistance frightened và immune charmed trong 1 giờ.\n\n- Như một reaction khi có một đồng minh phải thực hiện Concentration Save, bạn có thể giúp họ giữ vững tinh thần để chuyên tâm vào thi pháp, giúp Concentration Save của họ auto success."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791637152247_ixm2g4",
+      "title": "Spirit Upliftment (Khích Lệ Tinh Thần)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Bắt đầu từ level 14, bạn truyền cảm hứng cho người khác bằng màn biểu diễn của mình. Như một action, bạn có thể chọn tối đa 5 creature trong vòng 30 ft từ bạn mà bạn có thể nhìn thấy để nhận được các hiệu ứng sau: Mỗi creature nhận được 2d8 temporary hit points, có advantage với mọi attack roll trong một turn tiếp theo. Bạn có thể sử dụng khả năng này 1 lần/long rest."
+        }
+      ]
+    }
+  ]
+}

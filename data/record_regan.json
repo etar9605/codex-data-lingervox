@@ -1,0 +1,177 @@
+{
+  "recordId": "record_regan",
+  "title": "Regan",
+  "subtitle": "",
+  "category": "places",
+  "categoryName": "Địa Điểm",
+  "typeLabel": "OFFICIAL RECORD · PLACE",
+  "aliases": [
+    "Li Căn"
+  ],
+  "lead": "Mọi người đều biết đây là một nơi cực kỳ trù phú và giàu có, lưng dựa núi, mặt nhìn sông, còn có hồ Monika xinh đẹp và những vũ công uyển chuyển như nước.",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791817050836_yx9h56",
+      "title": "Ý nghĩa",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Người địa phương gọi là Li Căn, có nghĩa là nguồn gốc, căn nguyên, nơi khởi nguồn, nơi khai sinh của của Li. Li hay Long, là loài vật trong nhiều truyền thuyết của người dân bản xứ nơi đây, tượng trưng cho quyền lực chí cao vô thượng và sức mạnh tuyệt đối."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817084490_xulu9l",
+      "title": "Địa lý",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "- Đông Bắc dựa vào núi của Dãy Helerius (Người địa phương gọi là dãy núi Hách Lặc Lý Ô Tư - mang nghĩa là con quạ trắng khắc trên dãy núi đỏ).\n- Tây Bắc giáp xứ Samira qua hồ Rowan.\n- Phía Tây đi ra vịnh Fermin, thương cảng ở đây vô cùng sầm uất.\n- Phía Nam đi xuống vùng Muele.\n- Đông Nam ngăn với Gustav bởi hồ Monika xinh đẹp.\n- Phía Đông tiếp giáp Gustav qua thác - sông Ngọa Li.\nLi Căn gồm 10 quận: Khởi Lan, Minh Đài, Phương Dương, Hoa Nghiên, Vu Lâm, An Hà, Tiêu Giang, Phương Châu, Hạ Liên, Tô Nguyên"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817106189_rpei6c",
+      "title": "Đặc điểm",
+      "blocks": [
+        {
+          "kind": "callout",
+          "title": "Tự nhiên",
+          "body": "Khí hậu bốn mùa xuân, hạ, thu, đông khác nhau rõ rệt tạo nên nền văn hóa và hệ động thực vật phong phú."
+        },
+        {
+          "kind": "callout",
+          "title": "Văn hóa",
+          "body": "Li Căn nổi tiếng với nền văn học lâu đời và số lượng thơ văn đồ sộ. Vùng đất này có văn hóa tương đối khác biệt với văn hóa chung của Zerbrechens do dân cư ở đây được biết đến là người di cư đến từ lục địa phương đông, nổi tiếng với nền ẩm thực phong phú, trà đạo, kiếm thuật và hình tượng thần thú Li."
+        },
+        {
+          "kind": "callout",
+          "title": "Kinh tế",
+          "body": "Thương cảng sầm uất nhất phía bắc Zerbrechens nằm tại Li Căn, thương cảng Vũ Giang, đây là lý do chính giúp Li Căn là vùng đất cực kỳ giàu có.\nNgười Li Căn nổi tiếng với buôn bán giao thương và nghề thủ công truyền thống khéo léo tinh xảo, sự kết hợp của hai ngành nghề này khiến cho hàng hóa xuất phát từ Li Căn cực kỳ được ưa chuộng mặc dù giá cả của nó không hề bình dân."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817158979_stw067",
+      "title": "Vũ Văn gia",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Li Căn được cai quản bởi gia tộc Yuwen (Vũ Văn), gia chủ hiện tại là một trong Thập Nhị Hiệp Sĩ Vụ Nguyệt dưới quyền Chấp chính Lionheart. Mặc dù làm việc cho chủ nhân là phe vô thần nhưng việc Vũ nhân có thờ thần hay không không phải là điều bắt buộc. Hầu hết người trong gia tộc Vũ Văn giỏi sử dụng kiếm và yêu thích kiếm thuật như một truyền thống xa xưa.\n\nGia tộc Vũ Văn thuộc phe vô thần, nắm giữ một phần quân đội, vì thế người đứng đầu kế thừa tước vị này phải là người có kinh nghiệm và trải nghiệm chiến đấu thực tế, được tuyển chọn gắt gao và nghiêm khắc thông qua Thử thách mười năm. Người nào thông qua thử thách sẽ trở thành gia chủ.\n\nThử thách mười năm có nghĩa là cả dòng chính dòng thứ đều phải cử các tiểu bối cùng thế hệ để tham gia thử thách lịch luyện bên ngoài. Danh tính của họ được giữ kín để tránh trừ khử lẫn nhau khi còn yếu nhược. Những người thông qua thử thách sẽ có được chưởng ấn gia chủ, ai là gia chủ thì chi người đó là dòng chính. Vì thế đây không chỉ là thử thách của một vài người mà còn là cuộc cạnh tranh đến ngươi chết ta sống giữa các chi trong gia tộc."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817173074_tf17b6",
+      "title": "Lạc Khởi thị",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Không Gian Chi Lực",
+          "url": ""
+        },
+        {
+          "kind": "paragraph",
+          "text": "Lạc Khởi tộc nhân nổi tiếng với mái tóc bạch kim bắt mắt, khác biệt với hầu hết những người Li Căn khác. Một vài người trong gia tộc sẽ được truyền thừa đôi mắt màu lam tím sẫm như dải ngân hà vào đêm, những người này có khả năng thao túng một vùng không gian nhỏ, thông thường khi thiên phú này được bộc lộ họ sẽ được dạy dỗ cẩn thận để có thể chế tạo ra những vật phẩm ma thuật có thuộc tính không gian với tác dụng lưu trữ đồ vật.\n\nTất nhiên không phải người nào được dạy cũng học thành tài nhưng đây chính là nguồn gốc khiến Lạc Khởi thị đứng vững gót chân trong Thập Đại Gia Tộc suốt hàng trăm năm."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817212595_ckw48q",
+      "title": "Chiêu Minh thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Chiêu Minh thị là gia tộc nổi tiếng với tài năng học thuật và sự thông thái. Người Chiêu Minh được mệnh danh là \"những ngọn đèn sáng dẫn lối\" của Li Căn nhờ sự uyên bác trong các lĩnh vực từ văn học, triết học đến khoa học. Người Chiêu Minh gia có thiên phú \"hiểu thấu tâm trí người khác qua lời nói\", giúp họ trở thành những nhà đàm phán, cố vấn và chiến lược gia xuất sắc.\n\nHọ sở hữu Thư Các Minh Đài, một thư viện đồ sộ chứa những cuốn sách quý hiếm nhất vương quốc, được bảo vệ bởi ma pháp do tổ tiên truyền lại. Chính thư viện này là nguồn tri thức giúp gia tộc giữ vững vị thế hàng đầu trong giới trí thức.\n\nTuy nhiên, Chiêu Minh thị bị chỉ trích vì sự kiêu ngạo và tính toán. Một vài thế hệ gần đây, mâu thuẫn nội bộ gia tộc và các tranh chấp quyền lực đã khiến Minh Đài trở thành một nơi đầy âm mưu, khiến danh tiếng của họ bị tổn hại và ít được kính trọng như xưa."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817229794_yfvbtt",
+      "title": "Đông Phương thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Đông Phương thị không chỉ nổi tiếng với trà tĩnh tâm mà còn được mệnh danh là bậc thầy ẩm thực của Li Căn. Gia tộc này sở hữu một loại trà đặc biệt mang tên Trà Linh Hoa, mỗi tách trà được chế biến với kỹ thuật bí truyền đều ẩn chứa phép thuật giúp người uống có thể tĩnh tâm, tăng cường trí lực hoặc thậm chí chữa lành một vài vết thương nhỏ. Ngoài trà, đồ ăn của Đông Phương gia cũng được xem là một trong những quốc bảo của Zerbrechens. Những món ăn của họ không chỉ ngon mà còn được kết hợp với các nguyên liệu hiếm có, được \"luyện hóa\" bằng ma pháp, có khả năng tăng cường thể lực, cải thiện sức khỏe và thậm chí hồi phục năng lượng phép thuật.\n\nNhững món ăn hay loại trà xuất phát từ đây luôn được săn đón bởi giới quý tộc khắp nơi nhưng giá cả cực kỳ cao, biến Đông Phương gia trở thành một trong những gia tộc vô cùng giàu có.\n\nTuy nhiên, tài năng của Đông Phương thị cũng khiến họ thường xuyên bị ganh ghét và nhắm đến bởi những gia tộc đối địch. Cũng có những lời đồn rằng nếu người Đông Phương tạo ra món ăn hoặc tách trà với ý đồ xấu, chúng có thể gây ra tác dụng ngược, khiến kẻ thù suy yếu hoặc rơi vào trạng thái tê liệt. Vì vậy dù được yêu mến, Đông Phương gia cũng bị không ít người dè chừng."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817247283_aovymt",
+      "title": "Hoa thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Hoa tộc nhân nam nữ đều có võ nghệ cao cường. Nhiều đời Hoa gia đầu quân trong quân đội chính quy và làm đến những chức vụ cao. Tiêu biểu là Hoa Vân, Hoa tướng quân. Ngay cả khi không hề được đào tạo trong quân đội Hoàng gia, Hoa Vân hai mươi lăm tuổi đã có thể ngồi vào chiếc ghế thứ ba của Thập Nhị Hiệp Sĩ Vụ Nguyệt và lập ra vô vàn chiến công sau đó.\n\nThế nhưng nhiều năm trước Hoa Vân đột nhiên biến mất cùng với người đệ đệ song sinh Hoa Thần khiến Hoa gia thiếu chút tan rã. Hoa gia tộc nhân người tài lớp lớp nhanh chóng vực lại khí thế hưng thịnh nhưng sự biến mất của Hoa Vân vẫn là một mất mát vô cùng to lớn của Hoa thị."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817260514_pr2moz",
+      "title": "Vu thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Vu thị là một gia tộc bí ẩn và mang màu sắc tâm linh. Tương truyền, Vu gia là hậu duệ của các Pháp sư Vu Tổ, những người có thể giao tiếp với các linh hồn và mượn lấy sức mạnh của những vì sao từ Hư Không – không gian bên ngoài bầu trời.\n\nGia tộc này là người bảo hộ cho các nghi thức tâm linh quan trọng ở Li Căn, từ lễ tế tổ tiên đến các nghi lễ phong ấn tà ác. Người Vu thị thường sinh ra với đôi mắt đen tuyền kỳ dị và được đồn đoán rằng họ có thể nhìn thấy các thực thể không thuộc về thế giới này, vì vậy họ luôn đeo băng mắt.\n\nVu Ly, một nữ tế sư huyền thoại của gia tộc, từng cứu toàn bộ Li Căn khỏi một trận đại dịch tà ma bằng những quyền thuật của mình.\n\nTuy nhiên do tính chất huyền bí, Vu thị thường phải đối mặt với sự xa lánh và nghi ngờ từ các gia tộc khác. Nhưng cũng nhờ đó, Vu thị có mối liên hệ sâu không lường được với bốn vị Chấp chính phe Chủ thần."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817273050_ts8ebz",
+      "title": "An thị",
+      "blocks": [
+        {
+          "kind": "quote",
+          "text": "“An kiều nương, Tiêu tiên sinh, Hoa nam tử.”"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Ý là nói An gia các cô nương người nào cũng xinh đẹp yêu kiều, thậm chí đây là điều phải nhắc đến đầu tiên khi nói về những điều nổi tiếng của Li Căn.\n\nNữ tử An gia người nào cũng biết thêu thùa, nam tử An gia ai ai cũng biết chế tạo trang sức. An gia sở hữu nhiều nghệ nhân mà những người quyền quý phải dùng trọng lễ mới có thể mời về được.\n\nAn gia làm nghề tơ lụa. Trong tay họ có lụa Lãnh Mỹ A cực kỳ quý giá, luôn nằm trong danh sách hai mươi trân bảo mà một quý tộc thực sự không thể thiếu."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817297238_4uz74j",
+      "title": "Tiêu thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Tiêu gia thành danh với tài văn chương và âm nhạc. Mặc dù số lượng tộc nhân không nhiều lại không quá giàu có nhưng họ sống cuộc sống thư thả và văn nhã.\n\nTương truyền Tiêu tộc nhân người nào cũng có trí tuệ hơn người, nói chuyện uyên bác. Mỗi thế hệ đều xuất hiện kỳ tài đến nay vẫn giữ chức vụ cao trong bộ máy chính quyền tại Vương đô và Học viện Hoàng gia. Kém nhất cũng là một tiên sinh dạy học được mọi người kính trọng.\n\nNhạc sư xuất thân từ Tiêu gia cực kỳ khó mời, âm nhạc của họ được ví như sợi dây liên kết đến dòng chảy phép thuật của Biển Sao, vô cùng kỳ diệu."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817309619_yhi7do",
+      "title": "Phương thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Phương thị được mệnh danh là gia tộc của những bậc thầy phong thủy và kiến trúc. Không chỉ hiểu biết về địa mạch, người Phương thị còn có khả năng \"nghe\" được âm thanh từ lòng đất, điều này giúp họ xây dựng những công trình kiên cố trường tồn với thời gian.\n\nNgười ta thường truyền tai nhau rằng bất kỳ công trình nào có sự góp mặt của Phương gia đều sẽ mang lại may mắn và phồn thịnh cho chủ nhân. Phương Hàn, một vị đại sư nổi tiếng trong lịch sử, từng là kiến trúc sư chính của Cung điện Hoàng gia hiện tại.\n\nThiên phú này đòi hỏi người dùng phải có một tâm trí thật sự bình ổn. Sự hỗn loạn và tham vọng có thể khiến họ mất đi khả năng cảm nhận thiên nhiên, đây chính là điều mà Phương thị phải tự đấu tranh qua nhiều thế hệ.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817320869_3yw7l0",
+      "title": "Hạ thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Hạ gia nổi danh với tài năng nông nghiệp và sự kết nối sâu sắc với thiên nhiên. Các cánh đồng lúa bạt ngàn và các đầm sen nở rộ của Hạ Liên chính là biểu tượng của gia tộc. Người Hạ thị được cho là có một thiên phú đặc biệt trong việc giao tiếp với cây cối và động vật.\n\nHọ sở hữu Liên Đài Cốc, một vùng đất thần bí có thể sản sinh các loại cây thuốc hiếm chỉ sau một đêm. Vì thế, Hạ gia nổi tiếng là nơi sản sinh ra các bậc thầy dược liệu, nhiều đời làm cố vấn chữa trị cho Hoàng tộc và các gia đình quyền quý.\n\nTuy nhiên, quyền năng này không phải ai trong gia tộc cũng thừa hưởng. Người Hạ thị thường phải thực hiện các nghi lễ để \"gọi\" mạch thần thảo trong cơ thể mình thức tỉnh, nhưng theo thời gian, tỷ lệ thành công ngày càng giảm khiến họ đang phải đối mặt với nguy cơ mất đi vị thế lâu đời của mình."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791817332484_8096sg",
+      "title": "Tô thị",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Nữ tử họ Tô múa rất đẹp, nam tử họ Tô biết vũ đạo. Một nam một nữ Tô gia thường phụ trách ở trên tế đàn thực hiện vũ đạo của những nghi lễ trong đại điển lớn ở Li Căn. Nữ tử sẽ khiêu vũ dưới phi bạch, sử dụng thân ảnh uyển chuyển và phi bạch khiến họ có thể nhảy múa trong khi ở trên không trung. Nam tử nhảy trên mặt một chiếc trống lớn ở bên dưới, cùng nữ tử tạo nên hiệu ứng ma thuật cực kỳ thần thánh. Nhưng điệu múa này đã thất truyền. 50 năm đổ lại đây không còn ai trong Tô gia có thể nhảy lại nó nữa.\n\nTô gia ban đầu chỉ là một gia đình nhỏ có truyền thống vũ đạo, sau khi Tô Tịch Nhu, một nữ kỳ nhân của Tô gia thời bấy giờ dùng một điệu vũ trác tuyệt khuynh đảo chúng sinh, thậm chí còn mời được cả thần linh đến thưởng thức, Tô gia từ đó phất lên như diều gặp gió, thậm chí đặt chân được vào hàng ngũ Thập Đại Gia Tộc.\n\nTô gia ở Li Căn là một gia tộc xa hoa, họ suy tàn trở thành gia tộc trung lưu sau khi điệu nhảy tế thần bị thất truyền. Dân gian vẫn luôn bàn tán về lý do vì sao gia tộc đó vẫn lưu lại được trong thập đại gia tộc ở Li Căn dù cho giờ đã không còn như trước."
+        }
+      ]
+    }
+  ]
+}

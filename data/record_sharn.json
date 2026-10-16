@@ -1,0 +1,70 @@
+{
+  "recordId": "record_sharn",
+  "title": "Sharn",
+  "subtitle": "Medium Aberration, Chaotic Neutral",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791989725322_xv1lvn",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Sharn",
+          "url": "sharn"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "18 (+4)\t",
+            "DEX": "20 (+5)",
+            "CON": "20 (+5)",
+            "INT": "18 (+4)\t",
+            "WIS": "18 (+4)",
+            "CHA": "20 (+5)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "Armor Class. 18 (natural armor and swiftness)\nHit Points. 168 (16d10 + 80)\nSpeed. 10 ft. fly 40 ft (Monstrous form, hover)\nSaving Throws. Dex +10, Con +10, Int +9, Cha +10\nSkills. Acrobatics +10, Arcana +9, History +9, Intimidation +10, Persuasion +10\nDamage Resistances. bludgeoning, piercing, slashing, that isn't magic\nCondition Immunities. charmed, frightened\nSenses. truesight 60ft, passive Perception 14\nLanguages. Common, Elvish\nChallenge. 16 (15000 XP)\nProficiency Bonus. +5"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Archetypical Shape.** The Sharn cannot change shape or have its shape changed, and no other creature can adopt the shape of a Sharn or anything approximating it.\n\n**Evasion.** If the sharn is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the sharn instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.\n\n**Magic Resistance.** The sharn has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons (Monstrous Form).** The sharn's weapon attacks are magical.\n\n**Hex Portal.** As a bonus action, the sharn can open one hex portal at a point the sharn can see within 20 ft. The hex portal remains as long as the sharn concentrates on it. It can have up to three hex portals active at once, and it can use a bonus action to move each hex portal 20 ft. to a point the sharn can see. The sharn can treat the hex portal as its location for purposes of determining what it can see, and it can use the portal as the origin point for any attacks or spells. Other creatures can't penetrate the portal to attack through it, but can ready attacks against the sharn if it attacks or casts spells through the portal. In such a case, the sharn gets a +5 bonus to AC and Dexterity saves due to cover.\n\n**Regeneration.** If the sharn starts its turn with at least 1 hit point and has no hex portal open, it regains 10 hit points.\n\n**Swiftness.** The sharn gets a +2 bonus to AC and Dexterity saves (included in the stats above). In addition, on its turn, it can take an extra action. If it takes the Attack action, it can make only one attack. If it takes the Cast a Spell action, it can cast only a cantrip.\n\n**Stone Camouflage.** Dakini has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\n\n**Mind Muddle (Recharge 4-6).** The sharn cast Dominate Person on a Humanoid or Hold Monster on a creature that isn't a Humanoid. If the saving throws agaisnt Mind Muddle fails by 5 or more, the creature is instead subjected to the feeblemind spell. While under the effect of that feeblemind, the creature is immune to Mind Muddle\n\n**Amorphous (Slime Form).** The sharn can move through a space as narrow as 1 inch without squeezing.\n\n**Arcane Sense.** The sharn ia aware of the presence of spellcaster magical effect within 2 miles of it. It know the distance and direction to each spellcaster and magical effect, but can't sense anything else about it. A spellcaster or object protected by a mind blank spell, a nondetection spell, or similar magic can't be perceives in this manner.\n\n**Spellcasting.** The sharn is a 12th-level spellcaster. The sharn's spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The sharn has the following sorcerer spells prepared:\n\n*Cantrip (at will):* diminish pain, flame bolt, prestidigitation, shocking grasp\n\n*1st level (4 slots):* cure wounds, magic missile, shield\n\n*2nd level (3 slots):* invisibility, melf's acid arrow, suggestion\n\n*3rd level (3 slots):* counterspell, dispel magic, fireball, protection from energy\n\n*4th level (3 slots):* banishment, confusion, dimension door\n\n*5th level (2 slots):* dominate person, wall of force\n\n*6th level (1 slots):* chain lightning, true seeing"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989796727_occk3x",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Multiattack.** The sharn makes three longsword attacks. If it hits a creature with one of these attacks, it can make a claws attack against it as part of the same attack.\n\n**Longsword.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage.\n\n**Claws.** +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6 + 4) slashing damage."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791989804775_4sso3v",
+      "title": "Bonus Action",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Transform.** The sharn transforms into its monstrous form or reverts to its slime form. Any equipment which are merging within its slime form is equipped in its monstrous form."
+        },
+        {
+          "kind": "callout",
+          "title": "Credits",
+          "body": "Ai đó từng có biệt danh discord là Catt"
+        }
+      ]
+    }
+  ]
+}

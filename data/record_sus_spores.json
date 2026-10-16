@@ -1,0 +1,51 @@
+{
+  "recordId": "record_sus_spores",
+  "title": "Sú Spores",
+  "subtitle": "Medium Plant, Any Neutral Alignment",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791990303283_54rmkd",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Sú Spores",
+          "url": "sus_spores"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "7 (–2)",
+            "DEX": "16 (+3)",
+            "CON": "18 (+4)",
+            "INT": "11 (+0)",
+            "WIS": "10 (+0)",
+            "CHA": "14 (+2)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 16 (natural armor)\n**Hit Points.** 133 (14d10 + 56)\n**Speed.** Fly 30 ft.\n**Saving Throws.** Dex +6, Con +7\n**Skills.** Stealth +6, Animal Handling +3\n**Damage Vulnerabilities.** fire\n**Damage Resistances.** cold, necrotic, poison\n**Damage Immunities.** lightning\n**Condition Immunities.** blinded, charmed, exhaustion\n**Senses.** darkvision 120 ft, blindsight 60 ft, passive Perception 10\n**Languages.** Common, Vegepygmy\n**Challenge.** 5 (1800 XP)\n**Proficiency Bonus.** +3"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791990362194_mux7io",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Multiattack.** The sus makes three Claw attacks or two Rotting attacks.\n\n**Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 2) slashing damage.\n\n**Rotting.** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/90 ft., one target. *Hit:* 5 (1d6 + 4) poison damage with range, or 6 (1d8 + 4) necrotic damage if used with melee attack.\n\n**Spores (Recharge 5–6).** A 30-foot-radius cloud of toxic spores extends out from the Sus. The spores spread around corners. Each creature in that area that isn't a Plant must succeed on a DC 15 Constitution saving throw or be poisoned. While poisoned in this way, a target takes 16 (4d8) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. The cloud of toxic spores still alive even if Sus die."
+        }
+      ]
+    }
+  ]
+}

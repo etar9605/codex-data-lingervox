@@ -1,0 +1,60 @@
+{
+  "recordId": "record_sleepy_stone_horse",
+  "title": "Sleepy Stone Horse",
+  "subtitle": "Large Monstrosity, Unaligned",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791990064045_c6cgvk",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Sleepy Stone Horse",
+          "url": "sleepy_stone_horse"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "22 (+6)",
+            "DEX": "10 (+0)",
+            "CON": "20 (+5)",
+            "INT": "6 (–2)",
+            "WIS": "11 (+0)",
+            "CHA": "5 (–3)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 17 (natural armor)\n**Hit Points.** 178 (17d10 + 85)\n**Speed.** 50 ft.\n**Saving Throws.** Str +9, Con +8\n**Skills.** Animal Handling +3, Athletics +9\n**Damage Immunities.** poison, piercing, psychic, bludgeoning, slashing, from nonmagical attacks that aren't misthril\n**Condition Immunities.** charmed, exhaustion, frightened, paralyzed, poisoned, petrified\n**Senses.** blindsight 60ft., Darkvision 60ft., passive Perception 10\n**Languages.** understands the languages of its creator but can't speak\n**Challenge.** 6 (2300 XP)\n**Proficiency Bonus.** +3"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Immutable Form.** the sleepy stone horse is immune to any spell or effect that would alter its form.\n\n**Magic Resistance.** the sleepy stone horse has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons.** the sleepy stone horse's weapon attacks are magical.\n\n**Immortal Creature.** When the sleepy stone horse's HP drops to 0 for any reason, it will fall asleep. If awakened by a Red Ash Lantern before 7 days have elapsed since the last awakening, when awake, the sleepy stone horse will have twice its previous HP. Each time it wakes up, it will be able to use the following spells an arbitrary number of times: 1st time: misty step. Second time: misty step, banishment. 3rd time: misty step, banishment, guardian of faith. 4th time on: misty step, banishment, guardian of faith, mordenkainen's faithful hound."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791990129292_m08gcw",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Slam.** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.\n\n**Slow (Recharge 5–6).** The sleepy stone horse targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+        },
+        {
+          "kind": "callout",
+          "title": "Thông tin thêm",
+          "body": "Ngựa đá của Phù Thủy Tro Đỏ"
+        }
+      ]
+    }
+  ]
+}

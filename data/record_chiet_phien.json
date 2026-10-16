@@ -1,0 +1,36 @@
+{
+  "recordId": "record_chiet_phien",
+  "title": "Chiết phiến",
+  "subtitle": "Vật Phẩm",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [
+    "Fan"
+  ],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791905753645_6ufmip",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Chiết phiến",
+          "url": "chiet_phien"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Weapon: Simple, Melee, 25gp, 1 lb. 1d4 piercing, dancer weapon, finesse, sharp fan, light fan, nick, thrown (20/60)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Dancer Weapon:* Bạn phải là một dancer thuần túy để có thể thành thạo với Chiết Phiến, điều này cho phép bạn thêm proficiency bonus của bạn vào bất cứ attack nào bạn thực hiện bằng Chiết Phiến.\n\n*Finesse:* Khi attack bằng finesse weapon, bạn có thể chọn sử dụng Strength hoặc Dexterity modifier cho attack và damage rolls. Bạn phải dùng cùng modifier cho cả 2 rolls.\n\n*Light Fan:* Vũ khí nhẹ, nhỏ nhưng không dễ điều khiển (yêu cầu Proficiency với Chiết phiến và Dexterity 13 trở lên), lý tưởng để sử dụng khi chiến đấu với hai loại vũ khí.\n\n*Sharp Fan:* Bạn có thể cộng thêm 1d4 vào to hit của một attack mà bạn chọn một lần mỗi turn.\n\n*Thrown:* Bạn có thể ném vũ khí để thực hiện một ranged attack. Nếu vũ khí là một vũ khí cận chiến, bạn phải sử dụng ability modifier cho attack roll và damage roll giống như khi bạn melee attack bằng vũ khí này.\n\n*Nick:* Một lần một turn, khi thực hiện Attack action, bạn có thể tấn công hai lần bằng Chiết Phiến. Đòn đánh này có thể cộng dồn với Extra Attack.\n\n*Special:* Khi thrown, vũ khí này di chuyển như một chiếc boomerang và sẽ trở lại tay của bạn sau khi thực hiện một ranged attack."
+        }
+      ]
+    }
+  ]
+}

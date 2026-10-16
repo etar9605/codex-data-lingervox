@@ -1,0 +1,30 @@
+{
+  "recordId": "record_pra",
+  "title": "PRa",
+  "subtitle": "Tiền tệ | Vật liệu",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791985845411_2rreip",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Pra",
+          "url": "pra"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Đồng xu bằng chất liệu đặc biệt màu vàng sáng hoặc bạc ánh xanh. Dùng làm chất xúc tác trong chế tạo."
+        }
+      ]
+    }
+  ]
+}

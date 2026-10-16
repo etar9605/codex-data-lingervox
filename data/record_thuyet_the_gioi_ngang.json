@@ -1,0 +1,34 @@
+{
+  "recordId": "record_thuyet_the_gioi_ngang",
+  "title": "Thuyết thế giới ngang",
+  "subtitle": "Vật Phẩm",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791910208434_6qra8t",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Thuyết thế giới ngang",
+          "url": "thuyet_the_gioi_ngang"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Sách, Không phổ biến*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Cuốn sách cổ rất dày trông có vẻ cũ kỹ nhưng được bảo quản khá tốt. Các gáy sách và trang bìa vuông vắn bọc bằng da thuộc từ bàn tay khéo léo của người thợ thủ công còn vô cùng chắc chắn.\n\nTác giả cuốn sách đưa ra giả thiết về việc thời không không chỉ có một. Trong vũ trụ có rất nhiều những vị diện khác nhau, đồng thời tồn tại các thế giới khác nhau giống như các đường thẳng song song nằm ngang trên trục x. Chúng không bao giờ cắt nhau.\n\nĐiều thú vị là những đường tiệm cận thì tương đối giống nhau, có nghĩa là các thế giới càng gần nhau thì càng có cấu tạo tương tự nhau, thậm chí chỉ lệch nhau vài inch.\n\nMột ví dụ cho điều này là đôi khi chúng ta không tìm được một đồ vật nào đó, nhưng trong một lúc khác ta lại thấy nó ở vị trí cách vị trí ban đầu trong trí nhớ chúng ta vài inch.\n\n[...]\n\nPhần sau của cuốn sách diễn giải thêm về điều này và đưa ra những nghi vấn khác khiến cho đây vẫn chỉ là một giả thiết chưa được chứng minh rõ ràng."
+        }
+      ]
+    }
+  ]
+}

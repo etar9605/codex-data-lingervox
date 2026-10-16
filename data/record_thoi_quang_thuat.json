@@ -1,0 +1,25 @@
+{
+  "recordId": "record_thoi_quang_thuat",
+  "title": "Thuật Thức Thời Quang",
+  "subtitle": "Cấm Thuật Phân Thân & Nghịch Chuyển Dòng Chảy",
+  "category": "lore",
+  "typeLabel": "OFFICIAL RECORD · LORE",
+  "aliases": [
+    "Ma Pháp Thời Gian",
+    "Chrono-Arcana"
+  ],
+  "lead": "Tri thức ma pháp tối cao cho phép người thi triển can thiệp vào các nhánh rẽ thời gian và duy trì thực thể đa điểm.",
+  "revision": 2,
+  "sections": [
+    {
+      "id": "knowledge",
+      "title": "Nguyên lý",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Không phải bất kỳ ma pháp sư nào cũng có thể lĩnh hội. Cần một linh hồn vừa chịu sự đày đọa của á thần vừa có tri thức quán triệt vạn tượng."
+        }
+      ]
+    }
+  ]
+}

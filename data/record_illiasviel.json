@@ -1,0 +1,49 @@
+{
+  "recordId": "record_illiasviel",
+  "title": "Illiasviel",
+  "subtitle": "Hiệp Sĩ Vụ Nguyệt Thứ 12 · Ánh Sáng Isode",
+  "category": "characters",
+  "typeLabel": "OFFICIAL RECORD · CHARACTER",
+  "aliases": [
+    "Isode",
+    "Hiệp sĩ thứ 12",
+    "Nữ Hiệp Sĩ Ánh Trăng"
+  ],
+  "lead": "Nữ hiệp sĩ kiên định của Zerbrechens, người mang danh hiệu Isode và là ngọn đèn soi sáng cuộc đời tăm tối của Ayinviel.",
+  "revision": 2,
+  "relationships": [
+    {
+      "targetId": "record_ayinviel",
+      "name": "Ayinviel",
+      "relation": "Người Được Cưu Mang · Tri Kỷ",
+      "detail": "Đứa trẻ bán tiefling được Illiasviel cưu mang từ thuở thiếu thời và dành trọn sinh mệnh để tưởng nhớ nàng.",
+      "subtitle": "Hiền Triết Ảo Ảnh · Á Thần"
+    },
+    {
+      "targetId": "record_zerbrechens",
+      "name": "Zerbrechens",
+      "relation": "Vương Quốc Phụng Sự",
+      "detail": "Quê hương mà Illiasviel đã thề bảo vệ dưới danh hiệu Hiệp Sĩ Vụ Nguyệt thứ 12 — Isode.",
+      "subtitle": "Vương Quốc Cổ Tịch"
+    },
+    {
+      "targetId": "record_vu_nguyet_thanh",
+      "name": "Vụ Nguyệt Thành",
+      "relation": "Thành Trì Đóng Quân",
+      "detail": "Cố đô sương mù của Thập Nhị Hiệp Sĩ, nơi ghế số 12 của Isode bị bỏ trống mãi mãi.",
+      "subtitle": "Cố Đô Sương Mù"
+    }
+  ],
+  "sections": [
+    {
+      "id": "legend",
+      "title": "Huyền thoại",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Illiasviel là người đã cưu mang Ayinviel từ khi cậu còn là một đứa trẻ mồ côi mang nửa dòng máu tiefling. Sự hy sinh của nàng nơi tiền tuyến Vụ Nguyệt đã trở thành vết thương vĩnh hằng trong tâm khảm của Ayinviel."
+        }
+      ]
+    }
+  ]
+}

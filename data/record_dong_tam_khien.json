@@ -1,0 +1,31 @@
+{
+  "recordId": "record_dong_tam_khien",
+  "title": "Đồng Tâm Khiên",
+  "subtitle": "Etar's Manuscript",
+  "category": "spells",
+  "categoryName": "Ma Thuật",
+  "typeLabel": "OFFICIAL RECORD · SPELL",
+  "aliases": [
+    "Shield of Solidarity"
+  ],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791908725239_37j34e",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "*2nd Level Abjuration. (Vô nhân, Vũ Công, Dòng Hội Huy)*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Casting time:** 1 reaction (khi creature trong 30 feet bị trúng đòn)\n**Range:** 30 ft\n**Components:** V\n**Duration:** Instantaneous\n**Description:** Khi một creature trong 30 feet bị trúng đòn tấn công, bạn dùng reaction để chuyển hướng một phần sát thương. Creature đó nhận nửa damage, phần còn lại bạn nhận thay.\n\nNếu creature đó đang dưới 50% HP, bạn chỉ chịu 1/3 của damage ban đầu.\nNếu creature đó đang dưới 25% HP, bạn phải chịu 1/2 của damage ban đầu đồng thời hồi lại cho creature đó số HP bằng Charisma modifier của bạn."
+        }
+      ]
+    }
+  ]
+}

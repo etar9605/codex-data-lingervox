@@ -1,0 +1,55 @@
+{
+  "recordId": "record_hulking_shadow_demon",
+  "title": "Hulking Shadow Demon",
+  "subtitle": "Medium Aberration, Chaotic Neutral",
+  "category": "monsters",
+  "categoryName": "Ma Vật",
+  "typeLabel": "OFFICIAL RECORD · MONSTER",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791987648677_xucbj7",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Hulking Shadow Demon",
+          "url": "hulking_shadow_demon"
+        },
+        {
+          "kind": "stats",
+          "stats": {
+            "STR": "20 (+5)",
+            "DEX": "9 (-1)",
+            "CON": "18 (+4)",
+            "INT": "3 (-4)",
+            "WIS": "8 (-1)",
+            "CHA": "1 (-5)"
+          }
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Armor Class.** 14 (natural armor)\n**Hit Points.** 133 (14d10 + 56)\n**Speed.** 30 ft.\n**Saving Throws.** Dex +10, Con +10, Int +9, Cha +10\n**Damage Immunities.** acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine\n**Condition Immunities.** charmed, exhaustion, frightened, paralyzed, poisoned, petrified\n**Senses.** darkvision 60 ft, passive Perception 9\n**Languages.** understands the languages of its creator but can't speak\n**Challenge.** 6 (2300 XP)\n**Proficiency Bonus.** +4"
+        },
+        {
+          "kind": "paragraph",
+          "text": "**Acid Absorption.** Whenever the hulking shadow demon is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.\n\n**Immutable Form.** The hulking shadow demon is immune to any spell or effect that would alter its form.\n\n**Magic Resistance.** The hulking shadow demon has advantage on saving throws against spells and other magical effects.\n\n**Magic Weapons.** The hulking shadow demon's weapon attacks are magical."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791987759372_suq2na",
+      "title": "Actions",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "**Slam.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. if the demon had advantage on the attack roll, 22 (4d10 + 5) bludgeoning damage."
+        }
+      ]
+    }
+  ]
+}

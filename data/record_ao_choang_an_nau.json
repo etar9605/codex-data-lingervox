@@ -1,0 +1,30 @@
+{
+  "recordId": "record_ao_choang_an_nau",
+  "title": "Áo choàng ẩn náu",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1790865695978",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Áo choàng ẩn náu",
+          "url": "ao-choang-an-nau"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Bộ trang phục trang nhã này được làm bằng lụa sẫm màu đan xen với những sợi màu hổ phách nhạt. Khi mặc chiếc áo choàng này, bạn có thể kéo mũ trùm qua đầu che giấu hoàn toàn khuôn mặt của mình. Cố gắng nhìn vào để xem mặt của bạn sẽ chỉ thấy một khoảng bóng tối. Ngoài ra, khi đội mũ trùm đầu lên, bạn có thể ẩn khỏi phép thuật Divination và bạn không thể bị nhắm mục tiêu bởi phép thuật đó hoặc bị phát hiện thông qua các cảm biến bói toán ma thuật."
+        }
+      ]
+    }
+  ]
+}

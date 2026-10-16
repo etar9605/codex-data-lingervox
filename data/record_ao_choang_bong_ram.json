@@ -1,0 +1,29 @@
+{
+  "recordId": "record_ao_choang_bong_ram",
+  "title": "Áo Choàng Bóng Râm",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 3,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1790864753225",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "url": "ao-choang-bong-ram"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Chiếc áo choàng có thiết kế kỳ lạ này được làm bằng lụa đen đan xen với những sợi bạc mờ. Khi mặc chiếc áo choàng này, bạn có thể kéo mũ trùm qua đầu để giúp bản thân miễn nhiễm với tác động của ánh nắng mặt trời."
+        }
+      ]
+    }
+  ]
+}

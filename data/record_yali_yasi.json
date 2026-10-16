@@ -1,0 +1,178 @@
+{
+  "recordId": "record_yali_yasi",
+  "title": "Yali-yasi",
+  "subtitle": "Dòng Băng Tuyết",
+  "category": "races",
+  "categoryName": "Chủng Tộc",
+  "typeLabel": "OFFICIAL RECORD · RACE",
+  "aliases": [
+    "Á Lợi Á Tư"
+  ],
+  "lead": "Một chủng tộc cực kì hiếm gặp và rất ít xuất hiện trong các tài liệu thông thường. Còn gọi là Á Lợi Á Tư theo ngôn ngữ phương Đông. Mặc dù thượng tôn sức mạnh thể chất nhưng các Yali-yasi chưa bao giờ là những kẻ võ phu ngu ngốc, mỗi một Yali-yasi đều là một chuyên gia trong lĩnh vực của riêng họ mà ít người nào bì kịp.",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791808277412_q7ebxi",
+      "title": "Ngoại hình",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Đa số các Yali-yasi đều có chiều cao vượt trội người bình thường, làn da ngăm xám và rất nhiều hình xăm trên cơ thể. Đôi tai nhọn của họ thường khiến người khác tưởng rằng họ là Elf, nhưng không giống như Elf các Yali-yasi thường đeo nhiều trang sức trên tai và ngón tay của mình. Trang sức có ý nghĩa quan trọng trong văn hóa chủng tộc nói chung và mang tính biểu tượng bộ tộc nói riêng.\n\nNgười Yali-yasi sinh ra đã có hình vẽ trên cơ thể, những hình này chỉ chiếm một phần diện tích rất nhỏ và thường khác nhau ở mỗi cá nhân. Thông thường sau khi trải qua lễ trưởng thành, các Yali-yasi sẽ tự xăm thêm các hình mà mình mong muốn."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808295206_y90g9v",
+      "title": "Tính cách",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Phần lớn Yali-yasi yêu thích mạo hiểm và vô cùng thiện chiến. Dù là nam hay nữ, việc tổ chức các cuộc so tài chiến đấu luôn được ủng hộ nhiệt tình trong xã hội của họ."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808302338_o6x3ei",
+      "title": "Xã hội",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Chế độ bộ tộc với tộc trưởng và các trưởng lão. Một số bộ tộc lớn sẽ có thêm shaman. Tộc trưởng là người có uy tín nhất trong tộc, các trưởng lão sẽ được cả bộ tộc đề cử và đồng ý để giúp tộc trưởng trong công việc của bộ tộc, còn shaman thường là những nữ pháp sư yali-yasi lớn tuổi có vai trò kết nối với các vị thần và thực hiện các loại nghi lễ."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808311825_xmmap1",
+      "title": "Môi trường",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Yali-yasi là chủng tộc ưa lạnh, thường sống ở các khu vực băng giá quanh năm như núi tuyết hoặc cực bắc. Một số rất ít yali-yasi còn sinh sống ở Vực Thẳm Cực Lạnh nơi mà ngay cả côn trùng cũng bị đông cứng."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808322556_483bgb",
+      "title": "Tập tục",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Các yali-yasi có tuổi thọ dài hơn con người, trung bình một yali-yasi có thể sống đến 300 năm, vì vậy đến 50 tuổi họ mới được làm lễ trưởng thành. Lễ trưởng thành sẽ diễn ra vào một ngày trời có tuyết rơi hoặc nhiệt độ giảm xuống lạnh hơn mọi khi. Rất ít yali-yasi được xăm mình trước khi trải qua lễ trưởng thành. Lễ trưởng thành phải được sự chứng kiến của cha mẹ và tộc trưởng hoặc ít nhất là một vị trưởng lão. Tốt hơn nữa là có một shaman chuẩn bị nghi lễ.\n\nSau khi trải qua lễ trưởng thành, các yali-yasi có thể xăm mình, xăm bất cứ hình vẽ nào họ muốn, thông thường là các bức hoa văn trong sách cổ, ký tự cổ của chủng tộc hoặc đơn giản là những hình vẽ khác mà họ thấy đẹp. Yali-yasi quan niệm rằng bọn họ có sức mạnh thể chất hơn người vì đã đánh đổi thiên phú ma thuật, cho nên các hình xăm sẽ giúp họ duy trì mối liên kết mong manh đó với dòng chảy phép thuật của Biển Sao."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808336122_pdfhym",
+      "title": "Phong cách chiến đấu",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Các yali-yasi có một sức mạnh thể chất phi thường, vì vậy họ ưa dùng nắm đấm và sức mạnh vật lí trong chiến đấu. Câu cửa miệng thường nói là: *\"Ngươi không thể gây sát thương cho đối thủ chỉ là do ngươi chưa đủ mạnh mà thôi!\"*"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808356627_hylcr2",
+      "title": "Danh nhân",
+      "blocks": [
+        {
+          "kind": "callout",
+          "title": "Stonewarden",
+          "body": "Một huyền thoại về sức mạnh trong những câu chuyện của người Yali-yasi. Cũng là nhân vật có thật trong lịch sử từng chiến đấu trong cuộc chiến tranh giành lãnh thổ với nhân tộc."
+        },
+        {
+          "kind": "callout",
+          "title": "Rylan",
+          "body": "Thiên tài trong sử dụng ma thuật, đặc biệt là các phép thuật lửa. Kỳ nhân mà những đứa trẻ có hoài bão trở thành pháp sư hướng đến. Người yali-yasi không có thiên phú ma thuật, thậm chí nhiều người còn không thể sử dụng phép thuật đơn giản nhất, Rylan chính là minh chứng cho việc chủng tộc yali-yasi chưa bao giờ bị dòng chảy ma thuật bỏ rơi."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808385672_x4mr6r",
+      "title": "Lịch sử",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Sau cuộc chiến tranh giành lãnh thổ với nhân tộc, các yali-yasi nhượng bộ và lui về phía các đỉnh núi cao. Ngày nay rất hiếm khi gặp được một yali-yasi, họ thường bị nhầm lẫn là elf nhưng lại ít khi giải thích. Dù sao thì cũng không ảnh hưởng gì đến họ cả.\n\nTỷ lệ sinh sản thấp cũng là lý do khiến nhân số của Yali-yasi ngày càng trở nên ít ỏi. Quan trọng hơn, với tính cách hiếu chiến và nhiệt huyết của mình bọn thường mạo hiểm tính mạng bất kể việc đó đem đến nguy hiểm như thế nào.\n\nCác yali-yasi sống hòa đồng với con người kể cả sau cuộc chiến tranh giành lãnh thổ. Thường sẽ giúp đỡ nếu gặp ai đó gặp khó khăn nên núi tuyết."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808396405_epdl4z",
+      "title": "Tôn giáo và tín ngưỡng",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Một yali-yasi có thể thờ hoặc không thờ thần, đối với họ, việc tin vào một vị thần không chiếm nhiều vị trí trong cuộc sống hằng ngày. Nếu có, họ thường sẽ thờ Apepclion - Vị thần của sa mạc và băng tuyết.\n\nNhững yali-yasi tin vào sức mạnh của họ, tin vào cảm giác mát lạnh mà băng tuyết đem tới. Các hình xăm và trang sức treo trên tai cũng là niềm tin của họ vào sức mạnh thể chất."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791808407039_vpr79j",
+      "title": "Yali-yasi trait",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Nhân vật Yali-yasi của bạn bẩm sinh đã có những khả năng sau:"
+        },
+        {
+          "kind": "callout",
+          "title": "Ability Score Increase",
+          "body": "Strength của bạn tăng thêm 2 và Dexterity của bạn tăng thêm 1 hoặc 3 chỉ số khác mỗi thứ tăng thêm 1."
+        },
+        {
+          "kind": "callout",
+          "title": "Age",
+          "body": "Các yali-yasi có tuổi thọ dài hơn con người, trung bình một yali-yasi có thể sống đến 300 năm."
+        },
+        {
+          "kind": "callout",
+          "title": "Alignment",
+          "body": "Đa số là neutral hoặc good neutral. Tất nhiên vẫn luôn có ngoại lệ, bạn có thể chọn bất cứ alignment nào phù hợp."
+        },
+        {
+          "kind": "callout",
+          "title": "Size",
+          "body": "Chiều cao vượt trội và thân hình lực lưỡng nhưng size của bạn vẫn tính là Medium."
+        },
+        {
+          "kind": "callout",
+          "title": "Speed",
+          "body": "Tốc độ đi bộ cơ bản của bạn là 30 feet."
+        },
+        {
+          "kind": "callout",
+          "title": "Type",
+          "body": "Nhóm creature của bạn được định nghĩa là humanoid."
+        },
+        {
+          "kind": "callout",
+          "title": "Coldsight",
+          "body": "Nhờ truyền thừa chủng tộc của mình, bạn có tầm nhìn vượt trội trong điều kiện lạnh giá. Môi trường lạnh và băng tuyết tạo thuận lợi cho bạn cảm nhận được xung quanh trong vòng 60 feet như thể đó là điều kiện bình thường mà không cần thị lực từ đôi mắt của bạn, kể cả khi không có ánh sáng."
+        },
+        {
+          "kind": "callout",
+          "title": "Yali Resistance",
+          "body": "Bạn có khả năng resistance với cold damage."
+        },
+        {
+          "kind": "callout",
+          "title": "Yali is Strength",
+          "body": "Sức mạnh vượt trội bẩm sinh giúp bạn có được advantage khi thực hiện các check và save liên quan đến Strength."
+        },
+        {
+          "kind": "callout",
+          "title": "Fall Down Mountain",
+          "body": "Khi rơi xuống từ trên núi hoặc địa hình cao, bạn có thể bám vào vật cản hoặc dựa vào kinh nghiệm để tìm cách rơi xuống và giảm mức sát thương. Roll xúc xắc có số lần là độ rơi của bạn rồi trừ đi kết quả vào số lần roll xúc xắc của DM. Ví dụ khi bạn phải rơi 15d6 fall damage, hãy roll 1d15, giả sử kết quả là 9 thì 9d6 là số damage bạn phải nhận."
+        },
+        {
+          "kind": "callout",
+          "title": "Languages",
+          "body": "Bạn có thể nói, đọc, viết Common, Elvish và Yali-yasi."
+        }
+      ]
+    }
+  ]
+}

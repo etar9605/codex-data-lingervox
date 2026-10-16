@@ -1,0 +1,34 @@
+{
+  "recordId": "record_van_tu_cat_ngu",
+  "title": "Vân Tự Cát Ngữ",
+  "subtitle": "Vật Phẩm Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986546439_3hxyl3",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Vân Tự Cát Ngữ",
+          "url": "https://etarbox.onrender.com/static/etherila_tatoo.png"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Hình xăm này xuất hiện trên vị trí bất kì nào mà bạn chọn trên cơ thể. Là lời chúc phúc âm thầm của Etherila.\n\nVân Tự Cát Ngữ sẽ tự động kích hoạt trong lần đầu tiên bị fail 3 death save sau mỗi long rest, giúp bạn được stable."
+        },
+        {
+          "kind": "quote",
+          "text": "Etherila công nhận lòng tốt cao cả của bạn, nguyện bạn mãi bình an..."
+        }
+      ]
+    }
+  ]
+}

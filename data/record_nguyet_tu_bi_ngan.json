@@ -1,0 +1,34 @@
+{
+  "recordId": "record_nguyet_tu_bi_ngan",
+  "title": "Nguyệt Tự Bí Ngân",
+  "subtitle": "Vũ Khí Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791984981024_6hv8rw",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Nguyệt Tự Bí Ngân",
+          "url": "nguyet_tu_bi_ngan"
+        },
+        {
+          "kind": "paragraph",
+          "text": "*Weapon (shortbow), Legendary (requires attunement), Simple weapon, ranged weapon, 1d6 magic piercing - ammunition (80/320 ft.), two-handed*"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Tỏa ra ánh sáng tím mờ ảo và huyền bí, không có ống tên đi kèm. Chủ nhân của cây cung có thể trực tiếp kéo cung và mũi tên ánh sáng sẽ hiện ra, lao vút đi như cách ánh trăng xuyên qua kẽ lá của những tán đại thụ.\nMang trên mình cổ văn của chủng tộc Moon Elf, cây cung trực tiếp ảnh hưởng bởi người đã viết những ký tự này - Dakini Elviquia, một moon elf tôn thờ nữ thần Erythia.\n\n**Phước lành Tinh Hà:** Nếu bạn là một tín đồ của Erythia, bạn sẽ nhận được những lợi ích sau nếu đạt đủ điểm mộ đạo:\n10+: Nhận một minor beneficial ngẫu nhiên.\n25+: Nhận một major beneficial ngẫu nhiên.\nSau mốc 25 điểm, cứ tăng thêm 15 điểm mộ đạo nhận một minor beneficial ngẫu nhiên.\\nNếu bạn không phải là tín đồ của Erythia, bạn sẽ phải nhận một minor detrimental ngẫu nhiên.\n\n**Phá cung:** Cây cung không thể bị phá hủy một khi những kí tự trên Mithril viết bởi Dakini Elviquia không bị xóa đi hoặc Dakini bị giết bởi tơ nhện từ nữ thần Nhện Lolth và các tín đồ.\n\n**Lời thề sinh tử:** Khi tấn công một creature trong phạm vi, bạn có thể nói ra một lời thề, đại loại như \"Ta thề rằng sẽ khiên kẻ xúc phạm ta phải trả giá!\" hoặc đơn giản hơn là \"Chết đi!\". Sau khi lời thề được thiết lập, creature sẽ trở thành kẻ thù của bạn cho đến khi nó chết hoặc đến hết bảy ngày sau đó. Kẻ thù của bạn sẽ phải nhận thêm 3d6 magic piercing khi bạn bắn trúng, kể cả ngoài tầm bắn bình thường bạn cũng sẽ không gặp bất lợi khi tấn công mục tiêu của lời thề. Cho tới khi creature chết hoặc được giải phóng khỏi lời thề sau bảy ngày, bạn sẽ bị disvantage khi sử dụng toàn bộ những vũ khí khác.\n\n**Tầm bắn:** Vũ khí có thể được sử dụng để thực hiện một cuộc tấn công tầm xa có phạm vi được ghi trong ngoặc đơn. Phạm vi liệt kê hai số, đầu tiên là phạm vi bình thường của vũ khí tính bằng feet và thứ hai cho biết phạm vi tối đa của vũ khí. Khi tấn công một mục tiêu vượt quá phạm vi bình thường, bạn bị disvantage khi tấn công. Bạn không thể tấn công mục tiêu ngoài tầm xa của vũ khí.\n\n**Hai tay:** Vũ khí này cần hai tay để sử dụng. Thuộc tính này chỉ yêu cầu khi bạn tấn công bằng vũ khí, không bắt buộc khi bạn cầm nó."
+        }
+      ]
+    }
+  ]
+}

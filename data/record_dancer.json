@@ -1,0 +1,469 @@
+{
+  "recordId": "record_dancer",
+  "title": "Dancer",
+  "subtitle": "Uyển Chuyển Như Nước",
+  "category": "classes",
+  "categoryName": "Lưu Phái",
+  "typeLabel": "OFFICIAL RECORD · CLASS",
+  "aliases": [
+    "Vũ Công"
+  ],
+  "lead": "Các dancer đã tồn tại từ những buổi bình minh đầu tiên trên dòng thời gian, từ khi có âm nhạc. Một số người chỉ đơn thuần là biểu diễn, một số khác lại là những đấu sĩ điêu luyện và một số khác nữa lại có năng khiếu về những ma thuật cầu kỳ. Dancer nào cũng nhanh nhẹn, uyển chuyển và vô dùng duyên dáng.",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791806432687_xqoyww",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Các dancer thích sự nhanh nhẹn uyển chuyển hơn là thể hiện sức mạnh võ phu. Một số dancer ủng hộ việc thuyết phục đối phương hơn là chiến đấu. Trong khi đối phương mải mê với sự diêm dúa mỹ lệ của họ thì họ đã uyển chuyển né tránh các cuộc tấn công đồng thời cũng phản công lại một cách mạnh mẽ. Dựa vào việc truyền bí thuật vào các điệu nhảy, họ có thể gây ra hàng loạt hiệu ứng có thể lật ngược tình thế và khiến đối thủ bất ngờ. Mọi dancer đều biết cách thể hiện sao cho được một màn trình diễn cuốn hút, dù cho đó là một màn khiêu vũ hay một hành động lừa đảo. Rất nhiều dancer sống một cuộc đời mưu mô và đầy rẫy những nguy hiểm chính trị, biểu diễn cho hoàng gia và thu thập tình báo.\n\nCũng như không phải người nào hát cũng là \"ca sĩ\", không phải người nào nhảy múa cũng là \"vũ công\". Một số dancer (vũ công) chỉ đơn giản là những người biểu diễn, không được huấn luyện chiến đấu hoặc các kĩ năng khác. Còn những dancer thực thụ lại là những bậc thầy về thao túng và cũng là những chiến binh đầy tao nhã. Chỉ những dancer thực thụ mới có thể theo đuổi những bí mật phức tạp, những kho báu ẩn giấu rây mơ rễ má sâu sắc với chính trị. Một số dancer bị vướng vào mạng lưới rắc rối của âm mưu và sát nhân, thậm chí có những người lại mạnh lên nhờ lối sống đó, say sưa thưởng thức sự thông thạo tuyệt vời của mình với những người giàu có và quyền lực."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791806490965_oumyzn",
+      "title": "Be a dancer",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Khi tạo một Dancer, bạn nên trả lời một số câu hỏi sau: Vì sao bạn lại đến với khiêu vũ? Ai đã dạy cho bạn? Người thân hay sư phụ? Học viện hay lớp truyền đạt cá nhân? Bạn có tham gia vào các cuộc tranh đấu chính trị? Bạn có hối hận về điều đó không? Bạn có thích nó không? Bạn có ham muốn tiền tài, danh vọng hay quyền lực không? Bạn sử dụng sự quyến rũ và trí thông minh của mình như thế nào? Vì một lý tưởng cao đẹp hay vì lợi ích bản thân? Bạn có phải là thành viên của một tổ chức nào đó không? Bạn đã là một dancer chuyên nghiệp bao lâu rồi?"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791806510609_kas2jp",
+      "title": "Class Features",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Là một Dancer, bạn được các tính năng sau:"
+        },
+        {
+          "kind": "callout",
+          "title": "Hit points",
+          "body": "*Hit Dice:* 1d8 cho mỗi level dancer\n*Hit Points at 1st Level:* 8 + Constitution modifier của bạn\n*Hit Points at Higher Levels:* 1d8 (or 5) + Constitution modifier cho mỗi level dancer cao hơn sau level 1"
+        },
+        {
+          "kind": "callout",
+          "title": "Proficiencies",
+          "body": "*Armor:* Null\n*Weapons:* Simple weapons, Finesse Weapons, Fan, Umbrella, Whip\n*Tools:* Disguise kit, Forgery kit\n*Saving Throws:* Dexterity, Charisma\n*Skills:* Chọn 3 trong: Acrobatics, Deception, Perception, Performance, Persuasion, Sleight of Hand, and Stealth."
+        },
+        {
+          "kind": "callout",
+          "title": "Equipment",
+          "body": "Ngoài các trang bị được cấp bởi background của bạn, bạn bắt đầu với các trang bị sau:\n- (a) 1 rapier, (b) 1 fan hoặc (c) 1 whip\n- (a) 1 entertainer's pack hoặc (b) 1 burglar's pack\n- (a) fine clothes hoặc (b) costume clothes, 2 daggers"
+        }
+      ]
+    },
+    {
+      "id": "sec_1791806639275_iaf569",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "table",
+          "text": "",
+          "title": "The Dancer",
+          "caption": "FM: Fluid Movements | DT: Dance Technique | ASI: Ability Score Improvement",
+          "headers": [
+            "Level",
+            "Proficiency Bonus",
+            "Features",
+            "Cantrips Known",
+            "Spells Known",
+            "1st",
+            "2nd",
+            "3rd",
+            "4th",
+            "5th"
+          ],
+          "rows": [
+            [
+              "1st",
+              "+2",
+              "FM, DT",
+              "2",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "2nd",
+              "+2",
+              "FM ▲",
+              "2",
+              "3",
+              "2",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "3rd",
+              "+2",
+              "DT ▲, FM ▲",
+              "2",
+              "4",
+              "3",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "4th",
+              "+2",
+              "ASI",
+              "2",
+              "4",
+              "3",
+              "-",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "5th",
+              "+3",
+              "DT ▲, FM ▲",
+              "3",
+              "5",
+              "4",
+              "2",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "6th",
+              "+3",
+              "-",
+              "3",
+              "5",
+              "4",
+              "2",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "7th",
+              "+3",
+              "-",
+              "3",
+              "6",
+              "4",
+              "3",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "8th",
+              "+3",
+              "ASI",
+              "3",
+              "6",
+              "4",
+              "3",
+              "-",
+              "-",
+              "-"
+            ],
+            [
+              "9th",
+              "+4",
+              "FM ▲",
+              "3",
+              "7",
+              "4",
+              "3",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              "10th",
+              "+4",
+              "DT ▲",
+              "3",
+              "7",
+              "4",
+              "3",
+              "2",
+              "-",
+              "-"
+            ],
+            [
+              "11th",
+              "+4",
+              "FM ▲",
+              "4",
+              "8",
+              "4",
+              "3",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "12th",
+              "+4",
+              "ASI",
+              "4",
+              "8",
+              "4",
+              "3",
+              "3",
+              "-",
+              "-"
+            ],
+            [
+              "13th",
+              "+5",
+              "-",
+              "4",
+              "9",
+              "4",
+              "3",
+              "3",
+              "1",
+              "-"
+            ],
+            [
+              "14th",
+              "+5",
+              "DT ▲",
+              "4",
+              "9",
+              "4",
+              "3",
+              "3",
+              "1",
+              "-"
+            ],
+            [
+              "15th",
+              "+5",
+              "-",
+              "4",
+              "10",
+              "4",
+              "3",
+              "3",
+              "2",
+              "-"
+            ],
+            [
+              "16th",
+              "+5",
+              "ASI",
+              "4",
+              "10",
+              "4",
+              "3",
+              "3",
+              "2",
+              "-"
+            ],
+            [
+              "17th",
+              "+6",
+              "-",
+              "4",
+              "11",
+              "4",
+              "3",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "18th",
+              "+6",
+              "-",
+              "4",
+              "11",
+              "4",
+              "3",
+              "3",
+              "3",
+              "1"
+            ],
+            [
+              "19th",
+              "+6",
+              "ASI",
+              "4",
+              "12",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2"
+            ],
+            [
+              "20th",
+              "+6",
+              "ASI",
+              "4",
+              "13",
+              "4",
+              "3",
+              "3",
+              "3",
+              "2"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec_1791807450988_wgswe4",
+      "title": "Fluid Movements (Uyển Chuyển Như Nước)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Bắt đầu từ level 1, tốc độ của bạn tăng thêm 5 feet. Ở level 11, tốc độ của bạn tăng thêm 5 feet nữa.\nNgoài ra, Fluid Movements (Uyển Chuyển Như Nước) còn cho bạn một số khả năng đặc biệt. Bạn có thể sử dụng những khả năng này tổng số lần bằng hai lần dex mod của bạn (tối thiểu hai lần). Bạn lấy lại số lần đã sử dụng sau khi hoàn thành long rest. Các khả năng của Uyển Chuyển Như Nước bao gồm:"
+        },
+        {
+          "kind": "callout",
+          "title": "Graceful Movement (Di Chuyển Duyên Dáng)",
+          "body": "Bắt đầu từ level 2, khi dùng dash action, bạn có thể dùng thêm bonus action để thực hiện một loạt các động tác nhào lộn và nhảy múa phức tạp, khiến OA nhắm vào bạn bị dis và cho phép bạn bỏ qua địa hình khó khăn như thể bạn đã ở trên địa hình bình thường. Bắt đầu từ level 11, bạn có thể áp dụng tính năng này để leo trèo cũng như di chuyển trên các bề mặt thẳng đứng mà không bị ngã trong quá trình di chuyển."
+        },
+        {
+          "kind": "callout",
+          "title": "Evasive Counterstrike (Túc Thủ Phản Công)",
+          "body": "Bắt đầu từ level 3, khi một sinh vật trong vòng 5 feet tính từ bạn tấn công, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh đó được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển lùi 10 feet so với kẻ tấn công mà không bị OA. Bắt đầu từ level 9, bạn có thể chọn thực hiện một đòn tấn công chống lại sinh vật khiến bạn đang phải lùi lại. Tính năng này không có tác dụng với các đòn tấn công chí mạng (crit to hit)."
+        },
+        {
+          "kind": "callout",
+          "title": "Graceful Response (Ứng Biến Linh Hoạt)",
+          "body": "Bắt đầu từ level 5, khi một sinh vật sử dụng đòn tấn công tầm xa chống lại bạn, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển 10 feet sang một bên theo bất kỳ hướng nào. Bắt đầu từ level 11, khi sử dụng khả năng này, bạn có thể cùng lúc cố gắng bắt một thứ phi phép thuật tấn công bạn bằng một cái dex save với DC 12 + dex mod của đối thủ và ném trả bằng một đòn tấn công tầm xa (ranged attack) về phía chúng, với tầm tấn công là khoảng cách giữa bạn và kẻ đã ra đòn. Bất kỳ thứ gì được sử dụng theo cách này đều được tính là vũ khí của Dancer."
+        },
+        {
+          "kind": "callout",
+          "title": "Seize the Opportunity (Nắm Bắt Cơ Hội)",
+          "body": "Bắt đầu từ level 9, như một reaction, đối với một đồng minh trong vòng 30 feet bị nhắm mục tiêu bởi một cuộc tấn công cận chiến, bạn có thể di chuyển một nửa speed của mình về phía kẻ đang tấn công họ. Nếu bạn dừng lại trong phạm vi cận chiến của kẻ tấn công, bạn sẽ có adv trong tất cả các cuộc tấn công cận chiến ở turn tiếp theo của mình chống lại sinh vật đó. Bắt đầu từ cấp 11, khi thực hiện khả năng này, bạn có adv trong tất cả các attack (bằng vũ khí hoặc/và phép thuật) chống lại kẻ tấn công cho đến cuối lượt tiếp theo ngay cả khi bạn không dừng lại trong phạm vi cận chiến của kẻ đó."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791807511463_1lxflw",
+      "title": "Spellcasting",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Bắt đầu từ level 1, bạn học được cách di chuyển cơ thể của mình theo một nhịp điệu phức tạp, tạo ra những kỳ tích xung quanh bạn. Phép thuật của bạn là một phần trong màn trình diễn."
+        },
+        {
+          "kind": "callout",
+          "title": "Cantrips",
+          "body": "Ở level thứ 1, bạn biết hai cantrip mà bạn chọn từ spell list của Dancer. Bạn học thêm các điệu nhảy của Dancer mà bạn chọn ở các level cao hơn, như được hiển thị trong cột Cantrips đã biết của bảng Dancer."
+        },
+        {
+          "kind": "callout",
+          "title": "Spell slots",
+          "body": "Bảng Dancer cho biết bạn có bao nhiêu spell slots để sử dụng phép thuật của mình từ level 1 trở lên. Để sử dụng một trong những phép thuật này, bạn phải sử dụng một spell slots có level của phép thuật đó trở lên. Bạn lấy lại tất cả các spell slots đã sử dụng sau khi hoàn thành long rest. Ví dụ: nếu bạn có spell Jump level 1 và có sẵn spell slots cấp 1 và level 2, bạn có thể sử dụng Jump bằng một trong hai spell slots trên."
+        },
+        {
+          "kind": "callout",
+          "title": "Spell knows ở level 1 trở lên",
+          "body": "Bạn biết 3 spell level 1 mà bạn chọn từ spell list của Dancer. Cột Spell đã biết của bảng Dancer hiển thị khi bạn học thêm các phép thuật Dancer mà bạn chọn. Mỗi phép thuật trong số này phải ở level mà bạn có các spell slots, như được hiển thị trên bảng. Chẳng hạn, khi bạn đạt level 5 trong lưu phái này, bạn có thể học một spell mới ở level 1 hoặc level 2. Ngoài ra, mỗi khi lên một level Dancer, bạn có thể chọn một trong những spell của Dancer mà bạn biết và thay thế nó bằng một spell khác từ spell list của Dancer, spell này cũng phải ở level mà bạn có spell slots."
+        },
+        {
+          "kind": "callout",
+          "title": "Spellcasting ability",
+          "body": "Charisma là nội tại phép thuật cho các spell Dancer của bạn. Phép thuật của bạn đến từ chuyển động và tâm hồn mà bạn thể hiện trong màn trình diễn của mình. Bạn sử dụng Charisma của mình bất cứ khi nào một spell đề cập đến spellcasting ability. Ngoài ra, bạn sử dụng Charisma Modifier của mình khi thiết lập DC saving throw cho spell Dancer mà bạn sử dụng và khi thực hiện một đòn tấn công bằng một spell.\n\n*Spell save DC* = 8 + proficiency bonus + Charisma modifier.\n\n*Spell attack modifier* = proficiency bonus + Charisma modifier."
+        },
+        {
+          "kind": "callout",
+          "title": "Spellcasting Focus",
+          "body": "Bằng vào khả năng biểu diễn và kỹ thuật tuyệt vời của mình, đối với một Dancer, chỉ trừ trường hợp trên người không còn trang phục hoặc đồ vật gì, nếu không mọi thứ đều có thể coi là trang phục biểu diễn. Bạn có thể sử dụng trang phục biểu diễn của mình như spellcasting focus cho những spell của Dancer và đáp ứng các yêu cầu về thành phần hoặc nguyên liệu thi pháp ngay cả khi bạn có vũ khí hoặc khiên trên cả hai tay."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791807591997_ifp8ky",
+      "title": "Dance Technique (Vũ Kĩ)",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Từ level 1, mỗi Dancer chọn cho mình một kỹ thuật để tạo nên phong cách đặc trưng. Có người là những kiếm sĩ nguy hiểm, có người lại là những bậc thầy mê hoặc. Tất cả các Dancer đều là mối đe dọa cho đối thủ của họ, và tất nhiên không phải mọi Dancer đều có tài năng và sức mạnh như nhau."
+        },
+        {
+          "kind": "callout",
+          "title": "Stream of Enchantment (Dòng Mỵ Vũ)",
+          "body": ""
+        },
+        {
+          "kind": "callout",
+          "title": "Stream of Emblem (Dòng Hội Huy)",
+          "body": ""
+        },
+        {
+          "kind": "callout",
+          "title": "Stream of Blade (Dòng Kiếm Vũ)",
+          "body": ""
+        },
+        {
+          "kind": "callout",
+          "title": "Stream of Idol (Dòng Thần Tượng)",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "id": "sec_1791807639983_s7zh6s",
+      "title": "Dancer Spell List",
+      "blocks": [
+        {
+          "kind": "callout",
+          "title": "Cantrips (0 Level)",
+          "body": "Blade Ward, Resistance, True Strike, Guidance, Friends, Shocking Grasp, Dancing Lights, Gust, Message, Prestidigitation, Mending, Thaumaturgy, Vicious Mockery, Toll The Dead, Thi Nhiễu, Diêu Quang."
+        },
+        {
+          "kind": "callout",
+          "title": "1st Level",
+          "body": "Bane, Charm Person, Compelled Duel, Faerie Fire, Command, Mage Armor, Disguise Self, Shield, Color Spray, Expeditious Retreat, Inflict Wounds, Jump, Longstrider, Detect Magic, Tasha's Hideous Laughter, Healing Word, Cure Wounds, Dissonant Whispers, Heroism, Sense Emotion, Bạo Tạc Nguyên Tố, Vụ Tỏa."
+        },
+        {
+          "kind": "callout",
+          "title": "2nd Level",
+          "body": "Calm Emotions, Suggestion, Hold Person, Enthrall, Enlarge Reduce, Blur, Mirror Image, Alter Self, Enhance Ability, Levitate, Spider Climb, Misty Step, Arcane Lock, Pass Without Trace, Cloud of Daggers, Thôi Miên, Shield of Solidarity (Đồng Tâm Khiên)."
+        },
+        {
+          "kind": "callout",
+          "title": "3rd Level",
+          "body": "Antagonize, Hypnotic Pattern, Major Image, Haste, Water Walk, Slow, Sending, Clairvoyance, Dispel Magic, Fast Friends, Glyph of Warding, Catnap, Mass Healing Word."
+        },
+        {
+          "kind": "callout",
+          "title": "4th Level",
+          "body": "Compulsion, Dominate Beast, Confusion, Greater Invisibility, Arcane Eye, Locate Creature, Dimension Door, Freedom of Movement."
+        },
+        {
+          "kind": "callout",
+          "title": "5th Level",
+          "body": "Dominate Person, Hold Monster, Synaptic Static, Seeming, Dream, Dawn, Mislead, Telekinesis, Legend Lore, Rary's Telepathic Bond, Scrying, Temporal Shunt, Steel Wind Strike."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791807705956_hfq32n",
+      "title": "Multiclassing",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "*Prerequisites:* Để multiclass với Dancer, bạn cần có điều kiện tiên quyết là Charisma 13.\n\n*Spellcasting Type:* 1/2 caster.\n\n*Proficiencies:* Khi bạn multiclass với Dancer hoặc ngược lại, bạn có proficiencies với: Shortswords, rapiers, scimitars, whips, umbrella. Một Dancer multiclass không thể sử dụng Fan weapon."
+        }
+      ]
+    }
+  ]
+}

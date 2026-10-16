@@ -1,0 +1,245 @@
+{
+  "recordId": "record_zerbrechens",
+  "title": "Zerbrechens",
+  "subtitle": "",
+  "category": "places",
+  "categoryName": "Quốc Gia",
+  "typeLabel": "OFFICIAL RECORD · Country",
+  "aliases": [
+    "Toái Mộng Linh Uyên"
+  ],
+  "lead": "Một đất nước nhỏ dựa vào phong thổ tươi đẹp cùng tôn giáo phát triển mà tự xưng Vương quốc thánh Zerbrechens.",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791812651476_tmvf7c",
+      "title": "Tôn giáo",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Cổ Thần",
+          "caption": "",
+          "headers": [
+            "Tên cổ",
+            "Danh",
+            "Hiệu",
+            "Thần Chức"
+          ],
+          "rows": [
+            [
+              "Lunira",
+              "[[record_kieu_nguyet_lam|Kiều Nguyệt Lâm]]",
+              "Nguyệt Thần",
+              "Mặt trăng, Khu rừng"
+            ],
+            [
+              "",
+              "Rate",
+              "Chiến thần",
+              "Chiến tranh, Xung đột"
+            ],
+            [
+              "",
+              "Wind Tiania",
+              "Phong Thần",
+              "Gió, Rượu"
+            ],
+            [
+              "",
+              "Illiadvier",
+              "Thần Tình Yêu",
+              "Cung tiễn, Tình Yêu"
+            ],
+            [
+              "",
+              "Apepclion",
+              "Băng Thần",
+              "Sa mạc, Băng tuyết"
+            ],
+            [
+              "",
+              "Dorak Agiri",
+              "Thần Rèn",
+              "Lò rèn, Kim loại"
+            ],
+            [
+              "",
+              "Thiên Tiêu",
+              "Thần Nghệ Thuật",
+              "Nghệ thuật, Văn học"
+            ],
+            [
+              "Gimridu",
+              "Kim Nhật Tử",
+              "Thần Trí Tuệ",
+              "Trí tuệ, Tri thức"
+            ],
+            [
+              "",
+              "Yi Ling",
+              "[[record_lord_of_lies|Chúa tể Dối Trá]]",
+              "Dối trá, Sự thật"
+            ],
+            [
+              "",
+              "Aril",
+              "Thần Chết",
+              "Luật lệ, Cái chết"
+            ],
+            [
+              "",
+              "Tet-enchan",
+              "Thần Trò chơi",
+              "Trò chơi, Trẻ em"
+            ],
+            [
+              "",
+              "Lynx-ru",
+              "Thủy Thần",
+              "Nước"
+            ],
+            [
+              "",
+              "Zal",
+              "Thổ Thần",
+              "Đất, Nông nghiệp"
+            ],
+            [
+              "",
+              "Cá Biệt Thứ Mười Ba",
+              "",
+              ""
+            ],
+            [
+              "Kel'Aruth",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Xel'Nahr",
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "kind": "paragraph",
+          "text": "Trong vô số thần linh xưa cũ, nhân loại chỉ biết đến 12 Thượng Cổ Đại Thần. Và còn rất nhiều những vị thần đã chìm vào quên lãng vẫn đang âm thầm nhìn ngắm thế giới này, cùng những thần linh khác được tôn thờ tại địa phương tùy vào tín ngưỡng từng vùng."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812829018_z2sen0",
+      "title": "Tân thần",
+      "blocks": [
+        {
+          "kind": "table",
+          "title": "Tân Thần",
+          "caption": "",
+          "headers": [
+            "Danh",
+            "Hiệu",
+            "Thần Chức"
+          ],
+          "rows": [
+            [
+              "Erythia",
+              "Kẻ Kế Thừa Ác Ma",
+              "Linh hồn"
+            ],
+            [
+              "Stonewarden",
+              "Tuyết Sơn Thần",
+              "Người Yali-yasi"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812900297_jbbhbg",
+      "title": "Quốc vương",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Trải qua quá trình lập quốc và xây dựng từ năm HN 2137 đến nay đã được điều hành bởi 21 vị quốc vương thuộc 11 dòng dõi khác nhau. Năm 3013 lịch HN, vị quốc vương gần nhất là Aldric Amon lên ngôi trị vì theo chế độ kế thừa và chọn lọc từ con cháu hoàng tộc.\n\nQuốc vương là người phê duyệt và đưa ra mệnh lệnh cuối cùng trước khi bất cứ hiến pháp nào được thi hành. Đồng thời hoàng tộc cũng là biểu tượng tinh thần của nhân dân, vì vậy chương trình giáo dục của con cháu hoàng tộc là vô cùng nghiêm khắc và đồ sộ, mỗi người đều được dạy dỗ để trở thành quốc vương tương lai."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812924223_70l485",
+      "title": "Chấp chính",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "8 vị chấp chính có trách nhiệm phụ giúp quốc vương trong các công việc của đất nước như quản lý, xây dựng luật lệ, ngoại giao và nhiều vấn đề khác. Một chấp chính thường là gia chủ của một gia tộc nào đó có uy tín trong nhân dân đồng thời được chỉ định bởi quốc vương. Dù vậy, việc kế thừa tước vị vẫn rất phổ biến và thường khó thay đổi trong thời gian dài.\n\n4 chấp chính sẽ là người ban chủ thần, nghĩa là dòng tộc của họ tôn thờ một vị thần nào đó không phải là tà thần. Thông thường có nhiệm vụ lo liệu các vấn đề văn hóa và tín ngưỡng của nhân dân.\n\n4 chấp chính còn lại sẽ là ban vô thần, nghĩa là họ và gia tộc của họ không tôn thờ một vị thần nào trong 13 Cổ Thần. Thường chịu trách nhiệm các vấn đề kinh tế và quân sự."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812932641_pdmxup",
+      "title": "Thập Nhị Hiệp Sĩ Vụ Nguyệt",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Thực tế chỉ có 11 người. Thời điểm thành lập là 12 hiệp sĩ nhưng sau khi hiệp sĩ ghế 12 là Isode mất mạng trên chiến trường thì ghế 12 buộc phải bỏ trống dưới áp lực của Bạo Tạc Vương Đề Phu Lâm."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812941316_udnbha",
+      "title": "Hội đồng pháp sư",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Gồm nhiều hiền giả chịu trách nhiệm các vấn đề về giáo dục và điều hành Học Viện Hoàng Gia. Các học viên xuất sắc khi tốt nghiệp thường sẽ được chiêu mộ vào bộ máy nhà nước hoặc quân đội."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812948822_y22vdd",
+      "title": "Quý tộc",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Các quý tộc thường có đất phong và mang trách nhiệm quản lý vùng đất của mình, nộp thuế và báo cáo tình hình về các chấp chính."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812957112_nfwa8i",
+      "title": "Công hội mạo hiểm giả",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Có cơ sở ở khắp mọi nơi. Lễ tân của tất cả cơ sở đều được gọi là Kath. Các mạo hiểm giả được phát thẻ mạo hiểm giả như một loại giấy tờ tùy thân. Thông thường sẽ ghi tên, chủng tộc, lưu phái và cấp mạo hiểm."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812964863_tz0mnh",
+      "title": "Thương hội",
+      "blocks": [
+        {
+          "kind": "paragraph",
+          "text": "Giống như hội mạo hiểm, thương hội có cơ sở ở khắp nơi, là một tổ chức bán tư nhân, nghĩa là quốc vương và chấp chính sẽ để mắt đến tổ chức này. Hầu hết người điều hành của thương hội các đời hội trưởng đều là một vị chấp chính nào đó mà quốc vương coi trọng nhưng thương hội không phải là một tổ chức kiếm tiền cho bộ máy chính trị mà đóng vai trò là cơ quan điều hòa kinh tế của Zerbrechens."
+        }
+      ]
+    },
+    {
+      "id": "sec_1791812982078_i7y1tu",
+      "title": "Bản đồ chung",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Zerb's map",
+          "url": "zerb_map"
+        }
+      ]
+    }
+  ]
+}

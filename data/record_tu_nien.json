@@ -1,0 +1,30 @@
+{
+  "recordId": "record_tu_nien",
+  "title": "Tư Niên",
+  "subtitle": "Vũ Khí Ma Thuật",
+  "category": "items",
+  "categoryName": "Vật Phẩm",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
+  "aliases": [],
+  "lead": "",
+  "summary": "",
+  "revision": 1,
+  "relationships": [],
+  "sections": [
+    {
+      "id": "sec_1791986453977_q7duyl",
+      "title": "",
+      "blocks": [
+        {
+          "kind": "image",
+          "text": "Tư Niên",
+          "url": "tu_nien"
+        },
+        {
+          "kind": "paragraph",
+          "text": "Có đầy đủ thuộc tính của một vũ khí loại ô, vì vậy yêu cầu proficiency với ô, đồng thời những dòng cổ ngữ do Dakini yểm trên kiếm giúp nó đạt được những nội tại sau:\n\n**Qili Waltz:** Khi cầm Tư Niên trên một tay, bạn có thể chiến đấu hai vũ khí bằng bất kỳ vũ khí cận chiến nào khác trên tay còn lại, kể cả vũ khí hai tay. Bạn có proficiency với vũ khí đó khi chiến đấu theo cách này.\n\n**Magic Weapon:** Sát thương bạn gây ra bằng vũ khí này là magic piercing damage.\n\n**Revel Sunian:** Nếu bạn là một Dancer, bạn có thể sử dụng tán ô như một chiếc khiên tạm thời. Tán ô sẽ bay lơ lửng gần bạn cho đến khi bạn dùng nó (không nhất định phải dùng tay cầm) như một reaction để hỗ trợ + 3 AC cho đến turn tiếp theo của bạn. Bạn có thể sử dụng tính năng này 3 lần mỗi ngày. Nếu dùng hết 3 lần mà vẫn tiếp tục dùng tính năng này, tán ô vẫn giúp bạn + 3 AC lần cuối và ô sẽ hỏng, mất toàn bộ tác dụng ngay lập tức, không thể sửa chữa."
+        }
+      ]
+    }
+  ]
+}
