@@ -1,12 +1,15 @@
 {
+  "operation": "update",
   "recordId": "record_stream_of_blade",
   "title": "Stream of Blade (Dòng Kiếm Vũ)",
   "subtitle": "",
   "category": "subclasses",
   "categoryName": "Vũ Kỹ",
+  "categoryName_en": "Dance Technique",
   "typeLabel": "OFFICIAL RECORD · SUBCLASS",
   "aliases": [],
   "lead": "Các vũ công dòng kiếm tự hào về khả năng chiến đấu của họ hơn hầu hết các vũ công khác, xoay người lao tới bằng cơ thể cũng như lưỡi kiếm và đem đến một vũ điệu chết chóc.",
+  "lead_en": "Sword-style dancers take greater pride in their combat skills than most other dancers; they spin and charge forward using both their bodies and their swords, performing a deadly dance.",
   "summary": "",
   "revision": 1,
   "relationships": [],
@@ -17,27 +20,32 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Khi bạn chọn dòng vũ kĩ này, từ level 1, bạn được proficiency với Light Armor, Medium Armor và các martial weapons."
+          "text": "Khi bạn chọn dòng vũ kĩ này, từ level 1, bạn được proficiency với Light Armor, Medium Armor và các martial weapons.",
+          "text_en": "Khi bạn chọn dòng vũ kĩ này, từ level 1, bạn được proficiency với Light Armor, Medium Armor và các martial weapons."
         }
       ]
     },
     {
       "id": "sec_1791637610736_xsaxi1",
-      "title": "Silent Pirouette (Tịnh Luân Vũ)",
+      "title": "Tịnh Luân Vũ",
+      "title_en": "Silent Pirouette",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bạn có thể dùng DEX thay cho STR trong attack roll và damage roll cho unarmed strike bằng chân, và các cú đá này gây 1d6 sát thương bludgeoning. Khi bạn dùng Attack Action trong lượt của mình và bị hụt 1 attack roll bằng Kiếm Khí (Umbrella, Dagger, Shortsword, Scimitar, Rapier, Longsword, Falchion, Sabre, Cutlass, Katana, Greatsword và Glaive), bạn có thể tiêu tốn một Fluid Movements để ngay lập tức thực hiện một unarmed strike bằng chân lên mục tiêu đó.\n\nỞ cấp 6, đòn unarmed strike bằng chân sau khi hụt attack roll đó sẽ khiến địch bị ngã (proned) nếu chúng thất bại Strength save (DC bằng spell DC của bạn). Ở cấp 11, mọi unarmed strike bằng chân của bạn gây thêm dư chấn 1d6 force damage."
+          "text": "Bạn có thể dùng DEX thay cho STR trong attack roll và damage roll cho unarmed strike bằng chân, và các cú đá này gây 1d6 sát thương bludgeoning. Khi bạn dùng Attack Action trong lượt của mình và bị hụt 1 attack roll bằng Kiếm Khí (Umbrella, Dagger, Shortsword, Scimitar, Rapier, Longsword, Falchion, Sabre, Cutlass, Katana, Greatsword và Glaive), bạn có thể tiêu tốn một Fluid Movements để ngay lập tức thực hiện một unarmed strike bằng chân lên mục tiêu đó.\n\nỞ cấp 6, đòn unarmed strike bằng chân sau khi hụt attack roll đó sẽ khiến địch bị ngã (proned) nếu chúng thất bại Strength save (DC bằng spell DC của bạn). Ở cấp 11, mọi unarmed strike bằng chân của bạn gây thêm dư chấn 1d6 force damage.",
+          "text_en": "You can use DEX instead of STR for the attack and damage rolls of unarmed strikes made with your feet, and these kicks deal 1d6 bludgeoning damage. When you take the Attack Action on your turn and miss an attack roll with a Ki Blade (Umbrella, Dagger, Shortsword, Scimitar, Rapier, Longsword, Falchion, Sabre, Cutlass, Katana, Greatsword, and Glaive), you can expend one Fluid Movement to immediately make an unarmed strike with your foot against that target.\nAt level 6, an unarmed strike with your foot made after missing an attack roll causes the target to fall prone if it fails a Strength saving throw (DC equal to your spell save DC). At level 11, all your unarmed strikes with your feet deal an additional 1d6 force damage."
         }
       ]
     },
     {
       "id": "sec_1791637624987_t1by9x",
-      "title": "Blade Mastery (Kiếm Thuật Đại Thành)",
+      "title": "Kiếm Thuật Đại Thành",
+      "title_en": "Blade Mastery",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bạn học được cách sử dụng mọi loại kiếm, kể cả loại nặng nhất. Với sự khéo léo và phong cách của mình, miễn là bạn có strength ability score từ 10 trở lên. Mọi Kiếm Khí đều được coi như finesse weapons khi bạn sử dụng chúng. Ngoài ra, mọi vũ khí Two-Handed cận chiến đều có thể được sử dụng bằng một tay, miễn là tay kia bạn không cầm bất kỳ vũ khí Two-Handed nào khác."
+          "text": "Bạn học được cách sử dụng mọi loại kiếm, kể cả loại nặng nhất. Với sự khéo léo và phong cách của mình, miễn là bạn có strength ability score từ 10 trở lên. Mọi Kiếm Khí đều được coi như finesse weapons khi bạn sử dụng chúng. Ngoài ra, mọi vũ khí Two-Handed cận chiến đều có thể được sử dụng bằng một tay, miễn là tay kia bạn không cầm bất kỳ vũ khí Two-Handed nào khác.",
+          "text_en": "You learn how to wield any type of sword, even the heaviest ones. Through your dexterity and style, as long as your Strength ability score is 10 or higher, all Sword Arts are treated as finesse weapons when you use them. Additionally, any two-handed melee weapon can be wielded in one hand, provided your other hand isn't holding another two-handed weapon."
         }
       ]
     },
@@ -47,37 +55,44 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bắt đầu từ level 3, bạn có thể sử dụng một phong cách chiến đấu cụ thể để nâng cao kỹ năng của mình. Bạn không thể có nhiều hơn một Phong cách Chiến đấu, ngay cả khi bạn có thể chọn Phong cách Chiến đấu từ các nguồn khác.\n\n*Defence:* Khi không mặc giáp, bạn được +1 bonus vào AC.\n\n*Dueling:* Khi bạn cầm một vũ khí cận chiến bằng một tay và tay kia thì không có vũ khí, bạn được +2 bonus vào damage rolls với vũ khí đó và + 1 vào AC của mình.\n\n*Mariner:* Miễn là bạn không mặc heavy armor hoặc đang sử dụng khiên, bạn có tốc độ bơi và tốc độ leo trèo bằng tốc độ đi bình thường của mình và được +1 bonus vào AC.\n\n*Two-Weapon Fighting:* Khi bạn cầm mỗi vũ khí bằng một tay, bạn có thể sử dụng hành động bổ sung để tấn công hoặc ném bằng vũ khí cận chiến khác mà bạn đang cầm trên tay kia. Bạn có thể thêm ability modifier vào damage rolls của attack thứ 2.\n\n*Protection:* Khi một creature bạn có thể nhìn thấy attacks một target không phải là bạn trong vòng 5 feet từ bạn, bạn có thể sử dụng reaction để gây disadvantage cho Attack roll đó. Tính năng này không yêu cầu bạn phải trang bị shield.\n\n*Great Weapon Fighting:* Khi bạn roll ra 1 hoặc 2 trong damage die của một attack mà bạn thực hiện bằng melee weapon mà bạn đang sử dụng 2 tay, bạn có thể reroll và phải dùng new roll, kể cả nó là 1 hoặc 2. Weapon phải có đặc tính two-handed hoặc versatile với bạn để có thể áp dụng tính năng này."
+          "text": "Bắt đầu từ level 3, bạn có thể sử dụng một phong cách chiến đấu cụ thể để nâng cao kỹ năng của mình. Bạn không thể có nhiều hơn một Phong cách Chiến đấu, ngay cả khi bạn có thể chọn Phong cách Chiến đấu từ các nguồn khác.\n\n*Defence:* Khi không mặc giáp, bạn được +1 bonus vào AC.\n\n*Dueling:* Khi bạn cầm một vũ khí cận chiến bằng một tay và tay kia thì không có vũ khí, bạn được +2 bonus vào damage rolls với vũ khí đó và + 1 vào AC của mình.\n\n*Mariner:* Miễn là bạn không mặc heavy armor hoặc đang sử dụng khiên, bạn có tốc độ bơi và tốc độ leo trèo bằng tốc độ đi bình thường của mình và được +1 bonus vào AC.\n\n*Two-Weapon Fighting:* Khi bạn cầm mỗi vũ khí bằng một tay, bạn có thể sử dụng hành động bổ sung để tấn công hoặc ném bằng vũ khí cận chiến khác mà bạn đang cầm trên tay kia. Bạn có thể thêm ability modifier vào damage rolls của attack thứ 2.\n\n*Protection:* Khi một creature bạn có thể nhìn thấy attacks một target không phải là bạn trong vòng 5 feet từ bạn, bạn có thể sử dụng reaction để gây disadvantage cho Attack roll đó. Tính năng này không yêu cầu bạn phải trang bị shield.\n\n*Great Weapon Fighting:* Khi bạn roll ra 1 hoặc 2 trong damage die của một attack mà bạn thực hiện bằng melee weapon mà bạn đang sử dụng 2 tay, bạn có thể reroll và phải dùng new roll, kể cả nó là 1 hoặc 2. Weapon phải có đặc tính two-handed hoặc versatile với bạn để có thể áp dụng tính năng này.",
+          "text_en": "Starting at level 3, you can adopt a specific Fighting Style to enhance your skills. You cannot have more than one Fighting Style, even if you can choose Fighting Styles from other sources.\n\n*Defense:* While you are not wearing armor, you gain a +1 bonus to AC.\n\n*Dueling:* When you wield a melee weapon in one hand and no weapon in the other, you gain a +2 bonus to damage rolls with that weapon and a +1 bonus to AC.\n\n*Mariner:* As long as you are not wearing heavy armor or using a shield, you gain a swimming speed and climbing speed equal to your normal walking speed, and a +1 bonus to AC.\n\n*Two-Weapon Fighting:* When you wield a weapon in each hand, you can use a bonus action to attack with or throw the other melee weapon you are holding in your other hand. You can add your ability modifier to the damage roll of the second attack.\n\n*Protection:* When a creature you can see attacks a target other than you within 5 feet of you, you can use your reaction to impose disadvantage on that attack roll. This feature does not require you to wield a shield.\n\n*Great Weapon Fighting:* When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon wielded in both hands, you can reroll the die and must use the new roll, even if it is a 1 or 2. The weapon must have the two-handed or versatile property for you to use this feature."
         }
       ]
     },
     {
       "id": "sec_1791637685871_dq7wn5",
-      "title": "Refined Sequence (Thứ Thức)",
+      "title": "Thứ Thức",
+      "title_en": "Refined Sequence",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bắt đầu từ level 5, trong turn của bạn, bạn có thể thực hiện thêm 1 action để gây damgage nữa nếu action ban đầu của bạn cũng nhằm mục đích gây damage. Nếu có ít nhất hai đòn đánh trúng cùng mục tiêu, bạn gây thêm 1d6 sát thương chất chồng (force damage)."
+          "text": "Bắt đầu từ level 5, trong turn của bạn, bạn có thể thực hiện thêm 1 action để gây damgage nữa nếu action ban đầu của bạn cũng nhằm mục đích gây damage. Nếu có ít nhất hai đòn đánh trúng cùng mục tiêu, bạn gây thêm 1d6 sát thương chất chồng (force damage).",
+          "text_en": "Starting at level 5, during your turn, you can take one additional action to deal damage, provided your initial action was also intended to deal damage. If at least two attacks hit the same target, you deal an additional 1d6 force damage."
         }
       ]
     },
     {
       "id": "sec_1791637696735_vsoltj",
-      "title": "Overdrive Aria (Khúc Dâng Trào)",
+      "title": "Khúc Dâng Trào",
+      "title_en": "Overdrive Aria",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bắt đầu từ level 9, bạn có thể ép dòng chảy ma thuật bùng phát vượt ngưỡng để thực hiện thêm một action trong turn của mình, đẩy bản thân vào trạng thái Arcane Overdrive. Khi bạn đang ở trong trạng thái này, bạn có thể đổi một spell slot của mình để thực hiện thêm một số weapon attack nữa tương ứng với loại slot mà bạn đã đổi sau khi sử dụng Action trong turn của bạn, các Attack đánh ra bằng khả năng này được coi như một phần trong Action của bạn. Bạn có thể chủ động kết thúc trạng thái Arcane Overdrive như một free action hoặc nó sẽ tồn tại 10 phút. Sau khi sử dụng tính năng này, bạn phải hoàn thành short rest hoặc long rest mới có thể làm lại lần nữa."
+          "text": "Bắt đầu từ level 9, bạn có thể ép dòng chảy ma thuật bùng phát vượt ngưỡng để thực hiện thêm một action trong turn của mình, đẩy bản thân vào trạng thái Arcane Overdrive. Khi bạn đang ở trong trạng thái này, bạn có thể đổi một spell slot của mình để thực hiện thêm một số weapon attack nữa tương ứng với loại slot mà bạn đã đổi sau khi sử dụng Action trong turn của bạn, các Attack đánh ra bằng khả năng này được coi như một phần trong Action của bạn. Bạn có thể chủ động kết thúc trạng thái Arcane Overdrive như một free action hoặc nó sẽ tồn tại 10 phút. Sau khi sử dụng tính năng này, bạn phải hoàn thành short rest hoặc long rest mới có thể làm lại lần nữa.",
+          "text_en": "Starting at 9th level, you can force your arcane energy to surge beyond its limits, allowing you to take one additional action during your turn and enter a state of Arcane Overdrive. While in this state, after taking an Action on your turn, you can expend a spell slot to make additional weapon attacks based on the level of the spell slot expended. Attacks made using this feature count as part of your Action. You can end Arcane Overdrive as a free action, or it lasts for 10 minutes. Once you use this feature, you must finish a short or long rest before you can use it again."
         }
       ]
     },
     {
       "id": "sec_1791637705640_3xmzpe",
-      "title": "Spellbreaker Assault (Công Kích Phá Pháp)",
+      "title": "Công Kích Phá Pháp",
+      "title_en": "Spellbreaker Assault",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ở level 14, khi bạn sử dụng action để thực hiện weapon attack, bạn có thể sử dụng bonus action như một action khác để cast spell, hoặc ngược lại. Nếu action ảnh hưởng đến ít nhất một creature, bonus action (chuyển thành một action khác) sẽ có lợi thế (advantage) và bỏ qua resistance với damage type của nó lên creature đó."
+          "text": "Ở level 14, khi bạn sử dụng action để thực hiện weapon attack, bạn có thể sử dụng bonus action như một action khác để cast spell, hoặc ngược lại. Nếu action ảnh hưởng đến ít nhất một creature, bonus action (chuyển thành một action khác) sẽ có lợi thế (advantage) và bỏ qua resistance với damage type của nó lên creature đó.",
+          "text_en": "At 14th level, when you use your action to make a weapon attack, you can use your bonus action as an additional action to cast a spell, or vice versa. If the action affects at least one creature, the bonus action, when used as an additional action, gains advantage and ignores that creature’s resistance to its damage type."
         }
       ]
     }

@@ -1,10 +1,12 @@
 {
   "recordId": "record_ao_choang_an_nau",
-  "title": "Áo choàng ẩn náu",
+  "title": "Áo Choàng Ẩn Náu",
+  "title_en": "Cloak of Concealment",
   "subtitle": "Vật Phẩm Ma Thuật",
+  "subtitle_en": "Magical Item",
   "category": "items",
   "categoryName": "Vật Phẩm",
-  "typeLabel": "OFFICIAL RECORD · ARTIFACT",
+  "typeLabel": "OFFICIAL RECORD · ITEM",
   "aliases": [],
   "lead": "",
   "summary": "",
@@ -17,12 +19,14 @@
       "blocks": [
         {
           "kind": "image",
-          "text": "Áo choàng ẩn náu",
+          "text": "Áo Choàng Ẩn Náu",
+          "text_en": "Cloak of Concealment",
           "url": "ao-choang-an-nau"
         },
         {
           "kind": "paragraph",
-          "text": "Bộ trang phục trang nhã này được làm bằng lụa sẫm màu đan xen với những sợi màu hổ phách nhạt. Khi mặc chiếc áo choàng này, bạn có thể kéo mũ trùm qua đầu che giấu hoàn toàn khuôn mặt của mình. Cố gắng nhìn vào để xem mặt của bạn sẽ chỉ thấy một khoảng bóng tối. Ngoài ra, khi đội mũ trùm đầu lên, bạn có thể ẩn khỏi phép thuật Divination và bạn không thể bị nhắm mục tiêu bởi phép thuật đó hoặc bị phát hiện thông qua các cảm biến bói toán ma thuật."
+          "text": "Bộ trang phục trang nhã này được làm bằng lụa sẫm màu đan xen với những sợi màu hổ phách nhạt. Khi mặc chiếc áo choàng này, bạn có thể kéo mũ trùm qua đầu che giấu hoàn toàn khuôn mặt của mình. Cố gắng nhìn vào để xem mặt của bạn sẽ chỉ thấy một khoảng bóng tối. Ngoài ra, khi đội mũ trùm đầu lên, bạn có thể ẩn khỏi phép thuật Divination và bạn không thể bị nhắm mục tiêu bởi phép thuật đó hoặc bị phát hiện thông qua các cảm biến bói toán ma thuật.",
+          "text_en":"This elegant outfit is made of dark silk interwoven with pale amber threads. When wearing this cloak, you can pull the hood over your head to completely conceal your face. Creatures trying to look inside to see your face will see only a void of darkness. Additionally, when you wear the hood, you are hidden from Divination spells and cannot be targeted by them or detected through magical divination sensors."
         }
       ]
     }

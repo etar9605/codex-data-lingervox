@@ -1,15 +1,16 @@
 {
+  "operation": "update",
   "recordId": "record_stream_of_enchantment",
-  "title": "Stream of Enchantment (Dòng Mỵ Vũ)",
+  "title": "Dòng Mỵ Vũ",
+  "title_en": "Stream of Enchantment",
   "subtitle": "",
   "category": "subclasses",
   "categoryName": "Vũ Kỹ",
+  "categoryName_en": "Dance Technique",
   "typeLabel": "OFFICIAL RECORD · SUBCLASS",
-  "aliases": [
-    "Dòng Mỵ Vũ",
-    "Stream of Enchantment"
-  ],
+  "aliases": [],
   "lead": "Không ai biết được những Enchanter mong đợi điều gì. Họ có vô số phép thuật và khả năng. Nghệ thuật khiêu vũ rất phức tạp và tinh tế vì vậy khi đối mặt với một Enchanter, những gì bạn thấy chưa chắc đã là cái bạn nhận được.",
+  "lead_en": "No one knows what to expect from an Enchanter. They possess countless spells and abilities. The art of dance is intricate and subtle, so when facing an Enchanter, what you see may not be what you get.",
   "summary": "",
   "revision": 1,
   "relationships": [],
@@ -20,67 +21,80 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Khi bạn chọn dòng vũ kỹ này, từ level 1, bạn có proficiency với Persuasion và Arcana skills. Nếu bạn đã có proficient với cả 2 skill này, bạn được gấp đôi proficiency với nó."
+          "text": "Khi bạn chọn dòng vũ kỹ này, từ level 1, bạn có proficiency với Persuasion và Arcana skills. Nếu bạn đã có proficient với cả 2 skill này, bạn được gấp đôi proficiency với nó.",
+          "text_en": "When you choose this martial arts path, starting at level 1, you gain proficiency in the Persuasion and Arcana skills. If you are already proficient in both skills, your proficiency bonus is doubled for checks you make with them."
         }
       ]
     },
     {
       "id": "sec_1791636866498_x9czkj",
-      "title": "Aria of Clarity (Khúc Khai Tâm)",
+      "title": "Khúc Khai Tâm",
+      "title_en": "Aria of Clarity",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Là một Enchanter, bạn có được cái nhìn sâu sắc về ma thuật. Bạn được thêm 2 cantrips từ spell list của Bard ở level 1 và thêm 1 cantrip ở level 5th, 9th, 14th và 20th. Bạn có thêm 2 spell slots level 1 và bạn học thêm 1 spell của Dancer cũng như một spell bất kì từ spell list của Bard. Charisma vẫn là spellcasting ability của bạn khi cast spells, và những spell này được tính là Dancer spells của bạn."
+          "text": "Là một Enchanter, bạn có được cái nhìn sâu sắc về ma thuật. Bạn được thêm 2 cantrips từ spell list của Bard ở level 1 và thêm 1 cantrip ở level 5th, 9th, 14th và 20th. Bạn có thêm 2 spell slots level 1 và bạn học thêm 1 spell của Dancer cũng như một spell bất kì từ spell list của Bard. Charisma vẫn là spellcasting ability của bạn khi cast spells, và những spell này được tính là Dancer spells của bạn.",
+          "text_en": "As an Enchanter, you gain deeper insight into magic. You learn 2 additional cantrips from the Bard spell list at 1st level, and 1 additional cantrip at 5th, 9th, 14th, and 20th levels. You also gain 2 additional 1st-level spell slots and learn 1 additional Dancer spell, as well as any one spell from the Bard spell list. Charisma remains your spellcasting ability for these spells, and they count as Dancer spells for you."
         }
       ]
     },
     {
       "id": "sec_1791636883559_fclmf2",
-      "title": "Captivating Dance (Điệu Nhảy Mê Hoặc)",
+      "title": "Điệu Nhảy Mê Hoặc",
+      "title_en": "Captivating Dance",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Trong khi bạn không mặc giáp, không cầm khiên, AC của bạn bằng 10 + Dexterity modifier + Charisma modifier. Bạn có thể sử dụng bất kì spell ritual nào bằng cách thực hiện một điệu nhảy cụ thể để kích hoạt hiệu ứng của nó. Bạn cũng không bị disadvantage khi attack bằng spell tầm xa vào các target trong bán kính 5ft từ bạn."
+          "text": "Trong khi bạn không mặc giáp, không cầm khiên, AC của bạn bằng 10 + Dexterity modifier + Charisma modifier. Bạn có thể sử dụng bất kì spell ritual nào bằng cách thực hiện một điệu nhảy cụ thể để kích hoạt hiệu ứng của nó. Bạn cũng không bị disadvantage khi attack bằng spell tầm xa vào các target trong bán kính 5ft từ bạn.",
+          "text_en": "While you are not wearing armor or wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier. You can cast any ritual spell by performing a specific dance to activate its effect. Additionally, you do not have disadvantage on ranged spell attack rolls against targets within 5 feet of you."
         }
       ]
     },
     {
       "id": "sec_1791636895503_c3rplw",
-      "title": "Incantation and Dance Alike (Chú Ngữ Và Vũ Đạo Giống Nhau)",
+      "title": "Chú Ngữ Và Vũ Đạo Giống Nhau",
+      "title_en": "Incantation and Dance Alike",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ở level 3, bất cứ khi nào bạn sử dụng một spell, bạn có thêm Charisma modifier để gây thêm damage hoặc healing nếu nó chưa được áp dụng để làm vậy (đối các phép nhiều tia ví dụ như Magic Missile, Scorching Ray,... thì áp dụng 1 lần/attack). Ngoài ra, các spell bạn sử dụng từ trường Illusion hoặc Enchantment bây giờ có DCs tăng lên một lượng bằng một nửa proficiency bonus của bạn."
+          "text": "Ở level 3, bất cứ khi nào bạn sử dụng một spell, bạn có thêm Charisma modifier để gây thêm damage hoặc healing nếu nó chưa được áp dụng để làm vậy (đối các phép nhiều tia ví dụ như Magic Missile, Scorching Ray,... thì áp dụng 1 lần/attack). Ngoài ra, các spell bạn sử dụng từ trường Illusion hoặc Enchantment bây giờ có DCs tăng lên một lượng bằng một nửa proficiency bonus của bạn.",
+          "text_en": "At 3rd level, whenever you cast a spell, you add your Charisma modifier to the damage dealt or healing provided, provided it hasn't already been applied for that purpose. For spells that produce multiple projectiles or rays, such as Magic Missile and Scorching Ray, this bonus applies once per attack. Additionally, the save DCs of spells you cast from the Illusion or Enchantment schools increase by an amount equal to half your proficiency bonus."
         }
       ]
     },
     {
       "id": "sec_1791636906763_hqdbr9",
-      "title": "Dance on, My Love! (Người yêu ơi, cùng khiêu vũ nào!)",
+      "title": "Tình yêu ơi, cùng khiêu vũ nào!",
+      "title_en": "Dance on, My Love!",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ở level 5, bất cứ khi nào bạn cast một spell sử dụng một action, bạn có thể sử dụng một bonus action để di chuyển tối đa 15ft theo bất kì hướng nào. Tính năng này không kích động OA."
+          "text": "Ở level 5, bất cứ khi nào bạn cast một spell sử dụng một action, bạn có thể sử dụng một bonus action để di chuyển tối đa 15ft theo bất kì hướng nào. Tính năng này không kích động OA.",
+          "text_en": "At 5th level, whenever you cast a spell using an action, you can use a bonus action to move up to 15 ft. in any direction. This movement does not provoke opportunity attacks."
         }
       ]
     },
     {
       "id": "sec_1791636936559_024bc1",
-      "title": "Unmatched Faith (Đại Tín Vô Song)",
+      "title": "Đại Tín Vô Song",
+      "title_en": "Unmatched Faith",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ở level 9, bạn có thể chọn 2 spell level 1 mà bạn đã biết để sử dụng mà không tốn spell slots. Số lần sử dụng cho cả 2 spell bằng Charisma modifier của bạn (tối thiểu 1 lần). 2 spell đã chọn này không thể được sử dụng bằng bất kì spell slots nào lớn hơn 1. Hoàn lại số lần sau long rest."
+          "text": "Ở level 9, bạn có thể chọn 2 spell level 1 mà bạn đã biết để sử dụng mà không tốn spell slots. Số lần sử dụng cho cả 2 spell bằng Charisma modifier của bạn (tối thiểu 1 lần). 2 spell đã chọn này không thể được sử dụng bằng bất kì spell slots nào lớn hơn 1. Hoàn lại số lần sau long rest.",
+          "text_en": "At 9th level, you can choose two 1st-level spells you know to cast without expending spell slots. You can cast these spells a combined number of times equal to your Charisma modifier (minimum of once). These two chosen spells cannot be cast using spell slots higher than 1st level. You regain all expended uses when you finish a long rest."
         }
       ]
     },
     {
       "id": "sec_1791636951251_chto8f",
-      "title": "Radiant Light (Ánh Sáng Chói Lọi)",
+      "title": "Ánh Sáng Chói Lọi",
+      "title_en": "Radiant Light",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Ở level 14, như một action, bạn có thể tạo hào quang với bán kính 15ft tính từ bạn kéo dài 1 phút. Khi các creatures thù địch bước vào hào quang này và bắt đầu turn trong đó, chúng phải thực hiện một Wisdom saving throw với spell save DC của bạn hoặc bị -3 modifier cho tất cả các saving throws, attack rolls và skill checks sau đó miễn là chúng còn ở trong phạm vi của hào quang. Hào quang này yêu cầu concention của bạn như một spell. Bạn có thể loại bỏ hào quang như một bonus action và nếu không thì nó có thể bị giải trừ như một spell level 3 bình thường. Khi hào quang hoạt động, ánh sáng rực rỡ sẽ chiếu khắp khu vực bị ảnh hưởng và ánh sáng mờ sẽ chiếu thêm 15ft."
+          "text": "Ở level 14, như một action, bạn có thể tạo hào quang với bán kính 15ft tính từ bạn kéo dài 1 phút. Khi các creatures thù địch bước vào hào quang này và bắt đầu turn trong đó, chúng phải thực hiện một Wisdom saving throw với spell save DC của bạn hoặc bị -3 modifier cho tất cả các saving throws, attack rolls và skill checks sau đó miễn là chúng còn ở trong phạm vi của hào quang. Hào quang này yêu cầu concention của bạn như một spell. Bạn có thể loại bỏ hào quang như một bonus action và nếu không thì nó có thể bị giải trừ như một spell level 3 bình thường.\nKhi hào quang hoạt động, ánh sáng rực rỡ sẽ chiếu khắp khu vực bị ảnh hưởng và ánh sáng mờ sẽ chiếu thêm 15ft.",
+          "text_en": "At 14th level, as an action, you can create an aura with a 15-foot radius centered on you that lasts for 1 minute. When hostile creatures enter the aura and start their turn within it, they must make a Wisdom saving throw against your spell save DC or suffer a −3 penalty to all saving throws, attack rolls, and ability checks for as long as they remain within the aura. This aura requires concentration, as if concentrating on a spell. You can dismiss the aura as a bonus action; otherwise, it can be dispelled as a normal 3rd-level spell.\nWhile the aura is active, bright light illuminates the affected area, and dim light extends an additional 15 feet beyond it."
         }
       ]
     }

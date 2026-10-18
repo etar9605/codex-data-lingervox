@@ -1,7 +1,10 @@
 {
+  "operation": "update",
   "recordId": "record_dancer",
-  "title": "Dancer",
+  "title": "Vũ Công",
+  "title_en": "Dancer",
   "subtitle": "Uyển Chuyển Như Nước",
+  "subtitle_en": "Fluid Movements",
   "category": "classes",
   "categoryName": "Lưu Phái",
   "typeLabel": "OFFICIAL RECORD · CLASS",
@@ -9,6 +12,7 @@
     "Vũ Công"
   ],
   "lead": "Các dancer đã tồn tại từ những buổi bình minh đầu tiên trên dòng thời gian, từ khi có âm nhạc. Một số người chỉ đơn thuần là biểu diễn, một số khác lại là những đấu sĩ điêu luyện và một số khác nữa lại có năng khiếu về những ma thuật cầu kỳ. Dancer nào cũng nhanh nhẹn, uyển chuyển và vô dùng duyên dáng.",
+  "lead_en": "Dancers have existed since the very dawn of time, ever since music first came into being. Some are simply performers, others are skilled warriors, and still others possess a talent for intricate magic. Every dancer is agile, graceful, and incredibly charming.",
   "summary": "",
   "revision": 1,
   "relationships": [],
@@ -19,17 +23,20 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Các dancer thích sự nhanh nhẹn uyển chuyển hơn là thể hiện sức mạnh võ phu. Một số dancer ủng hộ việc thuyết phục đối phương hơn là chiến đấu. Trong khi đối phương mải mê với sự diêm dúa mỹ lệ của họ thì họ đã uyển chuyển né tránh các cuộc tấn công đồng thời cũng phản công lại một cách mạnh mẽ. Dựa vào việc truyền bí thuật vào các điệu nhảy, họ có thể gây ra hàng loạt hiệu ứng có thể lật ngược tình thế và khiến đối thủ bất ngờ. Mọi dancer đều biết cách thể hiện sao cho được một màn trình diễn cuốn hút, dù cho đó là một màn khiêu vũ hay một hành động lừa đảo. Rất nhiều dancer sống một cuộc đời mưu mô và đầy rẫy những nguy hiểm chính trị, biểu diễn cho hoàng gia và thu thập tình báo.\n\nCũng như không phải người nào hát cũng là \"ca sĩ\", không phải người nào nhảy múa cũng là \"vũ công\". Một số dancer (vũ công) chỉ đơn giản là những người biểu diễn, không được huấn luyện chiến đấu hoặc các kĩ năng khác. Còn những dancer thực thụ lại là những bậc thầy về thao túng và cũng là những chiến binh đầy tao nhã. Chỉ những dancer thực thụ mới có thể theo đuổi những bí mật phức tạp, những kho báu ẩn giấu rây mơ rễ má sâu sắc với chính trị. Một số dancer bị vướng vào mạng lưới rắc rối của âm mưu và sát nhân, thậm chí có những người lại mạnh lên nhờ lối sống đó, say sưa thưởng thức sự thông thạo tuyệt vời của mình với những người giàu có và quyền lực."
+          "text": "Các dancer thích sự nhanh nhẹn uyển chuyển hơn là thể hiện sức mạnh võ phu. Một số dancer ủng hộ việc thuyết phục đối phương hơn là chiến đấu. Trong khi đối phương mải mê với sự diêm dúa mỹ lệ của họ thì họ đã uyển chuyển né tránh các cuộc tấn công đồng thời cũng phản công lại một cách mạnh mẽ. Dựa vào việc truyền bí thuật vào các điệu nhảy, họ có thể gây ra hàng loạt hiệu ứng có thể lật ngược tình thế và khiến đối thủ bất ngờ. Mọi dancer đều biết cách thể hiện sao cho được một màn trình diễn cuốn hút, dù cho đó là một màn khiêu vũ hay một hành động lừa đảo. Rất nhiều dancer sống một cuộc đời mưu mô và đầy rẫy những nguy hiểm chính trị, biểu diễn cho hoàng gia và thu thập tình báo.\n\nCũng như không phải người nào hát cũng là \"ca sĩ\", không phải người nào nhảy múa cũng là \"vũ công\". Một số dancer (vũ công) chỉ đơn giản là những người biểu diễn, không được huấn luyện chiến đấu hoặc các kĩ năng khác. Còn những dancer thực thụ lại là những bậc thầy về thao túng và cũng là những chiến binh đầy tao nhã. Chỉ những dancer thực thụ mới có thể theo đuổi những bí mật phức tạp, những kho báu ẩn giấu rây mơ rễ má sâu sắc với chính trị. Một số dancer bị vướng vào mạng lưới rắc rối của âm mưu và sát nhân, thậm chí có những người lại mạnh lên nhờ lối sống đó, say sưa thưởng thức sự thông thạo tuyệt vời của mình với những người giàu có và quyền lực.",
+          "text_en": "Dancers favor agility and fluidity over displays of brute strength. Some dancers prefer persuasion to combat. While their opponents are distracted by their flamboyant and beautiful movements, dancers gracefully evade attacks and launch powerful counterattacks. By weaving secret techniques into their dances, they can unleash a variety of effects that turn the tide of battle and catch their opponents off guard. Every dancer knows how to deliver a captivating performance, whether through a dance routine or an act of deception. Many dancers lead lives filled with intrigue and political peril, performing for royalty while gathering intelligence.\nJust as not everyone who sings is a “singer,” not everyone who dances is a “dancer.” Some dancers are simply performers, with no training in combat or other skills. True dancers, however, are masters of manipulation and elegant warriors. Only true dancers can pursue intricate secrets and hidden treasures deeply entangled with political affairs. Some dancers become ensnared in tangled webs of intrigue and murder, while others thrive in such an environment, reveling in their extraordinary mastery as they move among the rich and powerful."
         }
       ]
     },
     {
       "id": "sec_1791806490965_oumyzn",
-      "title": "Be a dancer",
+      "title": "Là một vũ công",
+      "title_en": "Be a dancer",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Khi tạo một Dancer, bạn nên trả lời một số câu hỏi sau: Vì sao bạn lại đến với khiêu vũ? Ai đã dạy cho bạn? Người thân hay sư phụ? Học viện hay lớp truyền đạt cá nhân? Bạn có tham gia vào các cuộc tranh đấu chính trị? Bạn có hối hận về điều đó không? Bạn có thích nó không? Bạn có ham muốn tiền tài, danh vọng hay quyền lực không? Bạn sử dụng sự quyến rũ và trí thông minh của mình như thế nào? Vì một lý tưởng cao đẹp hay vì lợi ích bản thân? Bạn có phải là thành viên của một tổ chức nào đó không? Bạn đã là một dancer chuyên nghiệp bao lâu rồi?"
+          "text": "Khi tạo một vũ công, bạn nên trả lời một số câu hỏi sau: Vì sao bạn lại đến với khiêu vũ? Ai đã dạy khiêu vũ cho bạn? Người thân hay sư phụ? Học viện hay lớp truyền đạt cá nhân? Bạn có tham gia vào các cuộc tranh đấu chính trị? Bạn có hối hận về điều đó không? Bạn có thích nó không? Bạn có ham muốn tiền tài, danh vọng hay quyền lực không? Bạn sử dụng sự quyến rũ và trí thông minh của mình vì một lý tưởng cao đẹp hay vì lợi ích bản thân? Bạn có phải là thành viên của một tổ chức nào đó không? Bạn đã là một vũ công chuyên nghiệp bao lâu rồi?",
+          "text_en": "When creating a dancer, you should answer the following questions: Why did you take up dancing? Who taught you to dance? A family member or a mentor? A dance academy or private lessons? Have you been involved in political struggles? Do you regret it? Do you enjoy it? Do you crave wealth, fame, or power? Do you use your charm and intelligence in pursuit of a noble ideal or for your own personal gain? Are you a member of any organization? How long have you been a professional dancer?"
         }
       ]
     },
@@ -39,22 +46,26 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Là một Dancer, bạn được các tính năng sau:"
+          "text": "Là một Vũ Công, bạn được các tính năng sau:",
+          "text_en": "As a Dancer, you gain the following features:"
         },
         {
           "kind": "callout",
           "title": "Hit points",
-          "body": "*Hit Dice:* 1d8 cho mỗi level dancer\n*Hit Points at 1st Level:* 8 + Constitution modifier của bạn\n*Hit Points at Higher Levels:* 1d8 (or 5) + Constitution modifier cho mỗi level dancer cao hơn sau level 1"
+          "body": "*Hit Dice:* 1d8 cho mỗi level dancer\n*Hit Points at 1st Level:* 8 + Constitution modifier của bạn\n*Hit Points at Higher Levels:* 1d8 (or 5) + Constitution modifier cho mỗi level dancer cao hơn sau level 1",
+          "body_en": "*Hit Dice:* 1d8 per Dancer level\n*Hit Points at 1st Level:* 8 + your Constitution modifier\n*Hit Points at Higher Levels:* 1d8 (or 5) + your Constitution modifier per Dancer level after 1st"
         },
         {
           "kind": "callout",
           "title": "Proficiencies",
-          "body": "*Armor:* Null\n*Weapons:* Simple weapons, Finesse Weapons, Fan, Umbrella, Whip\n*Tools:* Disguise kit, Forgery kit\n*Saving Throws:* Dexterity, Charisma\n*Skills:* Chọn 3 trong: Acrobatics, Deception, Perception, Performance, Persuasion, Sleight of Hand, and Stealth."
+          "body": "*Armor:* Null\n*Weapons:* Simple weapons, Finesse Weapons, Fan, Umbrella, Whip\n*Tools:* Disguise kit, Forgery kit\n*Saving Throws:* Dexterity, Charisma\n*Skills:* Chọn 3 trong: Acrobatics, Deception, Perception, Performance, Persuasion, Sleight of Hand, and Stealth.",
+          "body_en": "*Armor:* None\n*Weapons:* Simple weapons, finesse weapons, fan, umbrella, whip\n*Tools:* Disguise kit, forgery kit\n*Saving Throws:* Dexterity, Charisma\n*Skills:* Choose 3 from: Acrobatics, Deception, Perception, Performance, Persuasion, Sleight of Hand, and Stealth."
         },
         {
           "kind": "callout",
           "title": "Equipment",
-          "body": "Ngoài các trang bị được cấp bởi background của bạn, bạn bắt đầu với các trang bị sau:\n- (a) 1 rapier, (b) 1 fan hoặc (c) 1 whip\n- (a) 1 entertainer's pack hoặc (b) 1 burglar's pack\n- (a) fine clothes hoặc (b) costume clothes, 2 daggers"
+          "body": "Ngoài các trang bị được cấp bởi background của bạn, bạn bắt đầu với các trang bị sau:\n- (a) 1 rapier, (b) 1 fan hoặc (c) 1 whip\n- (a) 1 entertainer's pack hoặc (b) 1 burglar's pack\n- (a) fine clothes hoặc (b) costume clothes, 2 daggers",
+          "body_en": "In addition to the equipment granted by your background, you start with the following equipment, in addition to the equipment granted by your background:\n- (a) 1 rapier, (b) 1 fan, or (c) 1 whip\n- (a) 1 entertainer's pack or (b) 1 burglar's pack\n- (a) fine clothes or (b) costume clothes, 2 daggers"
         }
       ]
     },
@@ -64,9 +75,7 @@
       "blocks": [
         {
           "kind": "table",
-          "text": "",
           "title": "The Dancer",
-          "caption": "FM: Fluid Movements | DT: Dance Technique | ASI: Ability Score Improvement",
           "headers": [
             "Level",
             "Proficiency Bonus",
@@ -320,37 +329,48 @@
               "3",
               "2"
             ]
-          ]
+          ],
+          "caption": "FM: Fluid Movements | DT: Dance Technique | ASI: Ability Score Improvement"
         }
       ]
     },
     {
       "id": "sec_1791807450988_wgswe4",
-      "title": "Fluid Movements (Uyển Chuyển Như Nước)",
+      "title": " Uyển Chuyển Như Nước",
+      "title_en": "Fluid Movements",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bắt đầu từ level 1, tốc độ của bạn tăng thêm 5 feet. Ở level 11, tốc độ của bạn tăng thêm 5 feet nữa.\nNgoài ra, Fluid Movements (Uyển Chuyển Như Nước) còn cho bạn một số khả năng đặc biệt. Bạn có thể sử dụng những khả năng này tổng số lần bằng hai lần dex mod của bạn (tối thiểu hai lần). Bạn lấy lại số lần đã sử dụng sau khi hoàn thành long rest. Các khả năng của Uyển Chuyển Như Nước bao gồm:"
+          "text": "Bắt đầu từ level 1, tốc độ của bạn tăng thêm 5 feet. Ở level 11, tốc độ của bạn tăng thêm 5 feet nữa.\nNgoài ra, Fluid Movements (Uyển Chuyển Như Nước) còn cho bạn một số khả năng đặc biệt. Bạn có thể sử dụng những khả năng này tổng số lần bằng hai lần dex mod của bạn (tối thiểu hai lần). Bạn lấy lại số lần đã sử dụng sau khi hoàn thành long rest.\nCác khả năng của Uyển Chuyển Như Nước bao gồm:",
+          "text_en": "Starting at 1st level, your speed increases by 5 feet. At 11th level, your speed increases by another 5 feet.\nIn addition, Fluid Movements grants you several special abilities. You can use these abilities a total number of times equal to twice your Dexterity modifier (minimum of two uses). You regain all expended uses when you finish a long rest.\nThe abilities of Fluid Movements include:"
         },
         {
           "kind": "callout",
-          "title": "Graceful Movement (Di Chuyển Duyên Dáng)",
-          "body": "Bắt đầu từ level 2, khi dùng dash action, bạn có thể dùng thêm bonus action để thực hiện một loạt các động tác nhào lộn và nhảy múa phức tạp, khiến OA nhắm vào bạn bị dis và cho phép bạn bỏ qua địa hình khó khăn như thể bạn đã ở trên địa hình bình thường. Bắt đầu từ level 11, bạn có thể áp dụng tính năng này để leo trèo cũng như di chuyển trên các bề mặt thẳng đứng mà không bị ngã trong quá trình di chuyển."
+          "title": "Di Chuyển Duyên Dáng",
+          "body": "Bắt đầu từ level 2, khi dùng dash action, bạn có thể dùng thêm bonus action để thực hiện một loạt các động tác nhào lộn và nhảy múa phức tạp, khiến OA nhắm vào bạn bị dis và cho phép bạn bỏ qua địa hình khó khăn như thể bạn đã ở trên địa hình bình thường. Bắt đầu từ level 11, bạn có thể áp dụng tính năng này để leo trèo cũng như di chuyển trên các bề mặt thẳng đứng mà không bị ngã trong quá trình di chuyển.",
+          "title_en": "Graceful Movement",
+          "body_en": "Starting at 2nd level, when you take the Dash action, you can use a bonus action to perform a series of complex acrobatic maneuvers and dance moves. Until the end of your turn, opportunity attacks against you are made with disadvantage, and you can move through difficult terrain as if it were normal terrain.\nStarting at 11th level, you can also use this feature to climb and move across vertical surfaces without falling during the movement."
         },
         {
           "kind": "callout",
-          "title": "Evasive Counterstrike (Túc Thủ Phản Công)",
-          "body": "Bắt đầu từ level 3, khi một sinh vật trong vòng 5 feet tính từ bạn tấn công, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh đó được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển lùi 10 feet so với kẻ tấn công mà không bị OA. Bắt đầu từ level 9, bạn có thể chọn thực hiện một đòn tấn công chống lại sinh vật khiến bạn đang phải lùi lại. Tính năng này không có tác dụng với các đòn tấn công chí mạng (crit to hit)."
+          "title": "Túc Thủ Phản Công",
+          "body": "Bắt đầu từ level 3, khi một sinh vật trong vòng 5 feet tính từ bạn tấn công, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh đó được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển lùi 10 feet so với kẻ tấn công mà không bị OA. Bắt đầu từ level 9, bạn có thể chọn thực hiện một đòn tấn công chống lại sinh vật khiến bạn đang phải lùi lại. Tính năng này không có tác dụng với các đòn tấn công chí mạng (crit to hit).",
+          "title_en": "Evasive Counterstrike",
+          "body_en": "Starting at 3rd level, when a creature within 5 feet of you makes an attack against you, you can use your reaction to make a Dexterity saving throw against a DC equal to 8 + the target’s attack modifier for its first attack. On a successful save, the attack misses as you deftly dodge out of the way. After resolving the damage from any subsequent attacks, if any, you can move 10 feet away from the attacker without provoking opportunity attacks.\nStarting at 9th level, you can choose to make an attack against the creature that forced you to retreat.\nThis feature has no effect against critical hits."
         },
         {
           "kind": "callout",
-          "title": "Graceful Response (Ứng Biến Linh Hoạt)",
-          "body": "Bắt đầu từ level 5, khi một sinh vật sử dụng đòn tấn công tầm xa chống lại bạn, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển 10 feet sang một bên theo bất kỳ hướng nào. Bắt đầu từ level 11, khi sử dụng khả năng này, bạn có thể cùng lúc cố gắng bắt một thứ phi phép thuật tấn công bạn bằng một cái dex save với DC 12 + dex mod của đối thủ và ném trả bằng một đòn tấn công tầm xa (ranged attack) về phía chúng, với tầm tấn công là khoảng cách giữa bạn và kẻ đã ra đòn. Bất kỳ thứ gì được sử dụng theo cách này đều được tính là vũ khí của Dancer."
+          "title": "Ứng Biến Linh Hoạt",
+          "body": "Bắt đầu từ level 5, khi một sinh vật sử dụng đòn tấn công tầm xa chống lại bạn, bạn có thể sử dụng reaction của mình để dex save với DC 8 + to hit mod của mục tiêu với đòn đánh đầu tiên. Khi thành công, đòn đánh được xem như đánh trượt vì bạn đã kịp thời né được, sau khi nhận sát thương của các đòn tiếp theo nếu có, bạn có thể di chuyển 10 feet sang một bên theo bất kỳ hướng nào. Bắt đầu từ level 11, khi sử dụng khả năng này, bạn có thể cùng lúc cố gắng bắt một thứ phi phép thuật tấn công bạn bằng một cái dex save với DC 12 + dex mod của đối thủ và ném trả bằng một đòn tấn công tầm xa (ranged attack) về phía chúng, với tầm tấn công là khoảng cách giữa bạn và kẻ đã ra đòn. Bất kỳ thứ gì được sử dụng theo cách này đều được tính là vũ khí của Dancer.",
+          "title_en": "Graceful Response",
+          "body_en": "Starting at 5th level, when a creature makes a ranged attack against you, you can use your reaction to make a Dexterity saving throw against a DC equal to 8 + the target’s attack modifier for its first attack. On a successful save, the attack misses as you deftly dodge out of the way. After resolving the damage from any subsequent attacks, if any, you can move 10 feet in any direction.\nStarting at 11th level, when using this ability, you can also attempt to catch a nonmagical object used to attack you by making a Dexterity saving throw against a DC equal to 12 + the attacker’s Dexterity modifier. On a success, you catch the object and throw it back at the attacker as a ranged attack, with a range equal to the distance between you and the attacker. Any object used in this manner counts as a Dancer weapon."
         },
         {
           "kind": "callout",
-          "title": "Seize the Opportunity (Nắm Bắt Cơ Hội)",
-          "body": "Bắt đầu từ level 9, như một reaction, đối với một đồng minh trong vòng 30 feet bị nhắm mục tiêu bởi một cuộc tấn công cận chiến, bạn có thể di chuyển một nửa speed của mình về phía kẻ đang tấn công họ. Nếu bạn dừng lại trong phạm vi cận chiến của kẻ tấn công, bạn sẽ có adv trong tất cả các cuộc tấn công cận chiến ở turn tiếp theo của mình chống lại sinh vật đó. Bắt đầu từ cấp 11, khi thực hiện khả năng này, bạn có adv trong tất cả các attack (bằng vũ khí hoặc/và phép thuật) chống lại kẻ tấn công cho đến cuối lượt tiếp theo ngay cả khi bạn không dừng lại trong phạm vi cận chiến của kẻ đó."
+          "title": " Nắm Bắt Cơ Hội",
+          "body": "Bắt đầu từ level 9, như một reaction, đối với một đồng minh trong vòng 30 feet bị nhắm mục tiêu bởi một cuộc tấn công cận chiến, bạn có thể di chuyển một nửa speed của mình về phía kẻ đang tấn công họ. Nếu bạn dừng lại trong phạm vi cận chiến của kẻ tấn công, bạn sẽ có adv trong tất cả các cuộc tấn công cận chiến ở turn tiếp theo của mình chống lại sinh vật đó. Bắt đầu từ cấp 11, khi thực hiện khả năng này, bạn có adv trong tất cả các attack (bằng vũ khí hoặc/và phép thuật) chống lại kẻ tấn công cho đến cuối lượt tiếp theo ngay cả khi bạn không dừng lại trong phạm vi cận chiến của kẻ đó.",
+          "title_en": "Seize the Opportunity",
+          "body_en": "Starting at 9th level, when an ally within 30 feet of you is targeted by a melee attack, you can use your reaction to move up to half your speed toward the attacker. If you end this movement within the attacker’s melee reach, you have advantage on all melee attacks against that creature during your next turn.\nStarting at 11th level, when you use this ability, you have advantage on all attacks against the attacker, whether made with weapons or spells, until the end of your next turn, even if you do not end your movement within the attacker’s melee reach."
         }
       ]
     },
@@ -360,62 +380,75 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Bắt đầu từ level 1, bạn học được cách di chuyển cơ thể của mình theo một nhịp điệu phức tạp, tạo ra những kỳ tích xung quanh bạn. Phép thuật của bạn là một phần trong màn trình diễn."
+          "text": "Bắt đầu từ level 1, bạn học được cách di chuyển cơ thể của mình theo một nhịp điệu phức tạp, tạo ra những kỳ tích xung quanh bạn. Phép thuật của bạn là một phần trong màn trình diễn.",
+          "text_en": "Starting at 1st level, you learn to move your body to a complex rhythm, creating wondrous effects all around you. Your magic becomes part of your performance."
         },
         {
           "kind": "callout",
           "title": "Cantrips",
-          "body": "Ở level thứ 1, bạn biết hai cantrip mà bạn chọn từ spell list của Dancer. Bạn học thêm các điệu nhảy của Dancer mà bạn chọn ở các level cao hơn, như được hiển thị trong cột Cantrips đã biết của bảng Dancer."
+          "body": "Ở level thứ 1, bạn biết hai cantrip mà bạn chọn từ spell list của Dancer. Bạn học thêm các điệu nhảy của Dancer mà bạn chọn ở các level cao hơn, như được hiển thị trong cột Cantrips đã biết của bảng Dancer.",
+          "body_en": "At 1st level, you know two cantrips of your choice from the Dancer spell list. You learn additional Dancer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Dancer table."
         },
         {
           "kind": "callout",
           "title": "Spell slots",
-          "body": "Bảng Dancer cho biết bạn có bao nhiêu spell slots để sử dụng phép thuật của mình từ level 1 trở lên. Để sử dụng một trong những phép thuật này, bạn phải sử dụng một spell slots có level của phép thuật đó trở lên. Bạn lấy lại tất cả các spell slots đã sử dụng sau khi hoàn thành long rest. Ví dụ: nếu bạn có spell Jump level 1 và có sẵn spell slots cấp 1 và level 2, bạn có thể sử dụng Jump bằng một trong hai spell slots trên."
+          "body": "Bảng Dancer cho biết bạn có bao nhiêu spell slots để sử dụng phép thuật của mình từ level 1 trở lên. Để sử dụng một trong những phép thuật này, bạn phải sử dụng một spell slots có level của phép thuật đó trở lên. Bạn lấy lại tất cả các spell slots đã sử dụng sau khi hoàn thành long rest. Ví dụ: nếu bạn có spell Jump level 1 và có sẵn spell slots cấp 1 và level 2, bạn có thể sử dụng Jump bằng một trong hai spell slots trên.",
+          "body_en": "The Dancer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a spell slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.\nFor example, if you know the 1st-level spell Jump and have both 1st- and 2nd-level spell slots available, you can cast Jump using either spell slot."
         },
         {
           "kind": "callout",
           "title": "Spell knows ở level 1 trở lên",
-          "body": "Bạn biết 3 spell level 1 mà bạn chọn từ spell list của Dancer. Cột Spell đã biết của bảng Dancer hiển thị khi bạn học thêm các phép thuật Dancer mà bạn chọn. Mỗi phép thuật trong số này phải ở level mà bạn có các spell slots, như được hiển thị trên bảng. Chẳng hạn, khi bạn đạt level 5 trong lưu phái này, bạn có thể học một spell mới ở level 1 hoặc level 2. Ngoài ra, mỗi khi lên một level Dancer, bạn có thể chọn một trong những spell của Dancer mà bạn biết và thay thế nó bằng một spell khác từ spell list của Dancer, spell này cũng phải ở level mà bạn có spell slots."
+          "body": "Bạn biết 3 spell level 1 mà bạn chọn từ spell list của Dancer.\nCột Spell đã biết của bảng Dancer hiển thị khi bạn học thêm các phép thuật Dancer mà bạn chọn. Mỗi phép thuật trong số này phải ở level mà bạn có các spell slots, như được hiển thị trên bảng. Chẳng hạn, khi bạn đạt level 5 trong lưu phái này, bạn có thể học một spell mới ở level 1 hoặc level 2.\nNgoài ra, mỗi khi lên một level Dancer, bạn có thể chọn một trong những spell của Dancer mà bạn biết và thay thế nó bằng một spell khác từ spell list của Dancer, spell này cũng phải ở level mà bạn có spell slots.",
+          "title_en": "Spells Known of 1st Level and Higher",
+          "body_en": "You know three 1st-level spells of your choice from the Dancer spell list.\nThe Spells Known column of the Dancer table shows when you learn additional Dancer spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For example, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.\nAdditionally, whenever you gain a Dancer level, you can choose one of the Dancer spells you know and replace it with another spell from the Dancer spell list. The new spell must also be of a level for which you have spell slots."
         },
         {
           "kind": "callout",
           "title": "Spellcasting ability",
-          "body": "Charisma là nội tại phép thuật cho các spell Dancer của bạn. Phép thuật của bạn đến từ chuyển động và tâm hồn mà bạn thể hiện trong màn trình diễn của mình. Bạn sử dụng Charisma của mình bất cứ khi nào một spell đề cập đến spellcasting ability. Ngoài ra, bạn sử dụng Charisma Modifier của mình khi thiết lập DC saving throw cho spell Dancer mà bạn sử dụng và khi thực hiện một đòn tấn công bằng một spell.\n\n*Spell save DC* = 8 + proficiency bonus + Charisma modifier.\n\n*Spell attack modifier* = proficiency bonus + Charisma modifier."
+          "body": "Charisma là nội tại phép thuật cho các spell Dancer của bạn. Phép thuật của bạn đến từ chuyển động và tâm hồn mà bạn thể hiện trong màn trình diễn của mình. Bạn sử dụng Charisma của mình bất cứ khi nào một spell đề cập đến spellcasting ability. Ngoài ra, bạn sử dụng Charisma Modifier của mình khi thiết lập DC saving throw cho spell Dancer mà bạn sử dụng và khi thực hiện một đòn tấn công bằng một spell.\n\n*Spell save DC* = 8 + proficiency bonus + Charisma modifier.\n\n*Spell attack modifier* = proficiency bonus + Charisma modifier.",
+          "body_en": "Charisma is your spellcasting ability for your Dancer spells. Your magic comes from the movement and spirit you express through your performance. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Dancer spell you cast and when making an attack roll with a spell.\n\n*Spell save DC* = 8 + proficiency bonus + Charisma modifier.\n\n*Spell attack modifier* = proficiency bonus + Charisma modifier."
         },
         {
           "kind": "callout",
           "title": "Spellcasting Focus",
-          "body": "Bằng vào khả năng biểu diễn và kỹ thuật tuyệt vời của mình, đối với một Dancer, chỉ trừ trường hợp trên người không còn trang phục hoặc đồ vật gì, nếu không mọi thứ đều có thể coi là trang phục biểu diễn. Bạn có thể sử dụng trang phục biểu diễn của mình như spellcasting focus cho những spell của Dancer và đáp ứng các yêu cầu về thành phần hoặc nguyên liệu thi pháp ngay cả khi bạn có vũ khí hoặc khiên trên cả hai tay."
+          "body": "Bằng vào khả năng biểu diễn và kỹ thuật tuyệt vời của mình, đối với một Dancer, chỉ trừ trường hợp trên người không còn trang phục hoặc đồ vật gì, nếu không mọi thứ đều có thể coi là trang phục biểu diễn. Bạn có thể sử dụng trang phục biểu diễn của mình như spellcasting focus cho những spell của Dancer và đáp ứng các yêu cầu về thành phần hoặc nguyên liệu thi pháp ngay cả khi bạn có vũ khí hoặc khiên trên cả hai tay.",
+          "body_en": "Thanks to your exceptional performance skills and technique, almost anything can be considered a performance costume to a Dancer, unless you are completely unclothed and have no items on your person. You can use your performance attire as a spellcasting focus for your Dancer spells, allowing you to fulfill their spellcasting component requirements, including material components, even when you are holding weapons or a shield in both hands."
         }
       ]
     },
     {
       "id": "sec_1791807591997_ifp8ky",
-      "title": "Dance Technique (Vũ Kĩ)",
+      "title": "Vũ Kĩ",
+      "title_en": "Dance Technique",
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "Từ level 1, mỗi Dancer chọn cho mình một kỹ thuật để tạo nên phong cách đặc trưng. Có người là những kiếm sĩ nguy hiểm, có người lại là những bậc thầy mê hoặc. Tất cả các Dancer đều là mối đe dọa cho đối thủ của họ, và tất nhiên không phải mọi Dancer đều có tài năng và sức mạnh như nhau."
+          "text": "Từ level 1, mỗi Dancer chọn cho mình một kỹ thuật để tạo nên phong cách đặc trưng. Có người là những kiếm sĩ nguy hiểm, có người lại là những bậc thầy mê hoặc. Tất cả các Dancer đều là mối đe dọa cho đối thủ của họ, và tất nhiên không phải mọi Dancer đều có tài năng và sức mạnh như nhau.",
+          "text_en": "Starting at 1st level, each Dancer chooses a technique to develop their own distinctive style. Some become deadly swordsmen, while others are masters of enchantment. All Dancers pose a threat to their opponents, though not all possess the same degree of talent and power."
         },
         {
           "kind": "callout",
-          "title": "Stream of Enchantment (Dòng Mỵ Vũ)",
-          "body": ""
+          "title": "Dòng Mỵ Vũ",
+          "body": "",
+          "title_en": "Stream of Enchantment"
         },
         {
           "kind": "callout",
-          "title": "Stream of Emblem (Dòng Hội Huy)",
-          "body": ""
+          "title": "Dòng Hội Huy",
+          "body": "",
+          "title_en": "Stream of Emblem"
         },
         {
           "kind": "callout",
-          "title": "Stream of Blade (Dòng Kiếm Vũ)",
-          "body": ""
+          "title": "Dòng Kiếm Vũ",
+          "body": "",
+          "title_en": "Stream of Blade"
         },
         {
           "kind": "callout",
-          "title": "Stream of Idol (Dòng Thần Tượng)",
-          "body": ""
+          "title": "Dòng Thần Tượng",
+          "body": "",
+          "title_en": "Stream of Idol"
         }
       ]
     },
@@ -436,7 +469,8 @@
         {
           "kind": "callout",
           "title": "2nd Level",
-          "body": "Calm Emotions, Suggestion, Hold Person, Enthrall, Enlarge Reduce, Blur, Mirror Image, Alter Self, Enhance Ability, Levitate, Spider Climb, Misty Step, Arcane Lock, Pass Without Trace, Cloud of Daggers, Thôi Miên, Shield of Solidarity (Đồng Tâm Khiên)."
+          "body": "Calm Emotions, Suggestion, Hold Person, Enthrall, Enlarge Reduce, Blur, Mirror Image, Alter Self, Enhance Ability, Levitate, Spider Climb, Misty Step, Arcane Lock, Pass Without Trace, Cloud of Daggers, Thôi Miên, Đồng Tâm Khiên.",
+          "body_en": "Calm Emotions, Suggestion, Hold Person, Enthrall, Enlarge Reduce, Blur, Mirror Image, Alter Self, Enhance Ability, Levitate, Spider Climb, Misty Step, Arcane Lock, Pass Without Trace, Cloud of Daggers, Thôi Miên, Shield of Solidarity."
         },
         {
           "kind": "callout",
@@ -461,7 +495,8 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "*Prerequisites:* Để multiclass với Dancer, bạn cần có điều kiện tiên quyết là Charisma 13.\n\n*Spellcasting Type:* 1/2 caster.\n\n*Proficiencies:* Khi bạn multiclass với Dancer hoặc ngược lại, bạn có proficiencies với: Shortswords, rapiers, scimitars, whips, umbrella. Một Dancer multiclass không thể sử dụng Fan weapon."
+          "text": "*Prerequisites:* Để multiclass với Dancer, bạn cần có điều kiện tiên quyết là Charisma 13.\n\n*Spellcasting Type:* 1/2 caster.\n\n*Proficiencies:* Khi bạn multiclass với Dancer hoặc ngược lại, bạn có proficiencies với: Shortswords, rapiers, scimitars, whips, umbrella. Một Dancer multiclass không thể sử dụng Fan weapon.",
+          "text_en": "*Prerequisites:* To multiclass as a Dancer, you must have a Charisma score of 13.\n\n*Spellcasting Type:* Half-caster.\n\n*Proficiencies:* When you multiclass into or out of Dancer, you gain proficiency with shortswords, rapiers, scimitars, whips, and umbrellas. A multiclass Dancer cannot use fan weapons."
         }
       ]
     }
