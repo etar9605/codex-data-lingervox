@@ -1,13 +1,13 @@
 {
+  "operation": "update",
   "recordId": "record_dong_tam_khien",
   "title": "Đồng Tâm Khiên",
+  "title_en": "Shield of Solidarity",
   "subtitle": "Etar's Manuscript",
   "category": "spells",
   "categoryName": "Ma Thuật",
   "typeLabel": "OFFICIAL RECORD · SPELL",
-  "aliases": [
-    "Shield of Solidarity"
-  ],
+  "aliases": [],
   "lead": "",
   "summary": "",
   "revision": 1,
@@ -19,11 +19,13 @@
       "blocks": [
         {
           "kind": "paragraph",
-          "text": "*2nd Level Abjuration. (Vô nhân, Vũ Công, Dòng Hội Huy)*"
+          "text": "*2nd Level Abjuration. (Vô nhân, Vũ Công, Dòng Hội Huy)*",
+          "text_en": "*2nd Level Abjuration. (Voidwalker, Dancer, Stream of Emblem)*"
         },
         {
           "kind": "paragraph",
-          "text": "**Casting time:** 1 reaction (khi creature trong 30 feet bị trúng đòn)\n**Range:** 30 ft\n**Components:** V\n**Duration:** Instantaneous\n**Description:** Khi một creature trong 30 feet bị trúng đòn tấn công, bạn dùng reaction để chuyển hướng một phần sát thương. Creature đó nhận nửa damage, phần còn lại bạn nhận thay.\n\nNếu creature đó đang dưới 50% HP, bạn chỉ chịu 1/3 của damage ban đầu.\nNếu creature đó đang dưới 25% HP, bạn phải chịu 1/2 của damage ban đầu đồng thời hồi lại cho creature đó số HP bằng Charisma modifier của bạn."
+          "text": "**Casting time:** 1 reaction (khi creature trong 30 feet bị trúng đòn)\n**Range:** 30 ft\n**Components:** V\n**Duration:** Instantaneous\n**Description:** Khi một creature trong 30 feet bị trúng đòn tấn công, bạn dùng reaction để chuyển hướng một phần sát thương. Creature đó nhận nửa damage, phần còn lại bạn nhận thay.\n- Nếu creature đó đang dưới 50% HP, bạn chỉ chịu 1/3 của damage ban đầu.\n- Nếu creature đó đang dưới 25% HP, bạn phải chịu 1/2 của damage ban đầu đồng thời hồi lại cho creature đó số HP bằng Charisma modifier của bạn.",
+          "text_en": "**Casting time:** 1 reaction (when a creature within 30 feet is hit by an attack)\n**Range:** 30 ft\n**Components:** V\n**Duration:** Instantaneous\n**Description:** When a creature within 30 feet is hit by an attack, you use your reaction to redirect some of the damage. The creature takes half the damage, and you take the remaining damage in its place.\n- If the creature is below 50% of its maximum HP, you take only one-third of the original damage.\n- If the creature is below 25% of its maximum HP, you take half of the original damage and restore HP to that creature equal to your Charisma modifier."
         }
       ]
     }
