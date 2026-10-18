@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.1.0",
-  "publishedAt": "2026-10-16T08:00:00Z",
+  "latestVersion": "2.1.1",
+  "publishedAt": "2026-10-18T11:47:03.155Z",
   "title": "Cập nhật Điển Tịch Mới",
-  "description": "Thay đổi cấu trúc dữ liệu.",
-  "packageUrl": "./update-data-v2.1.0.json",
+  "description": "Bản tổng hợp toàn bộ 58 điển tịch thế giới.",
+  "packageUrl": "./update-data-latest.json",
   "checksum": "custom"
 }
