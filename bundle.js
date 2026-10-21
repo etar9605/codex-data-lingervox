@@ -1,52 +1,76 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = path.join(__dirname, 'data');
-const manifestPath = path.join(__dirname, 'manifest.json');
-const outputPath = path.join(__dirname, 'update-data-latest.json');
-
-// 1. Đọc manifest hiện tại để lấy số version
-let manifest = {
-  latestVersion: "2.1.0",
-  publishedAt: new Date().toISOString(),
-  title: "Cập nhật Điển Tịch Mới",
-  description: "Bản tổng hợp dữ liệu toàn bộ điển tịch mới nhất.",
-  packageUrl: "./update-data-latest.json",
-  checksum: "custom"
-};
+const manifestPath = 'manifest.json';
+let currentVersion = '2.1.0';
 
 if (fs.existsSync(manifestPath)) {
   try {
-    manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
-  } catch (e) {}
-}
-
-// 2. Tự động tăng version (ví dụ: 2.1.0 -> 2.1.1)
-const vParts = String(manifest.latestVersion || "2.1.0").split('.').map(Number);
-vParts[vParts.length - 1] = (vParts[vParts.length - 1] || 0) + 1;
-const newVersion = vParts.join('.');
-
-// 3. Đọc tất cả các file điển tịch trong thư mục data/
-const files = fs.readdirSync(dataDir).filter(f => f.endsWith('.json'));
-const allRecords = [];
-
-for (const file of files) {
-  try {
-    const content = JSON.parse(fs.readFileSync(path.join(dataDir, file), 'utf8'));
-    allRecords.push(content);
-  } catch (err) {
-    console.warn(`Lỗi đọc file ${file}:`, err.message);
+    const oldManifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+    currentVersion = String(oldManifest.latestVersion || '2.1.0').trim();
+  } catch (e) {
+    console.log('Không đọc được manifest cũ, dùng mặc định 2.1.0');
   }
 }
 
-// 4. Ghi file gộp update-data-latest.json
-fs.writeFileSync(outputPath, JSON.stringify(allRecords, null, 2), 'utf8');
+const parts = currentVersion.split('.');
+while (parts.length < 3) parts.push('0');
+parts[2] = parseInt(parts[2] || 0, 10) + 1;
+const newVersion = parts.join('.');
+const releasedAt = new Date().toISOString();
+const packageId = `wu_github_v${newVersion}_${Date.now()}`;
 
-// 5. Cập nhật lại manifest.json trỏ vào file gộp
-manifest.latestVersion = newVersion;
-manifest.publishedAt = new Date().toISOString();
-manifest.packageUrl = "./update-data-latest.json";
-manifest.description = `Bản tổng hợp toàn bộ ${allRecords.length} điển tịch thế giới.`;
-fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+const dataDir = path.join(__dirname, 'data');
+let allRecords = [];
 
-console.log(`✅ Đã gom ${allRecords.length} điển tịch vào update-data-latest.json (Phiên bản mới: v${newVersion})`);
+if (fs.existsSync(dataDir)) {
+  const files = fs
+    .readdirSync(dataDir)
+    .filter((file) => file.endsWith('.json'))
+    .sort();
+
+  files.forEach((file) => {
+    try {
+      const content = fs.readFileSync(path.join(dataDir, file), 'utf8');
+      const parsed = JSON.parse(content);
+      if (Array.isArray(parsed)) {
+        allRecords = allRecords.concat(parsed);
+      } else if (parsed && typeof parsed === 'object') {
+        allRecords.push({
+          ...parsed,
+          operation: parsed.operation || 'update',
+        });
+      }
+    } catch (err) {
+      console.error(`Lỗi đọc file ${file}:`, err.message);
+    }
+  });
+}
+
+const updatePackage = {
+  format: 'lingervox-world-update',
+  packageId: packageId,
+  toVersion: newVersion,
+  title: `Bản Cập Nhật Điển Tịch v${newVersion}`,
+  description: 'Cập nhật dữ liệu Điển tịch từ GitHub',
+  createdAt: releasedAt,
+  signature: 'LVX-AUTO-GEN-SIG',
+  checksum: 'auto',
+  changes: allRecords,
+};
+
+fs.writeFileSync('update-data-latest.json', JSON.stringify(updatePackage, null, 2));
+
+const newManifest = {
+  format: 'lingervox-world-manifest',
+  packageId: packageId,
+  latestVersion: newVersion,
+  title: `Bản Cập Nhật Điển Tịch Tự Động v${newVersion}`,
+  description: 'Cập nhật từ GitHub',
+  packageUrl: `./update-data-latest.json?v=${newVersion}`,
+  releasedAt: releasedAt,
+  changeCount: allRecords.length,
+};
+
+fs.writeFileSync(manifestPath, JSON.stringify(newManifest, null, 2));
+console.log(`Đã đóng gói thành công ${allRecords.length} mục lên phiên bản ${newVersion}!`);
