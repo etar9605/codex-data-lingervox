@@ -1,7 +1,8 @@
 {
   "operation": "update",
   "recordId": "record_stream_of_blade",
-  "title": "Stream of Blade (Dòng Kiếm Vũ)",
+  "title": "Dòng Kiếm Vũ",
+  "title_en": "Stream of Blade",
   "subtitle": "",
   "category": "subclasses",
   "categoryName": "Vũ Kỹ",
