@@ -2330,7 +2330,8 @@
   {
     "operation": "update",
     "recordId": "record_stream_of_blade",
-    "title": "Stream of Blade (Dòng Kiếm Vũ)",
+    "title": "Dòng Kiếm Vũ",
+    "title_en": "Stream of Blade",
     "subtitle": "",
     "category": "subclasses",
     "categoryName": "Vũ Kỹ",
@@ -2430,7 +2431,8 @@
   {
     "operation": "update",
     "recordId": "record_stream_of_emblem",
-    "title": "Stream of Emblem (Dòng Hội Huy)",
+    "title": "Dòng Hội Huy",
+    "title_en": "Stream of Emblem",
     "subtitle": "",
     "category": "subclasses",
     "categoryName": "Vũ Kỹ",
