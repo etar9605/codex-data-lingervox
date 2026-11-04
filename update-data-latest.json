@@ -1,10 +1,10 @@
 {
   "format": "lingervox-world-update",
-  "packageId": "wu_github_v2.1.4_1793787598876",
-  "toVersion": "2.1.4",
-  "title": "Bản Cập Nhật Điển Tịch v2.1.4",
+  "packageId": "wu_github_v2.1.5_1793788048087",
+  "toVersion": "2.1.5",
+  "title": "Bản Cập Nhật Điển Tịch v2.1.5",
   "description": "Cập nhật dữ liệu Điển tịch từ GitHub",
-  "createdAt": "2026-11-04T10:19:58.875Z",
+  "createdAt": "2026-11-04T10:27:28.087Z",
   "signature": "LVX-AUTO-GEN-SIG",
   "checksum": "auto",
   "changes": [
@@ -2301,7 +2301,7 @@
             {
               "kind": "callout",
               "title": "Credits",
-              "body": "Ai đó từng có biệt danh discord là Catt"
+              "body": "Một người bạn từng có biệt danh discord là Catt"
             }
           ]
         }
